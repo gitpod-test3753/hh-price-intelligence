@@ -1,0 +1,9 @@
+services:
+  ocr-tesseract:
+    build:
+      context: .
+      dockerfile: docker/ocr-tesseract.Dockerfile
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["python", "scripts/run_oss_ocr_benchmark.py"]

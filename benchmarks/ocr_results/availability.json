@@ -1,0 +1,22 @@
+[
+  {
+    "engine": "tesseract",
+    "available": true,
+    "reason": "system binary + pytesseract"
+  },
+  {
+    "engine": "paddleocr",
+    "available": false,
+    "reason": "PP-OCRv5; install compatible PaddlePaddle runtime"
+  },
+  {
+    "engine": "rapidocr",
+    "available": false,
+    "reason": "ONNX/OpenVINO deployment of Paddle-derived models"
+  },
+  {
+    "engine": "easyocr",
+    "available": false,
+    "reason": "PyTorch; supports fa+en"
+  }
+]

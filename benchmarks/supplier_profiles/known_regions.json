@@ -1,0 +1,26 @@
+{
+  "1000015278.jpg": {
+    "supplier_id": "fardadhamrah",
+    "regions": {
+      "xiaomi": [0.2646, 0.1406, 0.6878, 0.7656]
+    }
+  },
+  "1000015271.jpg": {
+    "supplier_id": "ani_mob",
+    "regions": {
+      "xiaomi": [0.0000, 0.1200, 0.2700, 0.8200]
+    }
+  },
+  "1000015279.jpg": {
+    "supplier_id": "alerasolshop",
+    "regions": {
+      "xiaomi": [0.0000, 0.0600, 0.2850, 0.8600]
+    }
+  },
+  "1000015276.jpg": {
+    "supplier_id": "mobile_hitech",
+    "regions": {
+      "xiaomi": [0.0000, 0.1050, 0.3350, 0.8000]
+    }
+  }
+}

@@ -1,0 +1,5816 @@
+{
+  "image_id": "1000015278.jpg",
+  "supplier_id": "fardadhamrah",
+  "region": "xiaomi",
+  "bbox": [
+    150,
+    180,
+    390,
+    980
+  ],
+  "engine": "tesseract",
+  "pass_id": "mixed_sparse",
+  "raw_text": "3 ۱ ۱ 3 -09037070235-090370702 _2۸0۱1 1) Promax! Gold مس 15۲ 112 0 me Soy 1? Pro mmx 3 Black = plus 12512 0 Note 15 nite 3 پارن‎ 16 Pro max 3 Nite 4 oy <<. 16 Peo max] Bleck Note 17 706 ot oy 16 Pro max! 115000-116 ۰ ۵ Note 15 pro 12512 40 پدرن که et‏ 16 Pro max! 900 12512 40 Note 15 پدرن که She‏ 16 ۳۵۵۵ 94500-95000 Blue Note 15 pro 27266 پترن که . te‏ 16 Pro max 2 5500 | Black 000 Nete 15 بترن که ck‏ 17 4 80000-80500 Black Note 15 W256 te Sy 17 pro 2G Note 15 W256 ck 4 دزن‎ 80000-80500 Purple 37 80000-80500 Green Note (5 B26 bet # پدرن‎ 17 2566 OW 80000-80500 Biue Mote 15 4 چدرن که مه 17 25446 Cy Notet4Pro * $1216 6۵ ch et 8 :16 مصمجیا میا 80000-80500 Note 148 8/256 0 toe شرکتی.‎ 353736 80000-80500 Black Note 145 8/256 46 ck شرعتی‎ 17 Promax 5 Note 145 8/256 4G vite ay 1? Promax $ te SEE cs Dig 37 Promax ۶ 75500-76000) Green Note 14 254/5 4G 6 ۱ Black کد‎ 17 Promax 2 Note 14 25678 4G 76000-76500 Purple Bive کد‎ ory 17 Promax 2 76000-7650\" Gold Note 14 25616 4G ry. Soy 17 Promax 2 ماع 75000-75500 Note 14 2568 4G پنون که ۲و 17 Promax 2 75000-75500 Green Note 14 2566/8 4G ck vietnam 00 2 ده 17 دا 414 Not p vietnam 17 Promax 2 67000-67500 Recent 15. yiets 17 Pro 256 9 Redmi 15 8/256 17 Pre 256 0 10-67: va! 17 Pro 6 p Redmi 15C 2568 40 § 8000-58500 y vietaen 17 Pro 254 6 foo 46 58000-58500 15¢ ۵ج 17 Pro 6 ۵ ۲ ۲ 17266 OV ye vietnam 17286 OW 58500-59000 Siue: evietnar 16 pro 128 اه شا Redmi 15C 256/8 ۱4۵ 58500-000 سیخ 36256. OWA اد - vietnam 26 3286 6 Redmi 146 256/8 40 ۰ 54000-54500 Green ay ore ۱ vietnam Alepods pr Redmi 146 2568 4G 54000-54500 ‘watch serh 66000-66500 Black Redmi 13x 256/8 4G Vietnam watch ser 66000-66500 Gold Redeni 13x 2546/8 46 ite Vietnam watch serb 00 000 Redeni 13x 2568/8 4G 9\" watch se 3 PES Redeni 1: er Vietnam: watch se 3 00 نو( Redeni 13 128/6 nfo 46 trary 44000-44500 Blue Reodmi ۸5 4/128 4G 9 ۹ 44000-44500 Green Redmi AS 4/1278 4G etnam 44000-44500 Black Redmi AS 4/178 4G ۲ Vietnam 12 pas 7 39000-39500 50 Redeni AS 3/64 4G 12 phos 8/2 39000-39500 ۵ Redei AS 264 4G fetnam C71 8/256 Redmi ۸5 3064 4G ۱ ۹ Note 50 4/1 Black 0 0 D000 Al 4128 4G Note Gx 3 t Vietnam SS a — : Vietnam Poco 28 Pro 51212 506 = 178000-179 Green etn Homer 609 } ۸ 9 ] X8 Pro 542/32 $G 20 india Honor 6001 ۱ vietnam Menor (00 | Menor 400 vietnam Henor 400 Poco M7 8/256 4G ¢ Vietnam Honor 200 | Chack Honor 4 vy. 9 rus Honor 4 Beek veel و spots OCHS 8250646 ۰... | Pos Honor x24! Purple tee Vietnam Honor x76 1 Honor 9 1 58.49 71 1۸ (> 4 44500-45000 Blue Poco 671 4/128 4G Vietnam 6 6/128 44500-45000 ۵ Poco 671 4/128 46 nam ۳4 ۳۰/2۶ 000 00- Poco C74 4/128 4G | Vietraen 9500-40000 Gold || x7e 6/128 39500-40000 Black | Homer ۱ holet Bi Honor X5c 4 ireen Honor play’ Rare See",
+  "tokens": [
+    {
+      "text": "3",
+      "confidence": 0.47,
+      "bbox": [
+        181,
+        180,
+        185,
+        188
+      ]
+    },
+    {
+      "text": "۱",
+      "confidence": 0.91,
+      "bbox": [
+        195,
+        180,
+        199,
+        188
+      ]
+    },
+    {
+      "text": "۱",
+      "confidence": 0.9,
+      "bbox": [
+        207,
+        180,
+        210,
+        188
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.52,
+      "bbox": [
+        237,
+        180,
+        260,
+        193
+      ]
+    },
+    {
+      "text": "-09037070235-090370702",
+      "confidence": 0.77,
+      "bbox": [
+        150,
+        226,
+        390,
+        245
+      ]
+    },
+    {
+      "text": "_2۸0۱1",
+      "confidence": 0.0,
+      "bbox": [
+        192,
+        255,
+        353,
+        278
+      ]
+    },
+    {
+      "text": "1)",
+      "confidence": 0.72,
+      "bbox": [
+        357,
+        282,
+        362,
+        287
+      ]
+    },
+    {
+      "text": "Promax!",
+      "confidence": 0.34,
+      "bbox": [
+        364,
+        282,
+        389,
+        287
+      ]
+    },
+    {
+      "text": "Gold",
+      "confidence": 0.87,
+      "bbox": [
+        333,
+        282,
+        349,
+        287
+      ]
+    },
+    {
+      "text": "مس",
+      "confidence": 0.35,
+      "bbox": [
+        298,
+        284,
+        308,
+        286
+      ]
+    },
+    {
+      "text": "15۲",
+      "confidence": 0.79,
+      "bbox": [
+        194,
+        282,
+        204,
+        287
+      ]
+    },
+    {
+      "text": "112",
+      "confidence": 0.66,
+      "bbox": [
+        207,
+        283,
+        234,
+        287
+      ]
+    },
+    {
+      "text": "0",
+      "confidence": 0.76,
+      "bbox": [
+        228,
+        281,
+        236,
+        290
+      ]
+    },
+    {
+      "text": "me",
+      "confidence": 0.3,
+      "bbox": [
+        150,
+        281,
+        155,
+        291
+      ]
+    },
+    {
+      "text": "Soy",
+      "confidence": 0.4,
+      "bbox": [
+        160,
+        282,
+        176,
+        288
+      ]
+    },
+    {
+      "text": "1?",
+      "confidence": 0.83,
+      "bbox": [
+        357,
+        294,
+        362,
+        299
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.89,
+      "bbox": [
+        365,
+        292,
+        373,
+        302
+      ]
+    },
+    {
+      "text": "mmx",
+      "confidence": 0.41,
+      "bbox": [
+        375,
+        294,
+        390,
+        299
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.76,
+      "bbox": [
+        387,
+        292,
+        389,
+        302
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.75,
+      "bbox": [
+        332,
+        293,
+        350,
+        299
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 0.34,
+      "bbox": [
+        298,
+        296,
+        308,
+        298
+      ]
+    },
+    {
+      "text": "plus",
+      "confidence": 0.34,
+      "bbox": [
+        227,
+        294,
+        239,
+        300
+      ]
+    },
+    {
+      "text": "12512",
+      "confidence": 0.88,
+      "bbox": [
+        241,
+        294,
+        259,
+        299
+      ]
+    },
+    {
+      "text": "0",
+      "confidence": 0.75,
+      "bbox": [
+        261,
+        294,
+        268,
+        299
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.78,
+      "bbox": [
+        192,
+        293,
+        206,
+        302
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.77,
+      "bbox": [
+        209,
+        294,
+        215,
+        299
+      ]
+    },
+    {
+      "text": "nite",
+      "confidence": 0.38,
+      "bbox": [
+        150,
+        294,
+        181,
+        300
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.26,
+      "bbox": [
+        165,
+        292,
+        168,
+        301
+      ]
+    },
+    {
+      "text": "پارن‎",
+      "confidence": 0.64,
+      "bbox": [
+        171,
+        294,
+        181,
+        300
+      ]
+    },
+    {
+      "text": "16",
+      "confidence": 0.92,
+      "bbox": [
+        356,
+        305,
+        362,
+        310
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.65,
+      "bbox": [
+        364,
+        304,
+        372,
+        313
+      ]
+    },
+    {
+      "text": "max",
+      "confidence": 0.66,
+      "bbox": [
+        375,
+        305,
+        390,
+        310
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.88,
+      "bbox": [
+        387,
+        304,
+        389,
+        313
+      ]
+    },
+    {
+      "text": "Nite",
+      "confidence": 0.57,
+      "bbox": [
+        150,
+        305,
+        181,
+        310
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.74,
+      "bbox": [
+        165,
+        303,
+        169,
+        313
+      ]
+    },
+    {
+      "text": "oy",
+      "confidence": 0.0,
+      "bbox": [
+        171,
+        305,
+        181,
+        310
+      ]
+    },
+    {
+      "text": "<<.",
+      "confidence": 0.11,
+      "bbox": [
+        298,
+        318,
+        309,
+        320
+      ]
+    },
+    {
+      "text": "16",
+      "confidence": 0.94,
+      "bbox": [
+        356,
+        315,
+        363,
+        324
+      ]
+    },
+    {
+      "text": "Peo",
+      "confidence": 0.88,
+      "bbox": [
+        365,
+        315,
+        373,
+        324
+      ]
+    },
+    {
+      "text": "max]",
+      "confidence": 0.57,
+      "bbox": [
+        376,
+        315,
+        390,
+        324
+      ]
+    },
+    {
+      "text": "Bleck",
+      "confidence": 0.71,
+      "bbox": [
+        332,
+        315,
+        350,
+        321
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.73,
+      "bbox": [
+        194,
+        316,
+        231,
+        321
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.67,
+      "bbox": [
+        209,
+        314,
+        214,
+        323
+      ]
+    },
+    {
+      "text": "706",
+      "confidence": 0.33,
+      "bbox": [
+        219,
+        316,
+        231,
+        321
+      ]
+    },
+    {
+      "text": "ot",
+      "confidence": 0.64,
+      "bbox": [
+        150,
+        314,
+        157,
+        324
+      ]
+    },
+    {
+      "text": "oy",
+      "confidence": 0.0,
+      "bbox": [
+        164,
+        314,
+        177,
+        324
+      ]
+    },
+    {
+      "text": "16",
+      "confidence": 0.94,
+      "bbox": [
+        356,
+        325,
+        363,
+        334
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.76,
+      "bbox": [
+        364,
+        325,
+        373,
+        334
+      ]
+    },
+    {
+      "text": "max!",
+      "confidence": 0.39,
+      "bbox": [
+        376,
+        325,
+        389,
+        334
+      ]
+    },
+    {
+      "text": "115000-116",
+      "confidence": 0.6,
+      "bbox": [
+        282,
+        325,
+        324,
+        331
+      ]
+    },
+    {
+      "text": "۰",
+      "confidence": 0.39,
+      "bbox": [
+        329,
+        324,
+        330,
+        335
+      ]
+    },
+    {
+      "text": "۵",
+      "confidence": 0.66,
+      "bbox": [
+        332,
+        326,
+        350,
+        332
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.29,
+      "bbox": [
+        194,
+        327,
+        207,
+        332
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.8,
+      "bbox": [
+        209,
+        326,
+        214,
+        331
+      ]
+    },
+    {
+      "text": "pro",
+      "confidence": 0.91,
+      "bbox": [
+        216,
+        326,
+        226,
+        332
+      ]
+    },
+    {
+      "text": "12512",
+      "confidence": 0.67,
+      "bbox": [
+        228,
+        325,
+        245,
+        334
+      ]
+    },
+    {
+      "text": "40",
+      "confidence": 0.72,
+      "bbox": [
+        248,
+        325,
+        256,
+        334
+      ]
+    },
+    {
+      "text": "پدرن",
+      "confidence": 0.39,
+      "bbox": [
+        167,
+        327,
+        177,
+        332
+      ]
+    },
+    {
+      "text": "که",
+      "confidence": 0.53,
+      "bbox": [
+        159,
+        325,
+        164,
+        335
+      ]
+    },
+    {
+      "text": "et‏",
+      "confidence": 0.56,
+      "bbox": [
+        150,
+        327,
+        177,
+        332
+      ]
+    },
+    {
+      "text": "16",
+      "confidence": 0.92,
+      "bbox": [
+        356,
+        335,
+        362,
+        344
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.72,
+      "bbox": [
+        364,
+        335,
+        373,
+        344
+      ]
+    },
+    {
+      "text": "max!",
+      "confidence": 0.36,
+      "bbox": [
+        375,
+        335,
+        389,
+        344
+      ]
+    },
+    {
+      "text": "900",
+      "confidence": 0.78,
+      "bbox": [
+        296,
+        337,
+        306,
+        340
+      ]
+    },
+    {
+      "text": "12512",
+      "confidence": 0.74,
+      "bbox": [
+        228,
+        336,
+        245,
+        341
+      ]
+    },
+    {
+      "text": "40",
+      "confidence": 0.82,
+      "bbox": [
+        247,
+        336,
+        254,
+        341
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.93,
+      "bbox": [
+        192,
+        335,
+        206,
+        345
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.85,
+      "bbox": [
+        209,
+        336,
+        215,
+        341
+      ]
+    },
+    {
+      "text": "پدرن",
+      "confidence": 0.35,
+      "bbox": [
+        171,
+        336,
+        181,
+        342
+      ]
+    },
+    {
+      "text": "که",
+      "confidence": 0.88,
+      "bbox": [
+        164,
+        334,
+        168,
+        345
+      ]
+    },
+    {
+      "text": "She‏",
+      "confidence": 0.01,
+      "bbox": [
+        150,
+        336,
+        181,
+        342
+      ]
+    },
+    {
+      "text": "16",
+      "confidence": 0.92,
+      "bbox": [
+        357,
+        346,
+        363,
+        351
+      ]
+    },
+    {
+      "text": "۳۵۵۵",
+      "confidence": 0.58,
+      "bbox": [
+        365,
+        346,
+        390,
+        351
+      ]
+    },
+    {
+      "text": "94500-95000",
+      "confidence": 0.78,
+      "bbox": [
+        279,
+        346,
+        348,
+        352
+      ]
+    },
+    {
+      "text": "Blue",
+      "confidence": 0.89,
+      "bbox": [
+        334,
+        344,
+        349,
+        356
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.49,
+      "bbox": [
+        192,
+        345,
+        206,
+        354
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.95,
+      "bbox": [
+        209,
+        347,
+        214,
+        352
+      ]
+    },
+    {
+      "text": "pro",
+      "confidence": 0.96,
+      "bbox": [
+        217,
+        345,
+        225,
+        354
+      ]
+    },
+    {
+      "text": "27266",
+      "confidence": 0.66,
+      "bbox": [
+        227,
+        347,
+        242,
+        353
+      ]
+    },
+    {
+      "text": "پترن",
+      "confidence": 0.51,
+      "bbox": [
+        167,
+        346,
+        177,
+        352
+      ]
+    },
+    {
+      "text": "که",
+      "confidence": 0.71,
+      "bbox": [
+        160,
+        345,
+        165,
+        355
+      ]
+    },
+    {
+      "text": ".",
+      "confidence": 0.57,
+      "bbox": [
+        158,
+        345,
+        159,
+        355
+      ]
+    },
+    {
+      "text": "te‏",
+      "confidence": 0.79,
+      "bbox": [
+        150,
+        346,
+        177,
+        352
+      ]
+    },
+    {
+      "text": "16",
+      "confidence": 0.91,
+      "bbox": [
+        356,
+        356,
+        362,
+        361
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.92,
+      "bbox": [
+        364,
+        355,
+        372,
+        364
+      ]
+    },
+    {
+      "text": "max",
+      "confidence": 0.83,
+      "bbox": [
+        375,
+        356,
+        390,
+        361
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.9,
+      "bbox": [
+        387,
+        355,
+        389,
+        364
+      ]
+    },
+    {
+      "text": "5500",
+      "confidence": 0.86,
+      "bbox": [
+        309,
+        356,
+        350,
+        362
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.73,
+      "bbox": [
+        328,
+        354,
+        330,
+        365
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.71,
+      "bbox": [
+        333,
+        356,
+        350,
+        362
+      ]
+    },
+    {
+      "text": "000",
+      "confidence": 0.93,
+      "bbox": [
+        290,
+        357,
+        300,
+        360
+      ]
+    },
+    {
+      "text": "Nete",
+      "confidence": 0.84,
+      "bbox": [
+        192,
+        355,
+        206,
+        364
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.93,
+      "bbox": [
+        209,
+        357,
+        215,
+        362
+      ]
+    },
+    {
+      "text": "بترن",
+      "confidence": 0.74,
+      "bbox": [
+        166,
+        356,
+        176,
+        361
+      ]
+    },
+    {
+      "text": "که",
+      "confidence": 0.81,
+      "bbox": [
+        158,
+        355,
+        164,
+        364
+      ]
+    },
+    {
+      "text": "ck‏",
+      "confidence": 0.9,
+      "bbox": [
+        150,
+        356,
+        176,
+        361
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.91,
+      "bbox": [
+        356,
+        366,
+        362,
+        371
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.68,
+      "bbox": [
+        364,
+        366,
+        388,
+        372
+      ]
+    },
+    {
+      "text": "80000-80500",
+      "confidence": 0.84,
+      "bbox": [
+        277,
+        365,
+        326,
+        376
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.92,
+      "bbox": [
+        331,
+        365,
+        351,
+        376
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.39,
+      "bbox": [
+        194,
+        367,
+        232,
+        372
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.79,
+      "bbox": [
+        209,
+        365,
+        215,
+        375
+      ]
+    },
+    {
+      "text": "W256",
+      "confidence": 0.55,
+      "bbox": [
+        217,
+        367,
+        232,
+        372
+      ]
+    },
+    {
+      "text": "te",
+      "confidence": 0.47,
+      "bbox": [
+        150,
+        365,
+        158,
+        375
+      ]
+    },
+    {
+      "text": "Sy",
+      "confidence": 0.36,
+      "bbox": [
+        164,
+        367,
+        178,
+        372
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.56,
+      "bbox": [
+        356,
+        376,
+        362,
+        381
+      ]
+    },
+    {
+      "text": "pro",
+      "confidence": 0.83,
+      "bbox": [
+        365,
+        375,
+        374,
+        384
+      ]
+    },
+    {
+      "text": "2G",
+      "confidence": 0.3,
+      "bbox": [
+        376,
+        375,
+        388,
+        384
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.88,
+      "bbox": [
+        194,
+        376,
+        231,
+        381
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.77,
+      "bbox": [
+        209,
+        375,
+        215,
+        384
+      ]
+    },
+    {
+      "text": "W256",
+      "confidence": 0.48,
+      "bbox": [
+        218,
+        376,
+        231,
+        381
+      ]
+    },
+    {
+      "text": "ck",
+      "confidence": 0.81,
+      "bbox": [
+        150,
+        376,
+        177,
+        382
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.66,
+      "bbox": [
+        161,
+        374,
+        165,
+        383
+      ]
+    },
+    {
+      "text": "دزن‎",
+      "confidence": 0.52,
+      "bbox": [
+        168,
+        376,
+        177,
+        382
+      ]
+    },
+    {
+      "text": "80000-80500",
+      "confidence": 0.96,
+      "bbox": [
+        277,
+        374,
+        326,
+        386
+      ]
+    },
+    {
+      "text": "Purple",
+      "confidence": 0.87,
+      "bbox": [
+        330,
+        374,
+        352,
+        386
+      ]
+    },
+    {
+      "text": "37",
+      "confidence": 0.64,
+      "bbox": [
+        356,
+        386,
+        362,
+        390
+      ]
+    },
+    {
+      "text": "80000-80500",
+      "confidence": 0.95,
+      "bbox": [
+        277,
+        384,
+        327,
+        395
+      ]
+    },
+    {
+      "text": "Green",
+      "confidence": 0.96,
+      "bbox": [
+        331,
+        384,
+        352,
+        395
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.88,
+      "bbox": [
+        194,
+        386,
+        232,
+        391
+      ]
+    },
+    {
+      "text": "(5",
+      "confidence": 0.76,
+      "bbox": [
+        210,
+        385,
+        215,
+        394
+      ]
+    },
+    {
+      "text": "B26",
+      "confidence": 0.0,
+      "bbox": [
+        218,
+        386,
+        232,
+        391
+      ]
+    },
+    {
+      "text": "bet",
+      "confidence": 0.6,
+      "bbox": [
+        150,
+        386,
+        177,
+        392
+      ]
+    },
+    {
+      "text": "#",
+      "confidence": 0.15,
+      "bbox": [
+        161,
+        384,
+        164,
+        393
+      ]
+    },
+    {
+      "text": "پدرن‎",
+      "confidence": 0.73,
+      "bbox": [
+        167,
+        386,
+        177,
+        392
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.83,
+      "bbox": [
+        356,
+        398,
+        362,
+        402
+      ]
+    },
+    {
+      "text": "2566",
+      "confidence": 0.64,
+      "bbox": [
+        364,
+        396,
+        377,
+        405
+      ]
+    },
+    {
+      "text": "OW",
+      "confidence": 0.68,
+      "bbox": [
+        381,
+        396,
+        389,
+        405
+      ]
+    },
+    {
+      "text": "80000-80500",
+      "confidence": 0.63,
+      "bbox": [
+        279,
+        396,
+        348,
+        403
+      ]
+    },
+    {
+      "text": "Biue",
+      "confidence": 0.63,
+      "bbox": [
+        332,
+        395,
+        349,
+        407
+      ]
+    },
+    {
+      "text": "Mote",
+      "confidence": 0.65,
+      "bbox": [
+        194,
+        397,
+        232,
+        402
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.77,
+      "bbox": [
+        209,
+        396,
+        215,
+        406
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.76,
+      "bbox": [
+        223,
+        396,
+        233,
+        406
+      ]
+    },
+    {
+      "text": "چدرن",
+      "confidence": 0.64,
+      "bbox": [
+        164,
+        398,
+        175,
+        403
+      ]
+    },
+    {
+      "text": "که",
+      "confidence": 0.91,
+      "bbox": [
+        158,
+        396,
+        163,
+        405
+      ]
+    },
+    {
+      "text": "مه",
+      "confidence": 0.64,
+      "bbox": [
+        150,
+        396,
+        155,
+        405
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.74,
+      "bbox": [
+        356,
+        410,
+        361,
+        415
+      ]
+    },
+    {
+      "text": "25446",
+      "confidence": 0.61,
+      "bbox": [
+        364,
+        408,
+        377,
+        417
+      ]
+    },
+    {
+      "text": "Cy",
+      "confidence": 0.54,
+      "bbox": [
+        381,
+        408,
+        389,
+        417
+      ]
+    },
+    {
+      "text": "Notet4Pro",
+      "confidence": 0.56,
+      "bbox": [
+        194,
+        410,
+        226,
+        416
+      ]
+    },
+    {
+      "text": "*",
+      "confidence": 0.46,
+      "bbox": [
+        228,
+        411,
+        231,
+        414
+      ]
+    },
+    {
+      "text": "$1216",
+      "confidence": 0.56,
+      "bbox": [
+        233,
+        410,
+        253,
+        416
+      ]
+    },
+    {
+      "text": "6۵",
+      "confidence": 0.63,
+      "bbox": [
+        257,
+        410,
+        265,
+        416
+      ]
+    },
+    {
+      "text": "ch",
+      "confidence": 0.76,
+      "bbox": [
+        267,
+        410,
+        274,
+        416
+      ]
+    },
+    {
+      "text": "et",
+      "confidence": 0.1,
+      "bbox": [
+        150,
+        406,
+        159,
+        421
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 0.27,
+      "bbox": [
+        167,
+        411,
+        175,
+        417
+      ]
+    },
+    {
+      "text": ":16",
+      "confidence": 0.66,
+      "bbox": [
+        377,
+        424,
+        390,
+        428
+      ]
+    },
+    {
+      "text": "مصمجیا",
+      "confidence": 0.29,
+      "bbox": [
+        356,
+        424,
+        374,
+        429
+      ]
+    },
+    {
+      "text": "میا",
+      "confidence": 0.46,
+      "bbox": [
+        335,
+        422,
+        349,
+        433
+      ]
+    },
+    {
+      "text": "80000-80500",
+      "confidence": 0.89,
+      "bbox": [
+        279,
+        423,
+        348,
+        430
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.94,
+      "bbox": [
+        194,
+        424,
+        254,
+        429
+      ]
+    },
+    {
+      "text": "148",
+      "confidence": 0.74,
+      "bbox": [
+        212,
+        422,
+        223,
+        432
+      ]
+    },
+    {
+      "text": "8/256",
+      "confidence": 0.9,
+      "bbox": [
+        226,
+        424,
+        242,
+        429
+      ]
+    },
+    {
+      "text": "0",
+      "confidence": 0.87,
+      "bbox": [
+        247,
+        422,
+        255,
+        432
+      ]
+    },
+    {
+      "text": "toe",
+      "confidence": 0.1,
+      "bbox": [
+        150,
+        419,
+        161,
+        434
+      ]
+    },
+    {
+      "text": "شرکتی.‎",
+      "confidence": 0.2,
+      "bbox": [
+        162,
+        419,
+        179,
+        434
+      ]
+    },
+    {
+      "text": "353736",
+      "confidence": 0.68,
+      "bbox": [
+        356,
+        438,
+        377,
+        442
+      ]
+    },
+    {
+      "text": "80000-80500",
+      "confidence": 0.85,
+      "bbox": [
+        277,
+        434,
+        326,
+        445
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.85,
+      "bbox": [
+        331,
+        434,
+        351,
+        445
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.94,
+      "bbox": [
+        194,
+        436,
+        254,
+        441
+      ]
+    },
+    {
+      "text": "145",
+      "confidence": 0.96,
+      "bbox": [
+        212,
+        434,
+        223,
+        444
+      ]
+    },
+    {
+      "text": "8/256",
+      "confidence": 0.84,
+      "bbox": [
+        226,
+        436,
+        242,
+        441
+      ]
+    },
+    {
+      "text": "46",
+      "confidence": 0.69,
+      "bbox": [
+        246,
+        434,
+        255,
+        444
+      ]
+    },
+    {
+      "text": "ck",
+      "confidence": 0.31,
+      "bbox": [
+        150,
+        430,
+        158,
+        445
+      ]
+    },
+    {
+      "text": "شرعتی‎",
+      "confidence": 0.27,
+      "bbox": [
+        161,
+        430,
+        175,
+        445
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.75,
+      "bbox": [
+        356,
+        448,
+        362,
+        453
+      ]
+    },
+    {
+      "text": "Promax",
+      "confidence": 0.54,
+      "bbox": [
+        364,
+        448,
+        390,
+        453
+      ]
+    },
+    {
+      "text": "5",
+      "confidence": 0.87,
+      "bbox": [
+        386,
+        446,
+        389,
+        456
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.96,
+      "bbox": [
+        194,
+        447,
+        255,
+        453
+      ]
+    },
+    {
+      "text": "145",
+      "confidence": 0.91,
+      "bbox": [
+        212,
+        446,
+        224,
+        456
+      ]
+    },
+    {
+      "text": "8/256",
+      "confidence": 0.89,
+      "bbox": [
+        226,
+        447,
+        243,
+        453
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.95,
+      "bbox": [
+        247,
+        446,
+        256,
+        456
+      ]
+    },
+    {
+      "text": "vite",
+      "confidence": 0.83,
+      "bbox": [
+        150,
+        446,
+        161,
+        456
+      ]
+    },
+    {
+      "text": "ay",
+      "confidence": 0.57,
+      "bbox": [
+        164,
+        448,
+        173,
+        453
+      ]
+    },
+    {
+      "text": "1?",
+      "confidence": 0.84,
+      "bbox": [
+        357,
+        457,
+        362,
+        462
+      ]
+    },
+    {
+      "text": "Promax",
+      "confidence": 0.57,
+      "bbox": [
+        365,
+        457,
+        390,
+        462
+      ]
+    },
+    {
+      "text": "$",
+      "confidence": 0.77,
+      "bbox": [
+        386,
+        456,
+        389,
+        465
+      ]
+    },
+    {
+      "text": "te",
+      "confidence": 0.44,
+      "bbox": [
+        346,
+        461,
+        348,
+        463
+      ]
+    },
+    {
+      "text": "SEE",
+      "confidence": 0.2,
+      "bbox": [
+        224,
+        461,
+        237,
+        463
+      ]
+    },
+    {
+      "text": "cs",
+      "confidence": 0.04,
+      "bbox": [
+        170,
+        457,
+        175,
+        461
+      ]
+    },
+    {
+      "text": "Dig",
+      "confidence": 0.31,
+      "bbox": [
+        155,
+        461,
+        164,
+        463
+      ]
+    },
+    {
+      "text": "37",
+      "confidence": 0.69,
+      "bbox": [
+        356,
+        466,
+        362,
+        471
+      ]
+    },
+    {
+      "text": "Promax",
+      "confidence": 0.74,
+      "bbox": [
+        364,
+        466,
+        389,
+        471
+      ]
+    },
+    {
+      "text": "۶",
+      "confidence": 0.8,
+      "bbox": [
+        386,
+        465,
+        389,
+        474
+      ]
+    },
+    {
+      "text": "75500-76000)",
+      "confidence": 0.38,
+      "bbox": [
+        279,
+        466,
+        327,
+        473
+      ]
+    },
+    {
+      "text": "Green",
+      "confidence": 0.91,
+      "bbox": [
+        331,
+        466,
+        351,
+        472
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.96,
+      "bbox": [
+        194,
+        466,
+        250,
+        472
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.85,
+      "bbox": [
+        212,
+        465,
+        219,
+        476
+      ]
+    },
+    {
+      "text": "254/5",
+      "confidence": 0.58,
+      "bbox": [
+        222,
+        466,
+        238,
+        472
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.89,
+      "bbox": [
+        241,
+        465,
+        248,
+        476
+      ]
+    },
+    {
+      "text": "6",
+      "confidence": 0.75,
+      "bbox": [
+        254,
+        466,
+        264,
+        472
+      ]
+    },
+    {
+      "text": "۱",
+      "confidence": 0.69,
+      "bbox": [
+        150,
+        468,
+        152,
+        472
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.64,
+      "bbox": [
+        155,
+        466,
+        178,
+        472
+      ]
+    },
+    {
+      "text": "کد‎",
+      "confidence": 0.63,
+      "bbox": [
+        174,
+        465,
+        180,
+        475
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.9,
+      "bbox": [
+        356,
+        476,
+        362,
+        481
+      ]
+    },
+    {
+      "text": "Promax",
+      "confidence": 0.88,
+      "bbox": [
+        364,
+        476,
+        390,
+        481
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.94,
+      "bbox": [
+        386,
+        474,
+        389,
+        484
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.94,
+      "bbox": [
+        194,
+        475,
+        250,
+        481
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.93,
+      "bbox": [
+        212,
+        474,
+        219,
+        485
+      ]
+    },
+    {
+      "text": "25678",
+      "confidence": 0.19,
+      "bbox": [
+        222,
+        475,
+        238,
+        481
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.93,
+      "bbox": [
+        241,
+        474,
+        251,
+        485
+      ]
+    },
+    {
+      "text": "76000-76500",
+      "confidence": 0.96,
+      "bbox": [
+        279,
+        475,
+        327,
+        482
+      ]
+    },
+    {
+      "text": "Purple",
+      "confidence": 0.86,
+      "bbox": [
+        330,
+        476,
+        352,
+        483
+      ]
+    },
+    {
+      "text": "Bive",
+      "confidence": 0.44,
+      "bbox": [
+        150,
+        476,
+        183,
+        482
+      ]
+    },
+    {
+      "text": "کد‎",
+      "confidence": 0.73,
+      "bbox": [
+        166,
+        474,
+        171,
+        485
+      ]
+    },
+    {
+      "text": "ory",
+      "confidence": 0.48,
+      "bbox": [
+        174,
+        476,
+        183,
+        482
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.66,
+      "bbox": [
+        356,
+        485,
+        362,
+        490
+      ]
+    },
+    {
+      "text": "Promax",
+      "confidence": 0.78,
+      "bbox": [
+        364,
+        485,
+        390,
+        490
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.78,
+      "bbox": [
+        386,
+        484,
+        389,
+        493
+      ]
+    },
+    {
+      "text": "76000-7650\"",
+      "confidence": 0.89,
+      "bbox": [
+        279,
+        485,
+        326,
+        491
+      ]
+    },
+    {
+      "text": "Gold",
+      "confidence": 0.89,
+      "bbox": [
+        333,
+        485,
+        349,
+        491
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.92,
+      "bbox": [
+        194,
+        485,
+        250,
+        491
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.95,
+      "bbox": [
+        212,
+        483,
+        218,
+        494
+      ]
+    },
+    {
+      "text": "25616",
+      "confidence": 0.22,
+      "bbox": [
+        222,
+        485,
+        238,
+        491
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.94,
+      "bbox": [
+        241,
+        483,
+        251,
+        494
+      ]
+    },
+    {
+      "text": "ry.",
+      "confidence": 0.44,
+      "bbox": [
+        150,
+        484,
+        158,
+        495
+      ]
+    },
+    {
+      "text": "Soy",
+      "confidence": 0.36,
+      "bbox": [
+        161,
+        484,
+        176,
+        495
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.88,
+      "bbox": [
+        356,
+        496,
+        362,
+        501
+      ]
+    },
+    {
+      "text": "Promax",
+      "confidence": 0.75,
+      "bbox": [
+        364,
+        496,
+        390,
+        501
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.75,
+      "bbox": [
+        385,
+        494,
+        389,
+        504
+      ]
+    },
+    {
+      "text": "ماع",
+      "confidence": 0.45,
+      "bbox": [
+        333,
+        495,
+        348,
+        501
+      ]
+    },
+    {
+      "text": "75000-75500",
+      "confidence": 0.8,
+      "bbox": [
+        279,
+        495,
+        327,
+        502
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.95,
+      "bbox": [
+        194,
+        495,
+        250,
+        501
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.9,
+      "bbox": [
+        212,
+        494,
+        218,
+        504
+      ]
+    },
+    {
+      "text": "2568",
+      "confidence": 0.11,
+      "bbox": [
+        221,
+        495,
+        238,
+        501
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.95,
+      "bbox": [
+        241,
+        494,
+        251,
+        504
+      ]
+    },
+    {
+      "text": "پنون",
+      "confidence": 0.28,
+      "bbox": [
+        176,
+        495,
+        186,
+        501
+      ]
+    },
+    {
+      "text": "که",
+      "confidence": 0.61,
+      "bbox": [
+        168,
+        494,
+        174,
+        503
+      ]
+    },
+    {
+      "text": "۲و",
+      "confidence": 0.23,
+      "bbox": [
+        150,
+        495,
+        186,
+        501
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.92,
+      "bbox": [
+        356,
+        506,
+        362,
+        511
+      ]
+    },
+    {
+      "text": "Promax",
+      "confidence": 0.92,
+      "bbox": [
+        364,
+        506,
+        390,
+        511
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.92,
+      "bbox": [
+        386,
+        504,
+        389,
+        514
+      ]
+    },
+    {
+      "text": "75000-75500",
+      "confidence": 0.92,
+      "bbox": [
+        279,
+        505,
+        327,
+        512
+      ]
+    },
+    {
+      "text": "Green",
+      "confidence": 0.92,
+      "bbox": [
+        331,
+        505,
+        351,
+        511
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.95,
+      "bbox": [
+        194,
+        505,
+        250,
+        511
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.77,
+      "bbox": [
+        212,
+        504,
+        219,
+        514
+      ]
+    },
+    {
+      "text": "2566/8",
+      "confidence": 0.5,
+      "bbox": [
+        222,
+        505,
+        239,
+        511
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.8,
+      "bbox": [
+        242,
+        504,
+        251,
+        514
+      ]
+    },
+    {
+      "text": "ck",
+      "confidence": 0.96,
+      "bbox": [
+        150,
+        504,
+        158,
+        514
+      ]
+    },
+    {
+      "text": "vietnam",
+      "confidence": 0.81,
+      "bbox": [
+        161,
+        505,
+        188,
+        511
+      ]
+    },
+    {
+      "text": "00",
+      "confidence": 0.91,
+      "bbox": [
+        315,
+        516,
+        321,
+        519
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.92,
+      "bbox": [
+        386,
+        514,
+        389,
+        523
+      ]
+    },
+    {
+      "text": "ده",
+      "confidence": 0.2,
+      "bbox": [
+        364,
+        515,
+        390,
+        520
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.77,
+      "bbox": [
+        356,
+        515,
+        362,
+        520
+      ]
+    },
+    {
+      "text": "دا",
+      "confidence": 0.54,
+      "bbox": [
+        317,
+        519,
+        323,
+        521
+      ]
+    },
+    {
+      "text": "414",
+      "confidence": 0.72,
+      "bbox": [
+        212,
+        515,
+        219,
+        520
+      ]
+    },
+    {
+      "text": "Not",
+      "confidence": 0.94,
+      "bbox": [
+        195,
+        518,
+        204,
+        521
+      ]
+    },
+    {
+      "text": "p",
+      "confidence": 0.67,
+      "bbox": [
+        150,
+        516,
+        153,
+        520
+      ]
+    },
+    {
+      "text": "vietnam",
+      "confidence": 0.82,
+      "bbox": [
+        155,
+        515,
+        181,
+        521
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.66,
+      "bbox": [
+        356,
+        523,
+        362,
+        532
+      ]
+    },
+    {
+      "text": "Promax",
+      "confidence": 0.54,
+      "bbox": [
+        364,
+        524,
+        389,
+        529
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.69,
+      "bbox": [
+        386,
+        523,
+        389,
+        532
+      ]
+    },
+    {
+      "text": "67000-67500",
+      "confidence": 0.88,
+      "bbox": [
+        278,
+        524,
+        327,
+        533
+      ]
+    },
+    {
+      "text": "Recent",
+      "confidence": 0.32,
+      "bbox": [
+        192,
+        522,
+        214,
+        533
+      ]
+    },
+    {
+      "text": "15.",
+      "confidence": 0.6,
+      "bbox": [
+        217,
+        522,
+        226,
+        533
+      ]
+    },
+    {
+      "text": "yiets",
+      "confidence": 0.58,
+      "bbox": [
+        156,
+        527,
+        169,
+        530
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.89,
+      "bbox": [
+        357,
+        535,
+        362,
+        540
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.76,
+      "bbox": [
+        364,
+        533,
+        373,
+        543
+      ]
+    },
+    {
+      "text": "256",
+      "confidence": 0.85,
+      "bbox": [
+        375,
+        533,
+        384,
+        543
+      ]
+    },
+    {
+      "text": "9",
+      "confidence": 0.3,
+      "bbox": [
+        386,
+        536,
+        389,
+        539
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.44,
+      "bbox": [
+        194,
+        534,
+        245,
+        540
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.96,
+      "bbox": [
+        218,
+        533,
+        225,
+        544
+      ]
+    },
+    {
+      "text": "8/256",
+      "confidence": 0.54,
+      "bbox": [
+        228,
+        534,
+        245,
+        540
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.9,
+      "bbox": [
+        357,
+        546,
+        363,
+        550
+      ]
+    },
+    {
+      "text": "Pre",
+      "confidence": 0.73,
+      "bbox": [
+        365,
+        544,
+        373,
+        553
+      ]
+    },
+    {
+      "text": "256",
+      "confidence": 0.69,
+      "bbox": [
+        375,
+        544,
+        384,
+        553
+      ]
+    },
+    {
+      "text": "0",
+      "confidence": 0.61,
+      "bbox": [
+        386,
+        547,
+        389,
+        550
+      ]
+    },
+    {
+      "text": "10-67:",
+      "confidence": 0.75,
+      "bbox": [
+        296,
+        545,
+        314,
+        551
+      ]
+    },
+    {
+      "text": "va!",
+      "confidence": 0.58,
+      "bbox": [
+        283,
+        546,
+        291,
+        551
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.69,
+      "bbox": [
+        356,
+        555,
+        362,
+        559
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.69,
+      "bbox": [
+        364,
+        555,
+        390,
+        560
+      ]
+    },
+    {
+      "text": "6",
+      "confidence": 0.48,
+      "bbox": [
+        378,
+        554,
+        383,
+        563
+      ]
+    },
+    {
+      "text": "p",
+      "confidence": 0.0,
+      "bbox": [
+        385,
+        554,
+        389,
+        563
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.74,
+      "bbox": [
+        194,
+        554,
+        250,
+        561
+      ]
+    },
+    {
+      "text": "15C",
+      "confidence": 0.74,
+      "bbox": [
+        219,
+        553,
+        230,
+        565
+      ]
+    },
+    {
+      "text": "2568",
+      "confidence": 0.81,
+      "bbox": [
+        233,
+        554,
+        250,
+        561
+      ]
+    },
+    {
+      "text": "40",
+      "confidence": 0.8,
+      "bbox": [
+        253,
+        554,
+        263,
+        561
+      ]
+    },
+    {
+      "text": "§",
+      "confidence": 0.0,
+      "bbox": [
+        281,
+        553,
+        284,
+        565
+      ]
+    },
+    {
+      "text": "8000-58500",
+      "confidence": 0.0,
+      "bbox": [
+        278,
+        554,
+        327,
+        561
+      ]
+    },
+    {
+      "text": "y",
+      "confidence": 0.12,
+      "bbox": [
+        150,
+        556,
+        152,
+        561
+      ]
+    },
+    {
+      "text": "vietaen",
+      "confidence": 0.0,
+      "bbox": [
+        153,
+        555,
+        180,
+        561
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.51,
+      "bbox": [
+        356,
+        565,
+        362,
+        569
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.51,
+      "bbox": [
+        364,
+        565,
+        390,
+        570
+      ]
+    },
+    {
+      "text": "254",
+      "confidence": 0.66,
+      "bbox": [
+        375,
+        563,
+        383,
+        573
+      ]
+    },
+    {
+      "text": "6",
+      "confidence": 0.4,
+      "bbox": [
+        386,
+        563,
+        389,
+        573
+      ]
+    },
+    {
+      "text": "foo",
+      "confidence": 0.25,
+      "bbox": [
+        324,
+        572,
+        343,
+        573
+      ]
+    },
+    {
+      "text": "46",
+      "confidence": 0.84,
+      "bbox": [
+        253,
+        561,
+        264,
+        574
+      ]
+    },
+    {
+      "text": "58000-58500",
+      "confidence": 0.11,
+      "bbox": [
+        275,
+        563,
+        327,
+        571
+      ]
+    },
+    {
+      "text": "15¢",
+      "confidence": 0.65,
+      "bbox": [
+        218,
+        563,
+        230,
+        574
+      ]
+    },
+    {
+      "text": "۵ج",
+      "confidence": 0.42,
+      "bbox": [
+        192,
+        563,
+        213,
+        574
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.87,
+      "bbox": [
+        356,
+        574,
+        362,
+        578
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.78,
+      "bbox": [
+        365,
+        573,
+        373,
+        582
+      ]
+    },
+    {
+      "text": "6",
+      "confidence": 0.61,
+      "bbox": [
+        378,
+        574,
+        384,
+        578
+      ]
+    },
+    {
+      "text": "۵",
+      "confidence": 0.79,
+      "bbox": [
+        386,
+        575,
+        390,
+        578
+      ]
+    },
+    {
+      "text": "۲",
+      "confidence": 0.4,
+      "bbox": [
+        150,
+        575,
+        152,
+        580
+      ]
+    },
+    {
+      "text": "۲",
+      "confidence": 0.41,
+      "bbox": [
+        153,
+        574,
+        180,
+        580
+      ]
+    },
+    {
+      "text": "17266",
+      "confidence": 0.63,
+      "bbox": [
+        356,
+        581,
+        377,
+        591
+      ]
+    },
+    {
+      "text": "OV",
+      "confidence": 0.59,
+      "bbox": [
+        381,
+        581,
+        390,
+        591
+      ]
+    },
+    {
+      "text": "ye",
+      "confidence": 0.72,
+      "bbox": [
+        150,
+        582,
+        157,
+        592
+      ]
+    },
+    {
+      "text": "vietnam",
+      "confidence": 0.12,
+      "bbox": [
+        159,
+        583,
+        186,
+        589
+      ]
+    },
+    {
+      "text": "17286",
+      "confidence": 0.54,
+      "bbox": [
+        356,
+        593,
+        376,
+        603
+      ]
+    },
+    {
+      "text": "OW",
+      "confidence": 0.79,
+      "bbox": [
+        380,
+        593,
+        389,
+        603
+      ]
+    },
+    {
+      "text": "58500-59000",
+      "confidence": 0.83,
+      "bbox": [
+        279,
+        593,
+        349,
+        599
+      ]
+    },
+    {
+      "text": "Siue:",
+      "confidence": 0.31,
+      "bbox": [
+        334,
+        592,
+        350,
+        603
+      ]
+    },
+    {
+      "text": "evietnar",
+      "confidence": 0.28,
+      "bbox": [
+        150,
+        593,
+        180,
+        599
+      ]
+    },
+    {
+      "text": "16",
+      "confidence": 0.77,
+      "bbox": [
+        356,
+        605,
+        362,
+        610
+      ]
+    },
+    {
+      "text": "pro",
+      "confidence": 0.84,
+      "bbox": [
+        364,
+        604,
+        373,
+        613
+      ]
+    },
+    {
+      "text": "128",
+      "confidence": 0.72,
+      "bbox": [
+        375,
+        604,
+        390,
+        613
+      ]
+    },
+    {
+      "text": "اه",
+      "confidence": 0.34,
+      "bbox": [
+        346,
+        597,
+        352,
+        607
+      ]
+    },
+    {
+      "text": "شا",
+      "confidence": 0.23,
+      "bbox": [
+        334,
+        602,
+        343,
+        605
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.77,
+      "bbox": [
+        194,
+        605,
+        250,
+        611
+      ]
+    },
+    {
+      "text": "15C",
+      "confidence": 0.79,
+      "bbox": [
+        218,
+        603,
+        228,
+        614
+      ]
+    },
+    {
+      "text": "256/8",
+      "confidence": 0.63,
+      "bbox": [
+        232,
+        605,
+        249,
+        611
+      ]
+    },
+    {
+      "text": "۱4۵",
+      "confidence": 0.51,
+      "bbox": [
+        254,
+        605,
+        275,
+        611
+      ]
+    },
+    {
+      "text": "58500-000",
+      "confidence": 0.76,
+      "bbox": [
+        279,
+        604,
+        327,
+        611
+      ]
+    },
+    {
+      "text": "سیخ",
+      "confidence": 0.16,
+      "bbox": [
+        331,
+        612,
+        350,
+        614
+      ]
+    },
+    {
+      "text": "36256.",
+      "confidence": 0.67,
+      "bbox": [
+        356,
+        614,
+        375,
+        623
+      ]
+    },
+    {
+      "text": "OWA",
+      "confidence": 0.46,
+      "bbox": [
+        377,
+        614,
+        389,
+        623
+      ]
+    },
+    {
+      "text": "اد",
+      "confidence": 0.42,
+      "bbox": [
+        295,
+        619,
+        324,
+        621
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 0.47,
+      "bbox": [
+        150,
+        619,
+        151,
+        621
+      ]
+    },
+    {
+      "text": "vietnam",
+      "confidence": 0.21,
+      "bbox": [
+        153,
+        615,
+        180,
+        620
+      ]
+    },
+    {
+      "text": "26",
+      "confidence": 0.86,
+      "bbox": [
+        355,
+        624,
+        362,
+        632
+      ]
+    },
+    {
+      "text": "3286",
+      "confidence": 0.8,
+      "bbox": [
+        364,
+        625,
+        383,
+        630
+      ]
+    },
+    {
+      "text": "6",
+      "confidence": 0.77,
+      "bbox": [
+        379,
+        624,
+        384,
+        632
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.54,
+      "bbox": [
+        194,
+        625,
+        250,
+        631
+      ]
+    },
+    {
+      "text": "146",
+      "confidence": 0.83,
+      "bbox": [
+        218,
+        623,
+        229,
+        635
+      ]
+    },
+    {
+      "text": "256/8",
+      "confidence": 0.76,
+      "bbox": [
+        232,
+        625,
+        249,
+        631
+      ]
+    },
+    {
+      "text": "40",
+      "confidence": 0.78,
+      "bbox": [
+        253,
+        625,
+        263,
+        631
+      ]
+    },
+    {
+      "text": "۰",
+      "confidence": 0.67,
+      "bbox": [
+        267,
+        623,
+        273,
+        635
+      ]
+    },
+    {
+      "text": "54000-54500",
+      "confidence": 0.56,
+      "bbox": [
+        278,
+        623,
+        327,
+        635
+      ]
+    },
+    {
+      "text": "Green",
+      "confidence": 0.63,
+      "bbox": [
+        330,
+        623,
+        352,
+        635
+      ]
+    },
+    {
+      "text": "ay",
+      "confidence": 0.62,
+      "bbox": [
+        341,
+        632,
+        347,
+        634
+      ]
+    },
+    {
+      "text": "ore",
+      "confidence": 0.53,
+      "bbox": [
+        232,
+        632,
+        238,
+        633
+      ]
+    },
+    {
+      "text": "۱",
+      "confidence": 0.42,
+      "bbox": [
+        150,
+        626,
+        152,
+        630
+      ]
+    },
+    {
+      "text": "vietnam",
+      "confidence": 0.6,
+      "bbox": [
+        153,
+        625,
+        180,
+        630
+      ]
+    },
+    {
+      "text": "Alepods",
+      "confidence": 0.91,
+      "bbox": [
+        356,
+        635,
+        390,
+        642
+      ]
+    },
+    {
+      "text": "pr",
+      "confidence": 0.86,
+      "bbox": [
+        382,
+        634,
+        390,
+        644
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.68,
+      "bbox": [
+        194,
+        635,
+        263,
+        641
+      ]
+    },
+    {
+      "text": "146",
+      "confidence": 0.72,
+      "bbox": [
+        219,
+        633,
+        229,
+        645
+      ]
+    },
+    {
+      "text": "2568",
+      "confidence": 0.78,
+      "bbox": [
+        233,
+        635,
+        251,
+        641
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.65,
+      "bbox": [
+        255,
+        633,
+        264,
+        645
+      ]
+    },
+    {
+      "text": "54000-54500",
+      "confidence": 0.15,
+      "bbox": [
+        278,
+        635,
+        327,
+        642
+      ]
+    },
+    {
+      "text": "‘watch",
+      "confidence": 0.77,
+      "bbox": [
+        355,
+        645,
+        374,
+        656
+      ]
+    },
+    {
+      "text": "serh",
+      "confidence": 0.0,
+      "bbox": [
+        376,
+        645,
+        389,
+        656
+      ]
+    },
+    {
+      "text": "66000-66500",
+      "confidence": 0.96,
+      "bbox": [
+        278,
+        646,
+        326,
+        657
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.3,
+      "bbox": [
+        331,
+        646,
+        352,
+        657
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.73,
+      "bbox": [
+        194,
+        648,
+        215,
+        653
+      ]
+    },
+    {
+      "text": "13x",
+      "confidence": 0.88,
+      "bbox": [
+        217,
+        646,
+        228,
+        656
+      ]
+    },
+    {
+      "text": "256/8",
+      "confidence": 0.85,
+      "bbox": [
+        231,
+        646,
+        248,
+        656
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.94,
+      "bbox": [
+        251,
+        646,
+        261,
+        656
+      ]
+    },
+    {
+      "text": "Vietnam",
+      "confidence": 0.47,
+      "bbox": [
+        150,
+        647,
+        180,
+        653
+      ]
+    },
+    {
+      "text": "watch",
+      "confidence": 0.83,
+      "bbox": [
+        355,
+        656,
+        374,
+        667
+      ]
+    },
+    {
+      "text": "ser",
+      "confidence": 0.29,
+      "bbox": [
+        376,
+        656,
+        389,
+        667
+      ]
+    },
+    {
+      "text": "66000-66500",
+      "confidence": 0.93,
+      "bbox": [
+        279,
+        657,
+        349,
+        664
+      ]
+    },
+    {
+      "text": "Gold",
+      "confidence": 0.76,
+      "bbox": [
+        332,
+        656,
+        350,
+        667
+      ]
+    },
+    {
+      "text": "Redeni",
+      "confidence": 0.84,
+      "bbox": [
+        194,
+        658,
+        215,
+        663
+      ]
+    },
+    {
+      "text": "13x",
+      "confidence": 0.95,
+      "bbox": [
+        218,
+        656,
+        229,
+        667
+      ]
+    },
+    {
+      "text": "2546/8",
+      "confidence": 0.59,
+      "bbox": [
+        231,
+        656,
+        248,
+        667
+      ]
+    },
+    {
+      "text": "46",
+      "confidence": 0.76,
+      "bbox": [
+        252,
+        656,
+        261,
+        667
+      ]
+    },
+    {
+      "text": "ite",
+      "confidence": 0.73,
+      "bbox": [
+        150,
+        661,
+        155,
+        664
+      ]
+    },
+    {
+      "text": "Vietnam",
+      "confidence": 0.53,
+      "bbox": [
+        161,
+        660,
+        185,
+        664
+      ]
+    },
+    {
+      "text": "watch",
+      "confidence": 0.89,
+      "bbox": [
+        355,
+        666,
+        374,
+        676
+      ]
+    },
+    {
+      "text": "serb",
+      "confidence": 0.83,
+      "bbox": [
+        377,
+        666,
+        390,
+        676
+      ]
+    },
+    {
+      "text": "00",
+      "confidence": 0.96,
+      "bbox": [
+        320,
+        669,
+        325,
+        672
+      ]
+    },
+    {
+      "text": "000",
+      "confidence": 0.94,
+      "bbox": [
+        290,
+        669,
+        300,
+        672
+      ]
+    },
+    {
+      "text": "Redeni",
+      "confidence": 0.17,
+      "bbox": [
+        194,
+        667,
+        248,
+        673
+      ]
+    },
+    {
+      "text": "13x",
+      "confidence": 0.95,
+      "bbox": [
+        217,
+        666,
+        227,
+        676
+      ]
+    },
+    {
+      "text": "2568/8",
+      "confidence": 0.61,
+      "bbox": [
+        231,
+        667,
+        247,
+        673
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.95,
+      "bbox": [
+        256,
+        669,
+        258,
+        672
+      ]
+    },
+    {
+      "text": "9\"",
+      "confidence": 0.35,
+      "bbox": [
+        291,
+        671,
+        298,
+        673
+      ]
+    },
+    {
+      "text": "watch",
+      "confidence": 0.91,
+      "bbox": [
+        356,
+        677,
+        390,
+        682
+      ]
+    },
+    {
+      "text": "se",
+      "confidence": 0.7,
+      "bbox": [
+        377,
+        675,
+        383,
+        686
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.7,
+      "bbox": [
+        386,
+        675,
+        389,
+        686
+      ]
+    },
+    {
+      "text": "PES",
+      "confidence": 0.4,
+      "bbox": [
+        230,
+        679,
+        242,
+        682
+      ]
+    },
+    {
+      "text": "Redeni",
+      "confidence": 0.88,
+      "bbox": [
+        194,
+        677,
+        220,
+        682
+      ]
+    },
+    {
+      "text": "1:",
+      "confidence": 0.46,
+      "bbox": [
+        216,
+        675,
+        221,
+        685
+      ]
+    },
+    {
+      "text": "er",
+      "confidence": 0.75,
+      "bbox": [
+        150,
+        675,
+        158,
+        686
+      ]
+    },
+    {
+      "text": "Vietnam:",
+      "confidence": 0.6,
+      "bbox": [
+        161,
+        677,
+        189,
+        682
+      ]
+    },
+    {
+      "text": "watch",
+      "confidence": 0.95,
+      "bbox": [
+        356,
+        686,
+        389,
+        692
+      ]
+    },
+    {
+      "text": "se",
+      "confidence": 0.93,
+      "bbox": [
+        376,
+        685,
+        382,
+        695
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.93,
+      "bbox": [
+        386,
+        685,
+        390,
+        695
+      ]
+    },
+    {
+      "text": "00",
+      "confidence": 0.94,
+      "bbox": [
+        320,
+        688,
+        325,
+        691
+      ]
+    },
+    {
+      "text": "نو(",
+      "confidence": 0.22,
+      "bbox": [
+        301,
+        690,
+        323,
+        693
+      ]
+    },
+    {
+      "text": "Redeni",
+      "confidence": 0.54,
+      "bbox": [
+        194,
+        686,
+        268,
+        692
+      ]
+    },
+    {
+      "text": "13",
+      "confidence": 0.88,
+      "bbox": [
+        218,
+        685,
+        224,
+        695
+      ]
+    },
+    {
+      "text": "128/6",
+      "confidence": 0.76,
+      "bbox": [
+        227,
+        685,
+        243,
+        695
+      ]
+    },
+    {
+      "text": "nfo",
+      "confidence": 0.88,
+      "bbox": [
+        246,
+        685,
+        257,
+        695
+      ]
+    },
+    {
+      "text": "46",
+      "confidence": 0.76,
+      "bbox": [
+        260,
+        685,
+        269,
+        695
+      ]
+    },
+    {
+      "text": "trary",
+      "confidence": 0.69,
+      "bbox": [
+        166,
+        690,
+        179,
+        692
+      ]
+    },
+    {
+      "text": "44000-44500",
+      "confidence": 0.95,
+      "bbox": [
+        278,
+        695,
+        348,
+        702
+      ]
+    },
+    {
+      "text": "Blue",
+      "confidence": 0.9,
+      "bbox": [
+        333,
+        694,
+        350,
+        705
+      ]
+    },
+    {
+      "text": "Reodmi",
+      "confidence": 0.19,
+      "bbox": [
+        194,
+        696,
+        257,
+        701
+      ]
+    },
+    {
+      "text": "۸5",
+      "confidence": 0.86,
+      "bbox": [
+        218,
+        694,
+        226,
+        705
+      ]
+    },
+    {
+      "text": "4/128",
+      "confidence": 0.89,
+      "bbox": [
+        229,
+        696,
+        245,
+        701
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.88,
+      "bbox": [
+        248,
+        694,
+        258,
+        705
+      ]
+    },
+    {
+      "text": "9",
+      "confidence": 0.72,
+      "bbox": [
+        150,
+        697,
+        153,
+        701
+      ]
+    },
+    {
+      "text": "۹",
+      "confidence": 0.66,
+      "bbox": [
+        155,
+        696,
+        182,
+        701
+      ]
+    },
+    {
+      "text": "44000-44500",
+      "confidence": 0.96,
+      "bbox": [
+        277,
+        703,
+        327,
+        715
+      ]
+    },
+    {
+      "text": "Green",
+      "confidence": 0.96,
+      "bbox": [
+        330,
+        703,
+        352,
+        715
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.76,
+      "bbox": [
+        194,
+        705,
+        257,
+        711
+      ]
+    },
+    {
+      "text": "AS",
+      "confidence": 0.88,
+      "bbox": [
+        218,
+        704,
+        226,
+        714
+      ]
+    },
+    {
+      "text": "4/1278",
+      "confidence": 0.69,
+      "bbox": [
+        229,
+        705,
+        245,
+        711
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.72,
+      "bbox": [
+        248,
+        704,
+        258,
+        714
+      ]
+    },
+    {
+      "text": "etnam",
+      "confidence": 0.13,
+      "bbox": [
+        159,
+        708,
+        182,
+        711
+      ]
+    },
+    {
+      "text": "44000-44500",
+      "confidence": 0.81,
+      "bbox": [
+        277,
+        713,
+        326,
+        725
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.62,
+      "bbox": [
+        330,
+        713,
+        351,
+        725
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.8,
+      "bbox": [
+        194,
+        715,
+        257,
+        721
+      ]
+    },
+    {
+      "text": "AS",
+      "confidence": 0.77,
+      "bbox": [
+        218,
+        713,
+        225,
+        724
+      ]
+    },
+    {
+      "text": "4/178",
+      "confidence": 0.68,
+      "bbox": [
+        228,
+        715,
+        245,
+        721
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.89,
+      "bbox": [
+        249,
+        713,
+        258,
+        724
+      ]
+    },
+    {
+      "text": "۲",
+      "confidence": 0.31,
+      "bbox": [
+        150,
+        717,
+        152,
+        721
+      ]
+    },
+    {
+      "text": "Vietnam",
+      "confidence": 0.55,
+      "bbox": [
+        156,
+        715,
+        183,
+        721
+      ]
+    },
+    {
+      "text": "12",
+      "confidence": 0.95,
+      "bbox": [
+        356,
+        724,
+        362,
+        734
+      ]
+    },
+    {
+      "text": "pas",
+      "confidence": 0.07,
+      "bbox": [
+        365,
+        726,
+        390,
+        732
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 0.67,
+      "bbox": [
+        383,
+        724,
+        389,
+        734
+      ]
+    },
+    {
+      "text": "39000-39500",
+      "confidence": 0.92,
+      "bbox": [
+        279,
+        725,
+        349,
+        732
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.47,
+      "bbox": [
+        337,
+        724,
+        350,
+        735
+      ]
+    },
+    {
+      "text": "Redeni",
+      "confidence": 0.84,
+      "bbox": [
+        194,
+        725,
+        252,
+        731
+      ]
+    },
+    {
+      "text": "AS",
+      "confidence": 0.96,
+      "bbox": [
+        219,
+        724,
+        226,
+        734
+      ]
+    },
+    {
+      "text": "3/64",
+      "confidence": 0.63,
+      "bbox": [
+        227,
+        725,
+        242,
+        731
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.82,
+      "bbox": [
+        244,
+        724,
+        253,
+        734
+      ]
+    },
+    {
+      "text": "12",
+      "confidence": 0.96,
+      "bbox": [
+        356,
+        733,
+        362,
+        743
+      ]
+    },
+    {
+      "text": "phos",
+      "confidence": 0.52,
+      "bbox": [
+        366,
+        733,
+        377,
+        743
+      ]
+    },
+    {
+      "text": "8/2",
+      "confidence": 0.77,
+      "bbox": [
+        379,
+        733,
+        389,
+        743
+      ]
+    },
+    {
+      "text": "39000-39500",
+      "confidence": 0.74,
+      "bbox": [
+        279,
+        735,
+        327,
+        741
+      ]
+    },
+    {
+      "text": "۵",
+      "confidence": 0.61,
+      "bbox": [
+        332,
+        735,
+        350,
+        741
+      ]
+    },
+    {
+      "text": "Redei",
+      "confidence": 0.41,
+      "bbox": [
+        194,
+        735,
+        253,
+        741
+      ]
+    },
+    {
+      "text": "AS",
+      "confidence": 0.93,
+      "bbox": [
+        218,
+        733,
+        225,
+        744
+      ]
+    },
+    {
+      "text": "264",
+      "confidence": 0.72,
+      "bbox": [
+        228,
+        733,
+        242,
+        744
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.84,
+      "bbox": [
+        244,
+        733,
+        254,
+        744
+      ]
+    },
+    {
+      "text": "fetnam",
+      "confidence": 0.33,
+      "bbox": [
+        156,
+        738,
+        179,
+        741
+      ]
+    },
+    {
+      "text": "C71",
+      "confidence": 0.55,
+      "bbox": [
+        356,
+        743,
+        366,
+        753
+      ]
+    },
+    {
+      "text": "8/256",
+      "confidence": 0.75,
+      "bbox": [
+        369,
+        743,
+        387,
+        753
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.64,
+      "bbox": [
+        194,
+        744,
+        252,
+        750
+      ]
+    },
+    {
+      "text": "۸5",
+      "confidence": 0.93,
+      "bbox": [
+        218,
+        743,
+        225,
+        753
+      ]
+    },
+    {
+      "text": "3064",
+      "confidence": 0.51,
+      "bbox": [
+        228,
+        743,
+        241,
+        753
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.91,
+      "bbox": [
+        244,
+        743,
+        253,
+        753
+      ]
+    },
+    {
+      "text": "۱",
+      "confidence": 0.76,
+      "bbox": [
+        150,
+        747,
+        151,
+        751
+      ]
+    },
+    {
+      "text": "۹",
+      "confidence": 0.61,
+      "bbox": [
+        155,
+        745,
+        182,
+        751
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.96,
+      "bbox": [
+        357,
+        753,
+        390,
+        759
+      ]
+    },
+    {
+      "text": "50",
+      "confidence": 0.82,
+      "bbox": [
+        373,
+        751,
+        378,
+        762
+      ]
+    },
+    {
+      "text": "4/1",
+      "confidence": 0.82,
+      "bbox": [
+        381,
+        753,
+        389,
+        759
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.36,
+      "bbox": [
+        332,
+        754,
+        351,
+        759
+      ]
+    },
+    {
+      "text": "0",
+      "confidence": 0.95,
+      "bbox": [
+        324,
+        756,
+        325,
+        758
+      ]
+    },
+    {
+      "text": "0",
+      "confidence": 0.96,
+      "bbox": [
+        311,
+        756,
+        312,
+        759
+      ]
+    },
+    {
+      "text": "D000",
+      "confidence": 0.71,
+      "bbox": [
+        285,
+        756,
+        300,
+        759
+      ]
+    },
+    {
+      "text": "Al",
+      "confidence": 0.83,
+      "bbox": [
+        215,
+        752,
+        225,
+        762
+      ]
+    },
+    {
+      "text": "4128",
+      "confidence": 0.71,
+      "bbox": [
+        227,
+        753,
+        256,
+        759
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.77,
+      "bbox": [
+        247,
+        752,
+        257,
+        762
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.95,
+      "bbox": [
+        355,
+        763,
+        370,
+        773
+      ]
+    },
+    {
+      "text": "Gx",
+      "confidence": 0.42,
+      "bbox": [
+        373,
+        763,
+        382,
+        773
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.51,
+      "bbox": [
+        384,
+        764,
+        389,
+        770
+      ]
+    },
+    {
+      "text": "t",
+      "confidence": 0.32,
+      "bbox": [
+        150,
+        777,
+        152,
+        781
+      ]
+    },
+    {
+      "text": "Vietnam",
+      "confidence": 0.77,
+      "bbox": [
+        155,
+        775,
+        183,
+        781
+      ]
+    },
+    {
+      "text": "SS",
+      "confidence": 0.46,
+      "bbox": [
+        192,
+        773,
+        390,
+        792
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 0.14,
+      "bbox": [
+        322,
+        772,
+        354,
+        799
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 0.14,
+      "bbox": [
+        366,
+        772,
+        389,
+        799
+      ]
+    },
+    {
+      "text": ":",
+      "confidence": 0.0,
+      "bbox": [
+        150,
+        787,
+        151,
+        791
+      ]
+    },
+    {
+      "text": "Vietnam",
+      "confidence": 0.94,
+      "bbox": [
+        153,
+        786,
+        180,
+        791
+      ]
+    },
+    {
+      "text": "Poco",
+      "confidence": 0.77,
+      "bbox": [
+        194,
+        793,
+        211,
+        804
+      ]
+    },
+    {
+      "text": "28",
+      "confidence": 0.84,
+      "bbox": [
+        213,
+        793,
+        221,
+        804
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.76,
+      "bbox": [
+        224,
+        793,
+        235,
+        804
+      ]
+    },
+    {
+      "text": "51212",
+      "confidence": 0.76,
+      "bbox": [
+        237,
+        795,
+        270,
+        801
+      ]
+    },
+    {
+      "text": "506",
+      "confidence": 0.71,
+      "bbox": [
+        262,
+        793,
+        272,
+        804
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 0.28,
+      "bbox": [
+        277,
+        793,
+        280,
+        804
+      ]
+    },
+    {
+      "text": "178000-179",
+      "confidence": 0.39,
+      "bbox": [
+        281,
+        795,
+        325,
+        801
+      ]
+    },
+    {
+      "text": "Green",
+      "confidence": 0.95,
+      "bbox": [
+        331,
+        795,
+        351,
+        801
+      ]
+    },
+    {
+      "text": "etn",
+      "confidence": 0.36,
+      "bbox": [
+        164,
+        798,
+        174,
+        801
+      ]
+    },
+    {
+      "text": "Homer",
+      "confidence": 0.49,
+      "bbox": [
+        356,
+        804,
+        390,
+        809
+      ]
+    },
+    {
+      "text": "609",
+      "confidence": 0.88,
+      "bbox": [
+        376,
+        803,
+        384,
+        813
+      ]
+    },
+    {
+      "text": "}",
+      "confidence": 0.58,
+      "bbox": [
+        387,
+        803,
+        390,
+        813
+      ]
+    },
+    {
+      "text": "۸",
+      "confidence": 0.55,
+      "bbox": [
+        318,
+        806,
+        321,
+        810
+      ]
+    },
+    {
+      "text": "9",
+      "confidence": 0.44,
+      "bbox": [
+        288,
+        805,
+        307,
+        810
+      ]
+    },
+    {
+      "text": "]",
+      "confidence": 0.44,
+      "bbox": [
+        193,
+        803,
+        195,
+        813
+      ]
+    },
+    {
+      "text": "X8",
+      "confidence": 0.69,
+      "bbox": [
+        214,
+        804,
+        221,
+        810
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.95,
+      "bbox": [
+        225,
+        803,
+        235,
+        813
+      ]
+    },
+    {
+      "text": "542/32",
+      "confidence": 0.57,
+      "bbox": [
+        237,
+        804,
+        254,
+        810
+      ]
+    },
+    {
+      "text": "$G",
+      "confidence": 0.42,
+      "bbox": [
+        261,
+        804,
+        270,
+        810
+      ]
+    },
+    {
+      "text": "20",
+      "confidence": 0.3,
+      "bbox": [
+        150,
+        803,
+        156,
+        814
+      ]
+    },
+    {
+      "text": "india",
+      "confidence": 0.88,
+      "bbox": [
+        159,
+        804,
+        177,
+        811
+      ]
+    },
+    {
+      "text": "Honor",
+      "confidence": 0.29,
+      "bbox": [
+        355,
+        813,
+        374,
+        823
+      ]
+    },
+    {
+      "text": "6001",
+      "confidence": 0.69,
+      "bbox": [
+        377,
+        813,
+        390,
+        823
+      ]
+    },
+    {
+      "text": "۱",
+      "confidence": 0.87,
+      "bbox": [
+        150,
+        815,
+        151,
+        820
+      ]
+    },
+    {
+      "text": "vietnam",
+      "confidence": 0.9,
+      "bbox": [
+        155,
+        814,
+        184,
+        820
+      ]
+    },
+    {
+      "text": "Menor",
+      "confidence": 0.71,
+      "bbox": [
+        355,
+        823,
+        374,
+        833
+      ]
+    },
+    {
+      "text": "(00",
+      "confidence": 0.68,
+      "bbox": [
+        377,
+        823,
+        385,
+        833
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.68,
+      "bbox": [
+        389,
+        824,
+        390,
+        829
+      ]
+    },
+    {
+      "text": "Menor",
+      "confidence": 0.65,
+      "bbox": [
+        355,
+        834,
+        375,
+        844
+      ]
+    },
+    {
+      "text": "400",
+      "confidence": 0.94,
+      "bbox": [
+        377,
+        834,
+        388,
+        844
+      ]
+    },
+    {
+      "text": "vietnam",
+      "confidence": 0.62,
+      "bbox": [
+        150,
+        835,
+        184,
+        841
+      ]
+    },
+    {
+      "text": "Henor",
+      "confidence": 0.7,
+      "bbox": [
+        355,
+        844,
+        374,
+        854
+      ]
+    },
+    {
+      "text": "400",
+      "confidence": 0.92,
+      "bbox": [
+        377,
+        844,
+        388,
+        854
+      ]
+    },
+    {
+      "text": "Poco",
+      "confidence": 0.78,
+      "bbox": [
+        194,
+        846,
+        211,
+        852
+      ]
+    },
+    {
+      "text": "M7",
+      "confidence": 0.91,
+      "bbox": [
+        213,
+        846,
+        222,
+        852
+      ]
+    },
+    {
+      "text": "8/256",
+      "confidence": 0.88,
+      "bbox": [
+        224,
+        845,
+        241,
+        855
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.85,
+      "bbox": [
+        245,
+        845,
+        255,
+        855
+      ]
+    },
+    {
+      "text": "¢",
+      "confidence": 0.43,
+      "bbox": [
+        150,
+        847,
+        152,
+        852
+      ]
+    },
+    {
+      "text": "Vietnam",
+      "confidence": 0.72,
+      "bbox": [
+        154,
+        846,
+        183,
+        852
+      ]
+    },
+    {
+      "text": "Honor",
+      "confidence": 0.51,
+      "bbox": [
+        355,
+        854,
+        373,
+        864
+      ]
+    },
+    {
+      "text": "200",
+      "confidence": 0.83,
+      "bbox": [
+        377,
+        854,
+        385,
+        864
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.83,
+      "bbox": [
+        389,
+        855,
+        390,
+        860
+      ]
+    },
+    {
+      "text": "Chack",
+      "confidence": 0.0,
+      "bbox": [
+        333,
+        859,
+        350,
+        861
+      ]
+    },
+    {
+      "text": "Honor",
+      "confidence": 0.54,
+      "bbox": [
+        357,
+        864,
+        387,
+        870
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.82,
+      "bbox": [
+        380,
+        863,
+        388,
+        873
+      ]
+    },
+    {
+      "text": "vy.",
+      "confidence": 0.4,
+      "bbox": [
+        286,
+        863,
+        293,
+        866
+      ]
+    },
+    {
+      "text": "9",
+      "confidence": 0.53,
+      "bbox": [
+        194,
+        863,
+        211,
+        866
+      ]
+    },
+    {
+      "text": "rus",
+      "confidence": 0.39,
+      "bbox": [
+        194,
+        868,
+        204,
+        872
+      ]
+    },
+    {
+      "text": "Honor",
+      "confidence": 0.86,
+      "bbox": [
+        357,
+        874,
+        387,
+        879
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.75,
+      "bbox": [
+        381,
+        873,
+        388,
+        882
+      ]
+    },
+    {
+      "text": "Beek",
+      "confidence": 0.31,
+      "bbox": [
+        330,
+        862,
+        352,
+        879
+      ]
+    },
+    {
+      "text": "veel",
+      "confidence": 0.0,
+      "bbox": [
+        299,
+        863,
+        329,
+        878
+      ]
+    },
+    {
+      "text": "و",
+      "confidence": 0.41,
+      "bbox": [
+        287,
+        873,
+        301,
+        875
+      ]
+    },
+    {
+      "text": "spots",
+      "confidence": 0.0,
+      "bbox": [
+        287,
+        879,
+        312,
+        886
+      ]
+    },
+    {
+      "text": "OCHS",
+      "confidence": 0.04,
+      "bbox": [
+        201,
+        871,
+        227,
+        886
+      ]
+    },
+    {
+      "text": "8250646",
+      "confidence": 0.73,
+      "bbox": [
+        228,
+        873,
+        244,
+        875
+      ]
+    },
+    {
+      "text": "۰...",
+      "confidence": 0.24,
+      "bbox": [
+        250,
+        873,
+        281,
+        881
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.79,
+      "bbox": [
+        191,
+        873,
+        193,
+        885
+      ]
+    },
+    {
+      "text": "Pos",
+      "confidence": 0.65,
+      "bbox": [
+        192,
+        875,
+        203,
+        882
+      ]
+    },
+    {
+      "text": "Honor",
+      "confidence": 0.35,
+      "bbox": [
+        355,
+        882,
+        373,
+        892
+      ]
+    },
+    {
+      "text": "x24!",
+      "confidence": 0.69,
+      "bbox": [
+        377,
+        882,
+        390,
+        892
+      ]
+    },
+    {
+      "text": "Purple",
+      "confidence": 0.96,
+      "bbox": [
+        332,
+        887,
+        349,
+        889
+      ]
+    },
+    {
+      "text": "tee",
+      "confidence": 0.26,
+      "bbox": [
+        168,
+        891,
+        184,
+        892
+      ]
+    },
+    {
+      "text": "Vietnam",
+      "confidence": 0.76,
+      "bbox": [
+        152,
+        883,
+        181,
+        890
+      ]
+    },
+    {
+      "text": "Honor",
+      "confidence": 0.82,
+      "bbox": [
+        355,
+        891,
+        373,
+        901
+      ]
+    },
+    {
+      "text": "x76",
+      "confidence": 0.83,
+      "bbox": [
+        377,
+        891,
+        385,
+        901
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.66,
+      "bbox": [
+        388,
+        893,
+        390,
+        898
+      ]
+    },
+    {
+      "text": "Honor",
+      "confidence": 0.47,
+      "bbox": [
+        357,
+        902,
+        390,
+        908
+      ]
+    },
+    {
+      "text": "9",
+      "confidence": 0.61,
+      "bbox": [
+        381,
+        901,
+        385,
+        911
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.78,
+      "bbox": [
+        388,
+        901,
+        390,
+        911
+      ]
+    },
+    {
+      "text": "58.49",
+      "confidence": 0.63,
+      "bbox": [
+        239,
+        901,
+        280,
+        908
+      ]
+    },
+    {
+      "text": "71",
+      "confidence": 0.51,
+      "bbox": [
+        309,
+        901,
+        352,
+        908
+      ]
+    },
+    {
+      "text": "1۸",
+      "confidence": 0.64,
+      "bbox": [
+        215,
+        904,
+        222,
+        908
+      ]
+    },
+    {
+      "text": "(>",
+      "confidence": 0.34,
+      "bbox": [
+        355,
+        910,
+        366,
+        920
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.82,
+      "bbox": [
+        377,
+        911,
+        386,
+        917
+      ]
+    },
+    {
+      "text": "44500-45000",
+      "confidence": 0.95,
+      "bbox": [
+        279,
+        911,
+        327,
+        918
+      ]
+    },
+    {
+      "text": "Blue",
+      "confidence": 0.76,
+      "bbox": [
+        334,
+        911,
+        349,
+        917
+      ]
+    },
+    {
+      "text": "Poco",
+      "confidence": 0.81,
+      "bbox": [
+        193,
+        910,
+        211,
+        920
+      ]
+    },
+    {
+      "text": "671",
+      "confidence": 0.93,
+      "bbox": [
+        214,
+        911,
+        225,
+        917
+      ]
+    },
+    {
+      "text": "4/128",
+      "confidence": 0.71,
+      "bbox": [
+        228,
+        911,
+        245,
+        917
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.88,
+      "bbox": [
+        247,
+        911,
+        257,
+        917
+      ]
+    },
+    {
+      "text": "Vietnam",
+      "confidence": 0.63,
+      "bbox": [
+        150,
+        912,
+        180,
+        917
+      ]
+    },
+    {
+      "text": "6",
+      "confidence": 0.59,
+      "bbox": [
+        357,
+        921,
+        367,
+        926
+      ]
+    },
+    {
+      "text": "6/128",
+      "confidence": 0.85,
+      "bbox": [
+        368,
+        920,
+        385,
+        927
+      ]
+    },
+    {
+      "text": "44500-45000",
+      "confidence": 0.95,
+      "bbox": [
+        279,
+        921,
+        350,
+        927
+      ]
+    },
+    {
+      "text": "۵",
+      "confidence": 0.82,
+      "bbox": [
+        336,
+        919,
+        351,
+        930
+      ]
+    },
+    {
+      "text": "Poco",
+      "confidence": 0.72,
+      "bbox": [
+        194,
+        919,
+        209,
+        929
+      ]
+    },
+    {
+      "text": "671",
+      "confidence": 0.72,
+      "bbox": [
+        214,
+        919,
+        224,
+        929
+      ]
+    },
+    {
+      "text": "4/128",
+      "confidence": 0.9,
+      "bbox": [
+        228,
+        919,
+        245,
+        929
+      ]
+    },
+    {
+      "text": "46",
+      "confidence": 0.83,
+      "bbox": [
+        248,
+        919,
+        257,
+        929
+      ]
+    },
+    {
+      "text": "nam",
+      "confidence": 0.73,
+      "bbox": [
+        169,
+        924,
+        181,
+        927
+      ]
+    },
+    {
+      "text": "۳4",
+      "confidence": 0.67,
+      "bbox": [
+        150,
+        923,
+        160,
+        927
+      ]
+    },
+    {
+      "text": "۳۰/2۶",
+      "confidence": 0.55,
+      "bbox": [
+        356,
+        930,
+        386,
+        936
+      ]
+    },
+    {
+      "text": "000",
+      "confidence": 0.84,
+      "bbox": [
+        315,
+        931,
+        325,
+        935
+      ]
+    },
+    {
+      "text": "00-",
+      "confidence": 0.85,
+      "bbox": [
+        294,
+        932,
+        302,
+        936
+      ]
+    },
+    {
+      "text": "Poco",
+      "confidence": 0.93,
+      "bbox": [
+        192,
+        929,
+        210,
+        939
+      ]
+    },
+    {
+      "text": "C74",
+      "confidence": 0.81,
+      "bbox": [
+        213,
+        929,
+        224,
+        939
+      ]
+    },
+    {
+      "text": "4/128",
+      "confidence": 0.74,
+      "bbox": [
+        227,
+        929,
+        245,
+        939
+      ]
+    },
+    {
+      "text": "4G",
+      "confidence": 0.93,
+      "bbox": [
+        248,
+        929,
+        258,
+        939
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.67,
+      "bbox": [
+        150,
+        932,
+        151,
+        934
+      ]
+    },
+    {
+      "text": "Vietraen",
+      "confidence": 0.0,
+      "bbox": [
+        153,
+        931,
+        180,
+        936
+      ]
+    },
+    {
+      "text": "9500-40000",
+      "confidence": 0.83,
+      "bbox": [
+        283,
+        940,
+        326,
+        946
+      ]
+    },
+    {
+      "text": "Gold",
+      "confidence": 0.73,
+      "bbox": [
+        333,
+        940,
+        349,
+        946
+      ]
+    },
+    {
+      "text": "||",
+      "confidence": 0.86,
+      "bbox": [
+        350,
+        937,
+        354,
+        949
+      ]
+    },
+    {
+      "text": "x7e",
+      "confidence": 0.65,
+      "bbox": [
+        356,
+        940,
+        367,
+        945
+      ]
+    },
+    {
+      "text": "6/128",
+      "confidence": 0.89,
+      "bbox": [
+        368,
+        940,
+        385,
+        946
+      ]
+    },
+    {
+      "text": "39500-40000",
+      "confidence": 0.88,
+      "bbox": [
+        279,
+        948,
+        327,
+        955
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.88,
+      "bbox": [
+        332,
+        949,
+        350,
+        955
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.66,
+      "bbox": [
+        353,
+        947,
+        356,
+        958
+      ]
+    },
+    {
+      "text": "Homer",
+      "confidence": 0.56,
+      "bbox": [
+        356,
+        950,
+        390,
+        956
+      ]
+    },
+    {
+      "text": "۱",
+      "confidence": 0.38,
+      "bbox": [
+        383,
+        947,
+        390,
+        958
+      ]
+    },
+    {
+      "text": "holet",
+      "confidence": 0.24,
+      "bbox": [
+        150,
+        949,
+        169,
+        955
+      ]
+    },
+    {
+      "text": "Bi",
+      "confidence": 0.63,
+      "bbox": [
+        332,
+        958,
+        340,
+        968
+      ]
+    },
+    {
+      "text": "Honor",
+      "confidence": 0.64,
+      "bbox": [
+        355,
+        957,
+        374,
+        968
+      ]
+    },
+    {
+      "text": "X5c",
+      "confidence": 0.23,
+      "bbox": [
+        376,
+        957,
+        385,
+        968
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.89,
+      "bbox": [
+        387,
+        959,
+        389,
+        964
+      ]
+    },
+    {
+      "text": "ireen",
+      "confidence": 0.48,
+      "bbox": [
+        150,
+        958,
+        169,
+        965
+      ]
+    },
+    {
+      "text": "Honor",
+      "confidence": 0.89,
+      "bbox": [
+        355,
+        966,
+        373,
+        977
+      ]
+    },
+    {
+      "text": "play’",
+      "confidence": 0.68,
+      "bbox": [
+        376,
+        966,
+        389,
+        977
+      ]
+    },
+    {
+      "text": "Rare",
+      "confidence": 0.44,
+      "bbox": [
+        249,
+        970,
+        297,
+        980
+      ]
+    },
+    {
+      "text": "See",
+      "confidence": 0.48,
+      "bbox": [
+        150,
+        978,
+        168,
+        980
+      ]
+    }
+  ]
+}

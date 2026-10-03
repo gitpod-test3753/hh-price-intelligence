@@ -1,0 +1,86 @@
+[
+  {
+    "image_id": "1000015278.jpg",
+    "supplier_id": "fardadhamrah",
+    "region_name": "xiaomi",
+    "raw_region": [
+      150,
+      179,
+      389,
+      979
+    ],
+    "region": [
+      190,
+      179,
+      354,
+      979
+    ],
+    "rows": 35,
+    "columns": 1,
+    "horizontal_separators": 36,
+    "vertical_separators": 2
+  },
+  {
+    "image_id": "1000015271.jpg",
+    "supplier_id": "ani_mob",
+    "region_name": "xiaomi",
+    "raw_region": [
+      0,
+      153,
+      233,
+      1048
+    ],
+    "region": [
+      15,
+      153,
+      240,
+      1048
+    ],
+    "rows": 36,
+    "columns": 4,
+    "horizontal_separators": 37,
+    "vertical_separators": 5
+  },
+  {
+    "image_id": "1000015279.jpg",
+    "supplier_id": "alerasolshop",
+    "region_name": "xiaomi",
+    "raw_region": [
+      0,
+      76,
+      183,
+      1100
+    ],
+    "region": [
+      48,
+      76,
+      220,
+      1100
+    ],
+    "rows": 65,
+    "columns": 4,
+    "horizontal_separators": 66,
+    "vertical_separators": 5
+  },
+  {
+    "image_id": "1000015276.jpg",
+    "supplier_id": "mobile_hitech",
+    "region_name": "xiaomi",
+    "raw_region": [
+      0,
+      134,
+      336,
+      1024
+    ],
+    "region": [
+      0,
+      134,
+      336,
+      1024
+    ],
+    "rows": 51,
+    "columns": 4,
+    "horizontal_separators": 52,
+    "vertical_separators": 5
+  }
+]

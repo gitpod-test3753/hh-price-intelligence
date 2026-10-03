@@ -1,0 +1,581 @@
+{
+  "image_id": "1000015276.jpg",
+  "supplier_id": "mobile_hitech",
+  "raw_region": [
+    0,
+    134,
+    336,
+    1024
+  ],
+  "region": [
+    0,
+    134,
+    336,
+    1024
+  ],
+  "row_count": 51,
+  "recognized_rows": 51,
+  "rows": [
+    {
+      "row_index": 0,
+      "bbox": [
+        0,
+        135,
+        336,
+        151
+      ],
+      "text": "POCO X8PRO512/1256 | Sée» | 178,000 | 179,000.",
+      "mean_confidence": 0.5175
+    },
+    {
+      "row_index": 1,
+      "bbox": [
+        0,
+        153,
+        336,
+        169
+      ],
+      "text": "POCOXBPROSI2/I256 | ju | 178,000 | 179,000.",
+      "mean_confidence": 0.6729
+    },
+    {
+      "row_index": 2,
+      "bbox": [
+        0,
+        171,
+        336,
+        186
+      ],
+      "text": "POCOXBPROSI2/1256 | 233 ~~ | 178,000 | 179,000",
+      "mean_confidence": 0.5062
+    },
+    {
+      "row_index": 3,
+      "bbox": [
+        0,
+        188,
+        336,
+        203
+      ],
+      "text": "POCO X7 PROS12/125G = | See» | 122,000 | 123,000",
+      "mean_confidence": 0.593
+    },
+    {
+      "row_index": 4,
+      "bbox": [
+        0,
+        205,
+        336,
+        221
+      ],
+      "text": "pocox7prosiz/izsc 0 (<a<i‘dLttl CU] (td",
+      "mean_confidence": 0.202
+    },
+    {
+      "row_index": 5,
+      "bbox": [
+        0,
+        223,
+        336,
+        238
+      ],
+      "text": "‘pococss256/8 §§# | | Sf» | 58500 | 58,700.",
+      "mean_confidence": 0.5089
+    },
+    {
+      "row_index": 6,
+      "bbox": [
+        0,
+        240,
+        336,
+        255
+      ],
+      "text": "Pococss256/8 (idm et",
+      "mean_confidence": 0.2033
+    },
+    {
+      "row_index": 7,
+      "bbox": [
+        0,
+        257,
+        336,
+        273
+      ],
+      "text": "pococss2s6/s go §|§ | jm | 58,500 | 58,700",
+      "mean_confidence": 0.7022
+    },
+    {
+      "row_index": 8,
+      "bbox": [
+        0,
+        275,
+        336,
+        290
+      ],
+      "text": "POCOC8S5128/6 iQ Se",
+      "mean_confidence": 0.36
+    },
+    {
+      "row_index": 9,
+      "bbox": [
+        0,
+        292,
+        336,
+        307
+      ],
+      "text": "POCOC71128/4 = | Sse | 45,000 | 45,200",
+      "mean_confidence": 0.6388
+    },
+    {
+      "row_index": 10,
+      "bbox": [
+        0,
+        309,
+        336,
+        325
+      ],
+      "text": "pococ7i2/fa tl",
+      "mean_confidence": 0.305
+    },
+    {
+      "row_index": 11,
+      "bbox": [
+        0,
+        327,
+        336,
+        342
+      ],
+      "text": "POCOC7164/4 = | yh | 41,000 | 41,200",
+      "mean_confidence": 0.585
+    },
+    {
+      "row_index": 12,
+      "bbox": [
+        0,
+        344,
+        336,
+        359
+      ],
+      "text": "INOTEISPROPLUSSI12/125G | Se» | |",
+      "mean_confidence": 0.486
+    },
+    {
+      "row_index": 13,
+      "bbox": [
+        0,
+        361,
+        336,
+        377
+      ],
+      "text": "INOTE1SPROS12/124G ##| St» | 116,000 | 117,000.",
+      "mean_confidence": 0.6314
+    },
+    {
+      "row_index": 14,
+      "bbox": [
+        0,
+        379,
+        336,
+        395
+      ],
+      "text": "INOTE1S 256/846 «= | St | | |",
+      "mean_confidence": 0.515
+    },
+    {
+      "row_index": 15,
+      "bbox": [
+        0,
+        397,
+        336,
+        413
+      ],
+      "text": "INOTEIS256/84G = = | jw fF foo.",
+      "mean_confidence": 0.3957
+    },
+    {
+      "row_index": 16,
+      "bbox": [
+        0,
+        415,
+        336,
+        429
+      ],
+      "text": "INOTE1S256/84G | | gfe | Fo |",
+      "mean_confidence": 0.4829
+    },
+    {
+      "row_index": 17,
+      "bbox": [
+        0,
+        431,
+        336,
+        447
+      ],
+      "text": "INOTEI4S512/12 i <awssti‘<‘(q;|l:téCdC SO! CUdElUlUmUlmlUlUClCUdT",
+      "mean_confidence": 0.044
+    },
+    {
+      "row_index": 18,
+      "bbox": [
+        0,
+        449,
+        336,
+        463
+      ],
+      "text": "INOTE14S256/8 = | «St | 80,000 | 80,500",
+      "mean_confidence": 0.5075
+    },
+    {
+      "row_index": 19,
+      "bbox": [
+        0,
+        465,
+        336,
+        481
+      ],
+      "text": "InoTe14256/8 §# = | St» | 76,000 | 76,500",
+      "mean_confidence": 0.5844
+    },
+    {
+      "row_index": 20,
+      "bbox": [
+        0,
+        483,
+        336,
+        498
+      ],
+      "text": "INOTE34256/8 | wl | foo",
+      "mean_confidence": 0.506
+    },
+    {
+      "row_index": 21,
+      "bbox": [
+        0,
+        500,
+        336,
+        516
+      ],
+      "text": "REDMI15256/8 = | | Sm» | 67,000 | 67,500",
+      "mean_confidence": 0.6867
+    },
+    {
+      "row_index": 22,
+      "bbox": [
+        0,
+        518,
+        336,
+        533
+      ],
+      "text": "IREDMI15256/8 = | gyiwSis | 67,000 | 67,500.",
+      "mean_confidence": 0.695
+    },
+    {
+      "row_index": 23,
+      "bbox": [
+        0,
+        535,
+        336,
+        551
+      ],
+      "text": "REDMI1S256/8 = | vs | 67,000 | 67,500",
+      "mean_confidence": 0.7175
+    },
+    {
+      "row_index": 24,
+      "bbox": [
+        0,
+        553,
+        336,
+        568
+      ],
+      "text": "IREDMI1SC256/8 = |§ | «St» | 58500 | 58,700.",
+      "mean_confidence": 0.5922
+    },
+    {
+      "row_index": 25,
+      "bbox": [
+        0,
+        570,
+        336,
+        585
+      ],
+      "text": "IREDMI1SC128/6 = $| St» | 50,000 | 50,200",
+      "mean_confidence": 0.6112
+    },
+    {
+      "row_index": 26,
+      "bbox": [
+        0,
+        587,
+        336,
+        601
+      ],
+      "text": "IREDMI16C256/8 jj #§ | SH | F |",
+      "mean_confidence": 0.3588
+    },
+    {
+      "row_index": 27,
+      "bbox": [
+        0,
+        603,
+        336,
+        619
+      ],
+      "text": "REDMIA7PRO128/6 | cSt | | |",
+      "mean_confidence": 0.5617
+    },
+    {
+      "row_index": 28,
+      "bbox": [
+        0,
+        621,
+        336,
+        637
+      ],
+      "text": "REDMIAS64/3 == | Ste | 40,000 | 40,200",
+      "mean_confidence": 0.6787
+    },
+    {
+      "row_index": 29,
+      "bbox": [
+        0,
+        639,
+        336,
+        654
+      ],
+      "text": "IREDMIA3128/4 == ##$| See | 40,000 | 40,200",
+      "mean_confidence": 0.5188
+    },
+    {
+      "row_index": 30,
+      "bbox": [
+        0,
+        656,
+        336,
+        672
+      ],
+      "text": "inconeasize/a = | wt | <ee000 | 40200",
+      "mean_confidence": 0.515
+    },
+    {
+      "row_index": 31,
+      "bbox": [
+        0,
+        674,
+        336,
+        689
+      ],
+      "text": "|POWER BANK 33W 20000 35> =| ws | 5,800 | 6,000",
+      "mean_confidence": 0.7409
+    },
+    {
+      "row_index": 32,
+      "bbox": [
+        0,
+        691,
+        336,
+        706
+      ],
+      "text": "—KOMETABLET ——",
+      "mean_confidence": 0.0
+    },
+    {
+      "row_index": 33,
+      "bbox": [
+        0,
+        708,
+        336,
+        725
+      ],
+      "text": "DanominspaiPADPRO2ss/swiness | jaw | 68,500 | 69,000.",
+      "mean_confidence": 0.5914
+    },
+    {
+      "row_index": 34,
+      "bbox": [
+        0,
+        727,
+        336,
+        742
+      ],
+      "text": "JMIAOMIREDANFADZPROZIEWHI YS = | aay | 68,500 | 69,000.",
+      "mean_confidence": 0.4856
+    },
+    {
+      "row_index": 35,
+      "bbox": [
+        0,
+        744,
+        336,
+        759
+      ],
+      "text": "|XIAOMIREOMIPAD2256/8WiFiss | Sin f if",
+      "mean_confidence": 0.234
+    },
+    {
+      "row_index": 36,
+      "bbox": [
+        0,
+        761,
+        336,
+        776
+      ],
+      "text": "|XIAOMI REDMIPAD2256/8WiFis,> | jj.» | 53,500 | 53,700.",
+      "mean_confidence": 0.4975
+    },
+    {
+      "row_index": 37,
+      "bbox": [
+        0,
+        778,
+        336,
+        793
+      ],
+      "text": "/POCO PAD M1 256/8 WIFI, | pus | 66,000 | 66,500.",
+      "mean_confidence": 0.6282
+    },
+    {
+      "row_index": 38,
+      "bbox": [
+        0,
+        795,
+        336,
+        811
+      ],
+      "text": "(POCO PAD M1256/8wiFi.s.. | «1 | 66,000 | 66,500",
+      "mean_confidence": 0.51
+    },
+    {
+      "row_index": 39,
+      "bbox": [
+        0,
+        813,
+        336,
+        847
+      ],
+      "text": "Eo reairme",
+      "mean_confidence": 0.265
+    },
+    {
+      "row_index": 40,
+      "bbox": [
+        0,
+        849,
+        336,
+        863
+      ],
+      "text": "iapuUssia? j= ##§ + Saw ~°1=75000 175500",
+      "mean_confidence": 0.24
+    },
+    {
+      "row_index": 41,
+      "bbox": [
+        0,
+        865,
+        336,
+        880
+      ],
+      "text": "1iz2puusSi2/12,s—(<twtsté‘a}”;”*é‘(CMl_] CL C75000 | «75,500",
+      "mean_confidence": 0.214
+    },
+    {
+      "row_index": 42,
+      "bbox": [
+        0,
+        882,
+        336,
+        897
+      ],
+      "text": "\\izpuus256/8—<—tsi(ité‘wLTS*é(}Sst«*dL*Cé«@GSCQ.s«|s«SS, S00",
+      "mean_confidence": 0.3
+    },
+    {
+      "row_index": 43,
+      "bbox": [
+        0,
+        899,
+        336,
+        914
+      ],
+      "text": "iMovESO178/6° | || ‘wsSte: | 284000: | :sa200",
+      "mean_confidence": 0.445
+    },
+    {
+      "row_index": 44,
+      "bbox": [
+        0,
+        916,
+        336,
+        931
+      ],
+      "text": "INOTESO128/4 = | wit | 34,000 | 34,200",
+      "mean_confidence": 0.6488
+    },
+    {
+      "row_index": 45,
+      "bbox": [
+        0,
+        933,
+        336,
+        949
+      ],
+      "text": "ic7sx2s6/8i(<i‘i‘i‘séy;tw})U€dtCC~*é;(C TC 80,000 «| 50,200",
+      "mean_confidence": 0.19
+    },
+    {
+      "row_index": 46,
+      "bbox": [
+        0,
+        951,
+        336,
+        967
+      ],
+      "text": "ic7s256/8 i ti (tstst*é‘“‘s;é‘*LSCS*é«(t]SsC*SE:CC«S,500 | 50,700 ©",
+      "mean_confidence": 0.2686
+    },
+    {
+      "row_index": 47,
+      "bbox": [
+        0,
+        969,
+        336,
+        984
+      ],
+      "text": "ic7i256/8 i ti‘(<i‘ é;!tC*d#*CO*;*‘CS == dL 50,000 =| «50,200",
+      "mean_confidence": 0.2456
+    },
+    {
+      "row_index": 48,
+      "bbox": [
+        0,
+        986,
+        336,
+        1000
+      ],
+      "text": "ic71256/8 = | sud | 50,000 | 50,200",
+      "mean_confidence": 0.5238
+    },
+    {
+      "row_index": 49,
+      "bbox": [
+        0,
+        1002,
+        336,
+        1017
+      ],
+      "text": "ic7i128s/e t—“<‘<‘iéOC‘*rTOOCOC*‘é*S aH == dL 43,000 =| 43,200",
+      "mean_confidence": 0.215
+    },
+    {
+      "row_index": 50,
+      "bbox": [
+        0,
+        1019,
+        336,
+        1023
+      ],
+      "text": "gga OD TTT | i. ee Gf hee queen",
+      "mean_confidence": 0.2944
+    }
+  ]
+}

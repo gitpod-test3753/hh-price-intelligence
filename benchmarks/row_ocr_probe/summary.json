@@ -1,0 +1,38 @@
+[
+  {
+    "image_id": "1000015278.jpg",
+    "supplier_id": "fardadhamrah",
+    "raw_region": [
+      150,
+      179,
+      389,
+      979
+    ],
+    "region": [
+      190,
+      179,
+      354,
+      979
+    ],
+    "row_count": 35,
+    "recognized_rows": 35
+  },
+  {
+    "image_id": "1000015276.jpg",
+    "supplier_id": "mobile_hitech",
+    "raw_region": [
+      0,
+      134,
+      336,
+      1024
+    ],
+    "region": [
+      0,
+      134,
+      336,
+      1024
+    ],
+    "row_count": 51,
+    "recognized_rows": 51
+  }
+]

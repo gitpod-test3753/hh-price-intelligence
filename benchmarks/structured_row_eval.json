@@ -1,0 +1,33 @@
+{
+  "image_id": "1000015276.jpg",
+  "row_index": 13,
+  "raw_text": "INOTE1SPROS12/124G ts",
+  "expected": {
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "network": "4G",
+    "cash_toman": 116000000,
+    "credit_toman": 117000000
+  },
+  "actual": {
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "network": "4G",
+    "cash_toman": 116000000,
+    "credit_toman": 117000000
+  },
+  "exact": {
+    "ram_gb": true,
+    "storage_gb": true,
+    "network": true,
+    "cash_toman": true,
+    "credit_toman": true
+  },
+  "all_exact": true,
+  "evidence": {
+    "model": "INOTE1SPROS12/124G ts",
+    "color": "re.",
+    "cash": "116,000",
+    "credit": "117,000"
+  }
+}

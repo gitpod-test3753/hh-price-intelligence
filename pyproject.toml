@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "hh-price-intelligence"
+version = "0.4.0"
+description = "Telegram-first wholesale mobile price intelligence for HamiHamrah"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.30",
+  "pydantic>=2.8",
+  "sqlalchemy>=2.0",
+  "psycopg[binary]>=3.2",
+  "rapidfuzz>=3.9",
+  "pillow>=10.4",
+  "numpy>=2.0",
+  "opencv-python-headless>=4.10",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.3", "ruff>=0.6", "mypy>=1.11"]
+telegram = ["telethon>=1.36"]
+ocr-tesseract = ["pytesseract>=0.3.13"]
+ocr-easyocr = ["easyocr>=1.7.2"]
+ocr-rapidocr = ["rapidocr", "onnxruntime"]
+ocr-paddle = ["paddleocr>=3.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100

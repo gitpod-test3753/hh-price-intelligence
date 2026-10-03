@@ -1,0 +1,1631 @@
+{
+  "image_id": "1000015276.jpg",
+  "supplier_id": "mobile_hitech",
+  "schema": [
+    "model",
+    "color",
+    "cash",
+    "credit"
+  ],
+  "rows": [
+    {
+      "row_index": 0,
+      "bbox": [
+        0,
+        135,
+        336,
+        151
+      ],
+      "model": "POCO X8PROS12/1256",
+      "ram_gb": 6,
+      "storage_gb": 512,
+      "network": null,
+      "color": "gS",
+      "cash": {
+        "raw": "178,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 178000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "179,000",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 179000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POCO X8PROS12/1256",
+        "color": "gS",
+        "cash": "178,000",
+        "credit": "179,000"
+      }
+    },
+    {
+      "row_index": 1,
+      "bbox": [
+        0,
+        153,
+        336,
+        169
+      ],
+      "model": "POCOXSPROSI2/I25G",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": "5G",
+      "color": "Sew",
+      "cash": {
+        "raw": "178,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 178000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "179,000",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 179000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POCOXSPROSI2/I25G",
+        "color": "Sew",
+        "cash": "178,000",
+        "credit": "179,000"
+      }
+    },
+    {
+      "row_index": 2,
+      "bbox": [
+        0,
+        171,
+        336,
+        186
+      ],
+      "model": "POCO XBPROSI2/125G —",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": "5G",
+      "color": "je on",
+      "cash": {
+        "raw": "178,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 178000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "179,000",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 179000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POCO XBPROSI2/125G —",
+        "color": "je on",
+        "cash": "178,000",
+        "credit": "179,000"
+      }
+    },
+    {
+      "row_index": 3,
+      "bbox": [
+        0,
+        188,
+        336,
+        203
+      ],
+      "model": "POCO X7PRO512/125G",
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "network": "5G",
+      "color": "esas)",
+      "cash": {
+        "raw": "122,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 122000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "123,000",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 123000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POCO X7PRO512/125G",
+        "color": "esas)",
+        "cash": "122,000",
+        "credit": "123,000"
+      }
+    },
+    {
+      "row_index": 4,
+      "bbox": [
+        0,
+        205,
+        336,
+        221
+      ],
+      "model": "POCOX7PROSI2/125G >",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": "5G",
+      "color": "jee)",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "POCOX7PROSI2/125G >",
+        "color": "jee)",
+        "cash": "8...",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 5,
+      "bbox": [
+        0,
+        223,
+        336,
+        238
+      ],
+      "model": "POCOC8S5256/8 t*™S",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "ae",
+      "cash": {
+        "raw": "58,500",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 58500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "58,700",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 58700000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POCOC8S5256/8 t*™S",
+        "color": "ae",
+        "cash": "58,500",
+        "credit": "58,700"
+      }
+    },
+    {
+      "row_index": 6,
+      "bbox": [
+        0,
+        240,
+        336,
+        255
+      ],
+      "model": "POCOCSS5256/8 =",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "pe ||",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "POCOCSS5256/8 =",
+        "color": "pe ||",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 7,
+      "bbox": [
+        0,
+        257,
+        336,
+        273
+      ],
+      "model": "POCOCES256/8",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "ee",
+      "cash": {
+        "raw": "58,500",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 58500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "58,700",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 58700000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POCOCES256/8",
+        "color": "ee",
+        "cash": "58,500",
+        "credit": "58,700"
+      }
+    },
+    {
+      "row_index": 8,
+      "bbox": [
+        0,
+        275,
+        336,
+        290
+      ],
+      "model": "POCOCSS128/6 —t™S",
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "network": null,
+      "color": "Se",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "POCOCSS128/6 —t™S",
+        "color": "Se",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 9,
+      "bbox": [
+        0,
+        292,
+        336,
+        307
+      ],
+      "model": "POCOC71128/6 ———«*™",
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "network": null,
+      "color": "| este |)",
+      "cash": {
+        "raw": "45,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 45000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "45,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 45200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POCOC71128/6 ———«*™",
+        "color": "| este |)",
+        "cash": "45,000",
+        "credit": "45,200"
+      }
+    },
+    {
+      "row_index": 10,
+      "bbox": [
+        0,
+        309,
+        336,
+        325
+      ],
+      "model": "POCOC71128/4",
+      "ram_gb": 4,
+      "storage_gb": 128,
+      "network": null,
+      "color": "[ee eo)",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "POCOC71128/4",
+        "color": "[ee eo)",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 11,
+      "bbox": [
+        0,
+        327,
+        336,
+        342
+      ],
+      "model": "POCOC7164/4 —™",
+      "ram_gb": 4,
+      "storage_gb": 64,
+      "network": null,
+      "color": "eel!",
+      "cash": {
+        "raw": "41,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 41000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "41,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 41200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POCOC7164/4 —™",
+        "color": "eel!",
+        "cash": "41,000",
+        "credit": "41,200"
+      }
+    },
+    {
+      "row_index": 12,
+      "bbox": [
+        0,
+        344,
+        336,
+        359
+      ],
+      "model": "INOTE 15 PRO PLUS 512/125G",
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "network": "5G",
+      "color": "| nga",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "INOTE 15 PRO PLUS 512/125G",
+        "color": "| nga",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 13,
+      "bbox": [
+        0,
+        361,
+        336,
+        377
+      ],
+      "model": "INOTE1SPROS12/124G ts",
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "network": null,
+      "color": "re.",
+      "cash": {
+        "raw": "116,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 116000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "117,000",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 117000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "INOTE1SPROS12/124G ts",
+        "color": "re.",
+        "cash": "116,000",
+        "credit": "117,000"
+      }
+    },
+    {
+      "row_index": 14,
+      "bbox": [
+        0,
+        379,
+        336,
+        395
+      ],
+      "model": "INOTE1S256/84G",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": "4G",
+      "color": "gS",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "INOTE1S256/84G",
+        "color": "gS",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 15,
+      "bbox": [
+        0,
+        397,
+        336,
+        413
+      ],
+      "model": "INOTE1S 256/846 ss",
+      "ram_gb": 6,
+      "storage_gb": 256,
+      "network": null,
+      "color": "— aap",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "INOTE1S 256/846 ss",
+        "color": "— aap",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 16,
+      "bbox": [
+        0,
+        415,
+        336,
+        429
+      ],
+      "model": "INOTE15256/84G = ©",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": "4G",
+      "color": "flip",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "INOTE15256/84G = ©",
+        "color": "flip",
+        "cash": "1",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 17,
+      "bbox": [
+        0,
+        431,
+        336,
+        447
+      ],
+      "model": "INOTE14S512/122 iw",
+      "ram_gb": 2,
+      "storage_gb": 512,
+      "network": null,
+      "color": "eel",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "INOTE14S512/122 iw",
+        "color": "eel",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 18,
+      "bbox": [
+        0,
+        449,
+        336,
+        463
+      ],
+      "model": "INOTE145256/8 =",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "<=",
+      "cash": null,
+      "credit": {
+        "raw": "80,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 80500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "INOTE145256/8 =",
+        "color": "<=",
+        "cash": "",
+        "credit": "80,500"
+      }
+    },
+    {
+      "row_index": 19,
+      "bbox": [
+        0,
+        465,
+        336,
+        481
+      ],
+      "model": "INOTE14256/8 = |",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "ae: nl",
+      "cash": {
+        "raw": "76,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 76000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "76,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 76500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "INOTE14256/8 = |",
+        "color": "ae: nl",
+        "cash": "76,000",
+        "credit": "76,500"
+      }
+    },
+    {
+      "row_index": 20,
+      "bbox": [
+        0,
+        483,
+        336,
+        498
+      ],
+      "model": "INOTE14256/8 = —sS",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "oe)",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "INOTE14256/8 = —sS",
+        "color": "oe)",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 21,
+      "bbox": [
+        0,
+        500,
+        336,
+        516
+      ],
+      "model": "Ream Is2see ts",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": null,
+      "color": "a al",
+      "cash": {
+        "raw": "67,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 67000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "67,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 67500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "Ream Is2see ts",
+        "color": "a al",
+        "cash": "67,000",
+        "credit": "67,500"
+      }
+    },
+    {
+      "row_index": 22,
+      "bbox": [
+        0,
+        518,
+        336,
+        533
+      ],
+      "model": "IREDMI15256/8 =",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "gts",
+      "cash": {
+        "raw": "67,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 67000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "67,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 67500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "IREDMI15256/8 =",
+        "color": "gts",
+        "cash": "67,000",
+        "credit": "67,500"
+      }
+    },
+    {
+      "row_index": 23,
+      "bbox": [
+        0,
+        535,
+        336,
+        551
+      ],
+      "model": "REDMI15256/8 = |",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "a ae",
+      "cash": {
+        "raw": "67,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 67000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "67,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 67500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "REDMI15256/8 = |",
+        "color": "a ae",
+        "cash": "67,000",
+        "credit": "67,500"
+      }
+    },
+    {
+      "row_index": 24,
+      "bbox": [
+        0,
+        553,
+        336,
+        568
+      ],
+      "model": "IREDMI15C256/8 —t*tS",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "Sw",
+      "cash": {
+        "raw": "58,500",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 58500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "58,700",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 58700000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "IREDMI15C256/8 —t*tS",
+        "color": "Sw",
+        "cash": "58,500",
+        "credit": "58,700"
+      }
+    },
+    {
+      "row_index": 25,
+      "bbox": [
+        0,
+        570,
+        336,
+        585
+      ],
+      "model": "REDMI1SC128/6 tt”",
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "network": null,
+      "color": "She",
+      "cash": {
+        "raw": "50,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 50000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "50,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 50200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "REDMI1SC128/6 tt”",
+        "color": "She",
+        "cash": "50,000",
+        "credit": "50,200"
+      }
+    },
+    {
+      "row_index": 26,
+      "bbox": [
+        0,
+        587,
+        336,
+        601
+      ],
+      "model": "IREDMI14C256/8",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "Sho",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "IREDMI14C256/8",
+        "color": "Sho",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 27,
+      "bbox": [
+        0,
+        603,
+        336,
+        619
+      ],
+      "model": "REDMIA7PRO128/4",
+      "ram_gb": 4,
+      "storage_gb": 128,
+      "network": null,
+      "color": "an. ee",
+      "cash": null,
+      "credit": {
+        "raw": "......",
+        "availability": "unknown",
+        "basis": "credit",
+        "normalized_toman": null,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "REDMIA7PRO128/4",
+        "color": "an. ee",
+        "cash": "",
+        "credit": "......"
+      }
+    },
+    {
+      "row_index": 28,
+      "bbox": [
+        0,
+        621,
+        336,
+        637
+      ],
+      "model": "REDMIAS64/3",
+      "ram_gb": 3,
+      "storage_gb": 64,
+      "network": null,
+      "color": "gS",
+      "cash": {
+        "raw": "40,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 40000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "40,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 40200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "REDMIAS64/3",
+        "color": "gS",
+        "cash": "40,000",
+        "credit": "40,200"
+      }
+    },
+    {
+      "row_index": 29,
+      "bbox": [
+        0,
+        639,
+        336,
+        654
+      ],
+      "model": "IREDMIA3128/6",
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "network": null,
+      "color": "She",
+      "cash": {
+        "raw": "40,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 40000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "40,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 40200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "IREDMIA3128/6",
+        "color": "She",
+        "cash": "40,000",
+        "credit": "40,200"
+      }
+    },
+    {
+      "row_index": 30,
+      "bbox": [
+        0,
+        656,
+        336,
+        672
+      ],
+      "model": "RAM tie",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": null,
+      "color": "ames pe",
+      "cash": {
+        "raw": "40,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 40000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "40,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 40200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "RAM tie",
+        "color": "ames pe",
+        "cash": "40,000",
+        "credit": "40,200"
+      }
+    },
+    {
+      "row_index": 31,
+      "bbox": [
+        0,
+        674,
+        336,
+        689
+      ],
+      "model": "POWER BANK 33W 20000 35>",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": null,
+      "color": "=",
+      "cash": {
+        "raw": "5,800",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 5800000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "6,000",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 6000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POWER BANK 33W 20000 35>",
+        "color": "=",
+        "cash": "5,800",
+        "credit": "6,000"
+      }
+    },
+    {
+      "row_index": 32,
+      "bbox": [
+        0,
+        691,
+        336,
+        706
+      ],
+      "model": "nS <7)",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": null,
+      "color": "MITABLET",
+      "cash": {
+        "raw": "- ,",
+        "availability": "unknown",
+        "basis": "cash",
+        "normalized_toman": null,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": null,
+      "evidence": {
+        "model": "nS <7)",
+        "color": "MITABLET",
+        "cash": "- ,",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 33,
+      "bbox": [
+        0,
+        708,
+        336,
+        725
+      ],
+      "model": "AAOMALREDMI PAD PRO 256/8 WIFI at",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "ere Sia al",
+      "cash": {
+        "raw": "68,500",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 68500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "69,000",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 69000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "AAOMALREDMI PAD PRO 256/8 WIFI at",
+        "color": "ere Sia al",
+        "cash": "68,500",
+        "credit": "69,000"
+      }
+    },
+    {
+      "row_index": 34,
+      "bbox": [
+        0,
+        727,
+        336,
+        742
+      ],
+      "model": "XAAOMAI REDAM PAD 2PRO Z50/8.WIF Ss",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": null,
+      "color": "i",
+      "cash": {
+        "raw": "68,500",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 68500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "69,000",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 69000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "XAAOMAI REDAM PAD 2PRO Z50/8.WIF Ss",
+        "color": "i",
+        "cash": "68,500",
+        "credit": "69,000"
+      }
+    },
+    {
+      "row_index": 35,
+      "bbox": [
+        0,
+        744,
+        336,
+        759
+      ],
+      "model": "|XIAOMI REDMI PAD 2 256/8 WIFI 5,2",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "ja? el",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "|XIAOMI REDMI PAD 2 256/8 WIFI 5,2",
+        "color": "ja? el",
+        "cash": "",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 36,
+      "bbox": [
+        0,
+        761,
+        336,
+        776
+      ],
+      "model": "|XIAOMI REDMI PAD 2 256/8 WIFI s,s",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "a",
+      "cash": {
+        "raw": "53,500",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 53500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "53,700",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 53700000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "|XIAOMI REDMI PAD 2 256/8 WIFI s,s",
+        "color": "a",
+        "cash": "53,500",
+        "credit": "53,700"
+      }
+    },
+    {
+      "row_index": 37,
+      "bbox": [
+        0,
+        778,
+        336,
+        793
+      ],
+      "model": "|POCO PAD M1 256/8 WIFI os >",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "gts",
+      "cash": {
+        "raw": "66,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 66000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "66,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 66500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "|POCO PAD M1 256/8 WIFI os >",
+        "color": "gts",
+        "cash": "66,000",
+        "credit": "66,500"
+      }
+    },
+    {
+      "row_index": 38,
+      "bbox": [
+        0,
+        795,
+        336,
+        811
+      ],
+      "model": "POCO PAD M1 256/8 WIFI =",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "a= al",
+      "cash": {
+        "raw": "66,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 66000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "66,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 66500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "POCO PAD M1 256/8 WIFI =",
+        "color": "a= al",
+        "cash": "66,000",
+        "credit": "66,500"
+      }
+    },
+    {
+      "row_index": 39,
+      "bbox": [
+        0,
+        813,
+        336,
+        847
+      ],
+      "model": "i —",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": null,
+      "color": "><aiMm",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "i —",
+        "color": "><aiMm",
+        "cash": "2",
+        "credit": ""
+      }
+    },
+    {
+      "row_index": 40,
+      "bbox": [
+        0,
+        849,
+        336,
+        863
+      ],
+      "model": "bral. 716)) > i",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": null,
+      "color": "ae: |",
+      "cash": {
+        "raw": "75,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 75000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "75,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 75500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "bral. 716)) > i",
+        "color": "ae: |",
+        "cash": "75,000",
+        "credit": "75,500"
+      }
+    },
+    {
+      "row_index": 41,
+      "bbox": [
+        0,
+        865,
+        336,
+        880
+      ],
+      "model": "12PUUS512/12 0 —~tS",
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "network": null,
+      "color": "_. ao",
+      "cash": {
+        "raw": "75,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 75000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "75,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 75500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "12PUUS512/12 0 —~tS",
+        "color": "_. ao",
+        "cash": "75,000",
+        "credit": "75,500"
+      }
+    },
+    {
+      "row_index": 42,
+      "bbox": [
+        0,
+        882,
+        336,
+        897
+      ],
+      "model": "2PLUS256/8 = ts",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "ellie",
+      "cash": {
+        "raw": "65,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 65000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "65,500",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 65500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "2PLUS256/8 = ts",
+        "color": "ellie",
+        "cash": "65,000",
+        "credit": "65,500"
+      }
+    },
+    {
+      "row_index": 43,
+      "bbox": [
+        0,
+        899,
+        336,
+        914
+      ],
+      "model": "MOTEROIZE/EY, CO em",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": null,
+      "color": "ee >",
+      "cash": {
+        "raw": "34,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 34000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "34,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 34200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "MOTEROIZE/EY, CO em",
+        "color": "ee >",
+        "cash": "34,000",
+        "credit": "34,200"
+      }
+    },
+    {
+      "row_index": 44,
+      "bbox": [
+        0,
+        916,
+        336,
+        931
+      ],
+      "model": "INOTESO128/6 —™",
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "network": null,
+      "color": "(D0",
+      "cash": {
+        "raw": "34,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 34000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "34,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 34200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "INOTESO128/6 —™",
+        "color": "(D0",
+        "cash": "34,000",
+        "credit": "34,200"
+      }
+    },
+    {
+      "row_index": 45,
+      "bbox": [
+        0,
+        933,
+        336,
+        949
+      ],
+      "model": "C75K256/8 = ts—",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "= Tay",
+      "cash": {
+        "raw": "50,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 50000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "50,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 50200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "C75K256/8 = ts—",
+        "color": "= Tay",
+        "cash": "50,000",
+        "credit": "50,200"
+      }
+    },
+    {
+      "row_index": 46,
+      "bbox": [
+        0,
+        951,
+        336,
+        967
+      ],
+      "model": "c75256/8 —",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "ggyllb",
+      "cash": {
+        "raw": "50,500",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 50500000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "50,700",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 50700000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "c75256/8 —",
+        "color": "ggyllb",
+        "cash": "50,500",
+        "credit": "50,700"
+      }
+    },
+    {
+      "row_index": 47,
+      "bbox": [
+        0,
+        969,
+        336,
+        984
+      ],
+      "model": "c7.256/8 s—",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "a",
+      "cash": {
+        "raw": "50,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 50000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "50,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 50200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "c7.256/8 s—",
+        "color": "a",
+        "cash": "50,000",
+        "credit": "50,200"
+      }
+    },
+    {
+      "row_index": 48,
+      "bbox": [
+        0,
+        986,
+        336,
+        1000
+      ],
+      "model": "c71256/8 i tt—~—",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "network": null,
+      "color": "er",
+      "cash": {
+        "raw": "50,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 50000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "50,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 50200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "c71256/8 i tt—~—",
+        "color": "er",
+        "cash": "50,000",
+        "credit": "50,200"
+      }
+    },
+    {
+      "row_index": 49,
+      "bbox": [
+        0,
+        1002,
+        336,
+        1017
+      ],
+      "model": "c71128/6 ss—",
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "network": null,
+      "color": "[awe",
+      "cash": {
+        "raw": "43,000",
+        "availability": "available",
+        "basis": "cash",
+        "normalized_toman": 43000000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "credit": {
+        "raw": "43,200",
+        "availability": "available",
+        "basis": "credit",
+        "normalized_toman": 43200000,
+        "min_toman": null,
+        "max_toman": null
+      },
+      "evidence": {
+        "model": "c71128/6 ss—",
+        "color": "[awe",
+        "cash": "43,000",
+        "credit": "43,200"
+      }
+    },
+    {
+      "row_index": 50,
+      "bbox": [
+        0,
+        1019,
+        336,
+        1023
+      ],
+      "model": "Ng",
+      "ram_gb": null,
+      "storage_gb": null,
+      "network": null,
+      "color": "$$ hae",
+      "cash": null,
+      "credit": null,
+      "evidence": {
+        "model": "Ng",
+        "color": "$$ hae",
+        "cash": "645",
+        "credit": "2"
+      }
+    }
+  ]
+}

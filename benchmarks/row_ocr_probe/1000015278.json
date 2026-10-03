@@ -1,0 +1,405 @@
+{
+  "image_id": "1000015278.jpg",
+  "supplier_id": "fardadhamrah",
+  "raw_region": [
+    150,
+    179,
+    389,
+    979
+  ],
+  "region": [
+    190,
+    179,
+    354,
+    979
+  ],
+  "row_count": 35,
+  "recognized_rows": 35,
+  "rows": [
+    {
+      "row_index": 0,
+      "bbox": [
+        190,
+        180,
+        354,
+        212
+      ],
+      "text": "a",
+      "mean_confidence": 0.09
+    },
+    {
+      "row_index": 1,
+      "bbox": [
+        190,
+        214,
+        354,
+        252
+      ],
+      "text": "137070235-09037",
+      "mean_confidence": 0.17
+    },
+    {
+      "row_index": 2,
+      "bbox": [
+        190,
+        254,
+        354,
+        278
+      ],
+      "text": "| XIAOMI- |",
+      "mean_confidence": 0.6567
+    },
+    {
+      "row_index": 3,
+      "bbox": [
+        190,
+        280,
+        354,
+        288
+      ],
+      "text": "lesy s21240 eee Gold |",
+      "mean_confidence": 0.508
+    },
+    {
+      "row_index": 4,
+      "bbox": [
+        190,
+        290,
+        354,
+        300
+      ],
+      "text": "INete 1S peophus 1251286 === lack!",
+      "mean_confidence": 0.3367
+    },
+    {
+      "row_index": 5,
+      "bbox": [
+        190,
+        302,
+        354,
+        312
+      ],
+      "text": "Mote t? promexs2te § 149000-150 Black|",
+      "mean_confidence": 0.3
+    },
+    {
+      "row_index": 6,
+      "bbox": [
+        190,
+        314,
+        354,
+        322
+      ],
+      "text": "INete 172% q.- . weee §hgek|",
+      "mean_confidence": 0.1733
+    },
+    {
+      "row_index": 7,
+      "bbox": [
+        190,
+        324,
+        354,
+        342
+      ],
+      "text": "Cet a ET",
+      "mean_confidence": 0.1333
+    },
+    {
+      "row_index": 8,
+      "bbox": [
+        190,
+        344,
+        354,
+        362
+      ],
+      "text": "[ste re sate _ 948 00-BeD08| Beee",
+      "mean_confidence": 0.1343
+    },
+    {
+      "row_index": 9,
+      "bbox": [
+        190,
+        364,
+        354,
+        404
+      ],
+      "text": "seen",
+      "mean_confidence": 0.0
+    },
+    {
+      "row_index": 10,
+      "bbox": [
+        190,
+        406,
+        354,
+        418
+      ],
+      "text": "|Notet4Pro* $1216 $Gch —wme—(ss«iBt we |",
+      "mean_confidence": 0.2333
+    },
+    {
+      "row_index": 11,
+      "bbox": [
+        190,
+        420,
+        354,
+        454
+      ],
+      "text": "sno Svesoso oc",
+      "mean_confidence": 0.26
+    },
+    {
+      "row_index": 12,
+      "bbox": [
+        190,
+        456,
+        354,
+        462
+      ],
+      "text": "IiNote 14 2750/2 CHSC rti‘i‘i‘(CNw.wW:COCiCiCiCt‘iéSNWin |",
+      "mean_confidence": 0.2833
+    },
+    {
+      "row_index": 13,
+      "bbox": [
+        190,
+        464,
+        354,
+        521
+      ],
+      "text": "eo: eee",
+      "mean_confidence": 0.17
+    },
+    {
+      "row_index": 14,
+      "bbox": [
+        190,
+        523,
+        354,
+        550
+      ],
+      "text": "Fees tsuse 40 66800-67000 Pur",
+      "mean_confidence": 0.376
+    },
+    {
+      "row_index": 15,
+      "bbox": [
+        190,
+        552,
+        354,
+        622
+      ],
+      "text": "ELSES",
+      "mean_confidence": 0.29
+    },
+    {
+      "row_index": 16,
+      "bbox": [
+        190,
+        624,
+        354,
+        642
+      ],
+      "text": "ee ee ak cheer tine",
+      "mean_confidence": 0.274
+    },
+    {
+      "row_index": 17,
+      "bbox": [
+        190,
+        644,
+        354,
+        673
+      ],
+      "text": "fran sezsen so atonsesoo coe",
+      "mean_confidence": 0.246
+    },
+    {
+      "row_index": 18,
+      "bbox": [
+        190,
+        675,
+        354,
+        682
+      ],
+      "text": "lfeteni 12 75498 nie 4) ONAN LULA Bleck |",
+      "mean_confidence": 0.3556
+    },
+    {
+      "row_index": 19,
+      "bbox": [
+        190,
+        684,
+        354,
+        692
+      ],
+      "text": "IReamii2i27eGnic dG SENON.5SASNO Gold |",
+      "mean_confidence": 0.57
+    },
+    {
+      "row_index": 20,
+      "bbox": [
+        190,
+        694,
+        354,
+        722
+      ],
+      "text": "ieamias azo 4400-4450 Gre",
+      "mean_confidence": 0.3175
+    },
+    {
+      "row_index": 21,
+      "bbox": [
+        190,
+        724,
+        354,
+        750
+      ],
+      "text": "JResmias.xe 38000-39500 tack",
+      "mean_confidence": 0.12
+    },
+    {
+      "row_index": 22,
+      "bbox": [
+        190,
+        752,
+        354,
+        760
+      ],
+      "text": "1ReadmiA24/1284G 40000.40600 Black!",
+      "mean_confidence": 0.3167
+    },
+    {
+      "row_index": 23,
+      "bbox": [
+        190,
+        762,
+        354,
+        772
+      ],
+      "text": "|Xisomi 33wadaptor § 2500-2600 White!",
+      "mean_confidence": 0.456
+    },
+    {
+      "row_index": 24,
+      "bbox": [
+        190,
+        774,
+        354,
+        791
+      ],
+      "text": "+ poco i...",
+      "mean_confidence": 0.3067
+    },
+    {
+      "row_index": 25,
+      "bbox": [
+        190,
+        793,
+        354,
+        810
+      ],
+      "text": "AOS pene aa na ce",
+      "mean_confidence": 0.148
+    },
+    {
+      "row_index": 26,
+      "bbox": [
+        190,
+        812,
+        354,
+        831
+      ],
+      "text": "| Face Xr Pre Sea SS | TEAC ES ek",
+      "mean_confidence": 0.295
+    },
+    {
+      "row_index": 27,
+      "bbox": [
+        190,
+        833,
+        354,
+        842
+      ],
+      "text": "1 Poco m7 Pro $12/125G 97000-97500 Sliver!",
+      "mean_confidence": 0.4829
+    },
+    {
+      "row_index": 28,
+      "bbox": [
+        190,
+        844,
+        354,
+        861
+      ],
+      "text": "Le = ee",
+      "mean_confidence": 0.3867
+    },
+    {
+      "row_index": 29,
+      "bbox": [
+        190,
+        863,
+        354,
+        890
+      ],
+      "text": "pes cass 13 58000-58500 Ger",
+      "mean_confidence": 0.358
+    },
+    {
+      "row_index": 30,
+      "bbox": [
+        190,
+        892,
+        354,
+        899
+      ],
+      "text": "[Poco CBOSH128 4G REREAD .KAANO Aleck |",
+      "mean_confidence": 0.3129
+    },
+    {
+      "row_index": 31,
+      "bbox": [
+        190,
+        901,
+        354,
+        908
+      ],
+      "text": "Poco C74 82564G | j#&7000.57600 Glock!",
+      "mean_confidence": 0.24
+    },
+    {
+      "row_index": 32,
+      "bbox": [
+        190,
+        910,
+        354,
+        936
+      ],
+      "text": "[pec crt was 40 44500-45000 Dice",
+      "mean_confidence": 0.4217
+    },
+    {
+      "row_index": 33,
+      "bbox": [
+        190,
+        938,
+        354,
+        965
+      ],
+      "text": "fpccocrt sees 39800-40000 Boat",
+      "mean_confidence": 0.2725
+    },
+    {
+      "row_index": 34,
+      "bbox": [
+        190,
+        967,
+        354,
+        978
+      ],
+      "text": "EEE SSS",
+      "mean_confidence": 0.515
+    }
+  ]
+}

@@ -1,0 +1,5546 @@
+{
+  "image_id": "1000015279.jpg",
+  "supplier_id": "alerasolshop",
+  "region": "xiaomi",
+  "bbox": [
+    0,
+    77,
+    184,
+    1101
+  ],
+  "engine": "tesseract",
+  "pass_id": "english_block",
+  "raw_text": "J 1! | Xisomi Pad: |}-8286)| Gray | 77000 | Xisorl Pad) <1)8-258 |Green | 77000 48 Pro: /Xiaomi Pad? | 8.256 | Blue | 77000 sa pro: [Rect Pad bee | Gray | 148 Pre |Recet Pad | 8256 | Gray | 69300 [18 Pre Redmi Pad | 8-256 |-wr#.| 66500 | 17 Pre Redmi Pad | #256 | Gray | 54000 37 Pro: Redmi Pad~ | #256 |Green | $4000 57 Fro: M517 Pro 5G| 12-17 | Black | *** 7 Pro HST Pro 5G! 12-18 | Gray | 259 iPron AZT nro 5G 28124 yo7 9238 Pro | 457 SG [12-512 |roratind 199 [7 pene | 45T 5G [12-286 | Gray | 189 f7Proe AST 5G [12-258 |immcond) 189 [7 R101 [Note 17 Pro Max| 8-286 | Black | 159 7 Pro Note 1% Pro plun| 12-512 | Blue | 149 |47 Pre [Note 15 Pro plus! 12-612 |Brown| 149 | 17 C [Note 15 Pro se |12-256 Titan | 125 | 17 125 | 17 wets te Free ae Oe | 47 ¢ Note 15 Pro |12-812| Biack| 115 [47 Note 15 Pro |12-612| Blue | 115 [12 [Note 15 Pro |12-612/ Titan | 117 [47 | Note 45 | 8-286 | Black | 81000 (16. ni | Note 15_ | #258 |Green 15C | AAT SG [12-512 Black | 182 | Noten 2-2 [mh 135 [14 ni Note fru plus 5G) 12-512 james] 135 (43-1 as At Note14 Pro plus $6) 12-842 urns] 135 , Hote 4 Pen phim tis) 12-256 |+urpimat| 423 antes m ee ote 14 fu plus SC] 16-542 janitecu| 114 E fs a et] on ~~ _ Ventas ae | Note 44 Pro 5G [12-512 | Gold |11000 Waton s INote 44 Pro 8 | 12-512 |Green |11100 butcr » icin pres LES ick 000 fe Note Pro jc 2n8| Black | 92000 Wotch si | Nota 44S [2-812 Black |92000 Watch si Note 448 | 9-256 | Blue | 80000 | Air p Note 14 _| #258 | Black | 77000 [Air pe Note 14 NFC| 9-256] Green [77000 |_ Air No | 8-256 | Blue | 77000 Note 14.CH SG | 8-266] Black | \"~_ [Redmi 15 | 8.286 | siscx |67000 bee aa ad — 3-256 “~~ |Reanil 1SCNFC | 9-256 | Biue |61000 | F6 P Redmi 15C | 9-256 | black | 60500 |M8 F Re (8-266 |Drange| 61000 | MS F Red DC | s-256 | Blue | *** 3 F Redmi 15C | 4-128 | Biack |51500| Ma Red At 64800 | X7 p FRedmi 146 | ease Purple sio00| XT f |Redmi 14C NFC| 8-256 | Biue |66000 | X7 p |Redmil 140 NFC| 8-285 | black |65000 | X4 p IRedmi 14 | 9-256 |creen |55200 | X Recim (8-256 | Black|65900| NV Radmi 43x | 8-256 | Biue [66000 V Recmi 43x | ®28 | Gold |6e000 | C8! | 7 mre | 4-128 | Black x | AZ nro | 4-64 | Black | 40900 Secdmi £ | 4-128 | Biue | 45000 | Redmi AS | 3-64 | Black |39000 esi star won (20000 Som Redint AS 3384 Green | 40000 |Spari sarin’ AS Du | 4-128 | Black |40000 | TCL teres BS te | 4-198 | Rivne | 40000 Vocal",
+  "tokens": [
+    {
+      "text": "J",
+      "confidence": 0.32,
+      "bbox": [
+        110,
+        82,
+        112,
+        87
+      ]
+    },
+    {
+      "text": "1!",
+      "confidence": 0.26,
+      "bbox": [
+        106,
+        87,
+        111,
+        92
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.89,
+      "bbox": [
+        0,
+        98,
+        3,
+        113
+      ]
+    },
+    {
+      "text": "Xisomi",
+      "confidence": 0.27,
+      "bbox": [
+        6,
+        98,
+        32,
+        113
+      ]
+    },
+    {
+      "text": "Pad:",
+      "confidence": 0.54,
+      "bbox": [
+        36,
+        98,
+        55,
+        113
+      ]
+    },
+    {
+      "text": "|}-8286)|",
+      "confidence": 0.0,
+      "bbox": [
+        59,
+        100,
+        152,
+        111
+      ]
+    },
+    {
+      "text": "Gray",
+      "confidence": 0.96,
+      "bbox": [
+        100,
+        98,
+        119,
+        113
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.94,
+      "bbox": [
+        123,
+        98,
+        128,
+        113
+      ]
+    },
+    {
+      "text": "77000",
+      "confidence": 0.69,
+      "bbox": [
+        131,
+        98,
+        153,
+        113
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.74,
+      "bbox": [
+        0,
+        109,
+        3,
+        123
+      ]
+    },
+    {
+      "text": "Xisorl",
+      "confidence": 0.0,
+      "bbox": [
+        2,
+        111,
+        94,
+        121
+      ]
+    },
+    {
+      "text": "Pad)",
+      "confidence": 0.49,
+      "bbox": [
+        37,
+        109,
+        55,
+        123
+      ]
+    },
+    {
+      "text": "<1)8-258",
+      "confidence": 0.0,
+      "bbox": [
+        59,
+        111,
+        89,
+        121
+      ]
+    },
+    {
+      "text": "|Green",
+      "confidence": 0.37,
+      "bbox": [
+        97,
+        113,
+        122,
+        120
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.9,
+      "bbox": [
+        124,
+        109,
+        128,
+        123
+      ]
+    },
+    {
+      "text": "77000",
+      "confidence": 0.88,
+      "bbox": [
+        130,
+        113,
+        152,
+        122
+      ]
+    },
+    {
+      "text": "48",
+      "confidence": 0.0,
+      "bbox": [
+        157,
+        109,
+        166,
+        123
+      ]
+    },
+    {
+      "text": "Pro:",
+      "confidence": 0.0,
+      "bbox": [
+        167,
+        109,
+        183,
+        123
+      ]
+    },
+    {
+      "text": "/Xiaomi",
+      "confidence": 0.0,
+      "bbox": [
+        2,
+        122,
+        94,
+        133
+      ]
+    },
+    {
+      "text": "Pad?",
+      "confidence": 0.62,
+      "bbox": [
+        38,
+        118,
+        58,
+        134
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.72,
+      "bbox": [
+        63,
+        118,
+        67,
+        134
+      ]
+    },
+    {
+      "text": "8.256",
+      "confidence": 0.32,
+      "bbox": [
+        70,
+        118,
+        90,
+        134
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.81,
+      "bbox": [
+        94,
+        118,
+        98,
+        134
+      ]
+    },
+    {
+      "text": "Blue",
+      "confidence": 0.66,
+      "bbox": [
+        101,
+        124,
+        119,
+        131
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.35,
+      "bbox": [
+        124,
+        118,
+        128,
+        134
+      ]
+    },
+    {
+      "text": "77000",
+      "confidence": 0.35,
+      "bbox": [
+        130,
+        125,
+        152,
+        131
+      ]
+    },
+    {
+      "text": "sa",
+      "confidence": 0.14,
+      "bbox": [
+        158,
+        124,
+        166,
+        131
+      ]
+    },
+    {
+      "text": "pro:",
+      "confidence": 0.0,
+      "bbox": [
+        156,
+        120,
+        184,
+        131
+      ]
+    },
+    {
+      "text": "[Rect",
+      "confidence": 0.35,
+      "bbox": [
+        0,
+        132,
+        23,
+        147
+      ]
+    },
+    {
+      "text": "Pad",
+      "confidence": 0.48,
+      "bbox": [
+        26,
+        132,
+        45,
+        147
+      ]
+    },
+    {
+      "text": "bee",
+      "confidence": 0.26,
+      "bbox": [
+        63,
+        132,
+        87,
+        147
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.49,
+      "bbox": [
+        93,
+        132,
+        97,
+        147
+      ]
+    },
+    {
+      "text": "Gray",
+      "confidence": 0.92,
+      "bbox": [
+        101,
+        132,
+        120,
+        147
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.84,
+      "bbox": [
+        125,
+        132,
+        130,
+        147
+      ]
+    },
+    {
+      "text": "148",
+      "confidence": 0.32,
+      "bbox": [
+        146,
+        135,
+        169,
+        143
+      ]
+    },
+    {
+      "text": "Pre",
+      "confidence": 0.94,
+      "bbox": [
+        173,
+        132,
+        183,
+        147
+      ]
+    },
+    {
+      "text": "|Recet",
+      "confidence": 0.0,
+      "bbox": [
+        0,
+        143,
+        23,
+        159
+      ]
+    },
+    {
+      "text": "Pad",
+      "confidence": 0.81,
+      "bbox": [
+        27,
+        143,
+        39,
+        159
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.3,
+      "bbox": [
+        54,
+        143,
+        67,
+        159
+      ]
+    },
+    {
+      "text": "8256",
+      "confidence": 0.37,
+      "bbox": [
+        70,
+        143,
+        90,
+        159
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.42,
+      "bbox": [
+        93,
+        146,
+        94,
+        153
+      ]
+    },
+    {
+      "text": "Gray",
+      "confidence": 0.96,
+      "bbox": [
+        99,
+        147,
+        124,
+        156
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.89,
+      "bbox": [
+        123,
+        143,
+        127,
+        159
+      ]
+    },
+    {
+      "text": "69300",
+      "confidence": 0.89,
+      "bbox": [
+        130,
+        147,
+        152,
+        153
+      ]
+    },
+    {
+      "text": "[18",
+      "confidence": 0.39,
+      "bbox": [
+        157,
+        146,
+        168,
+        154
+      ]
+    },
+    {
+      "text": "Pre",
+      "confidence": 0.75,
+      "bbox": [
+        171,
+        143,
+        183,
+        159
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.39,
+      "bbox": [
+        0,
+        155,
+        32,
+        169
+      ]
+    },
+    {
+      "text": "Pad",
+      "confidence": 0.64,
+      "bbox": [
+        37,
+        155,
+        53,
+        169
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.22,
+      "bbox": [
+        60,
+        155,
+        66,
+        169
+      ]
+    },
+    {
+      "text": "8-256",
+      "confidence": 0.67,
+      "bbox": [
+        69,
+        155,
+        89,
+        169
+      ]
+    },
+    {
+      "text": "|-wr#.|",
+      "confidence": 0.0,
+      "bbox": [
+        92,
+        157,
+        125,
+        167
+      ]
+    },
+    {
+      "text": "66500",
+      "confidence": 0.95,
+      "bbox": [
+        130,
+        159,
+        152,
+        165
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.65,
+      "bbox": [
+        157,
+        158,
+        158,
+        165
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.65,
+      "bbox": [
+        161,
+        158,
+        169,
+        165
+      ]
+    },
+    {
+      "text": "Pre",
+      "confidence": 0.86,
+      "bbox": [
+        171,
+        158,
+        184,
+        165
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.91,
+      "bbox": [
+        2,
+        179,
+        94,
+        189
+      ]
+    },
+    {
+      "text": "Pad",
+      "confidence": 0.54,
+      "bbox": [
+        37,
+        178,
+        53,
+        193
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.22,
+      "bbox": [
+        60,
+        178,
+        67,
+        193
+      ]
+    },
+    {
+      "text": "#256",
+      "confidence": 0.54,
+      "bbox": [
+        69,
+        178,
+        89,
+        193
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.9,
+      "bbox": [
+        93,
+        178,
+        97,
+        193
+      ]
+    },
+    {
+      "text": "Gray",
+      "confidence": 0.96,
+      "bbox": [
+        100,
+        181,
+        120,
+        189
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.96,
+      "bbox": [
+        123,
+        178,
+        127,
+        193
+      ]
+    },
+    {
+      "text": "54000",
+      "confidence": 0.78,
+      "bbox": [
+        130,
+        182,
+        152,
+        188
+      ]
+    },
+    {
+      "text": "37",
+      "confidence": 0.37,
+      "bbox": [
+        157,
+        178,
+        165,
+        193
+      ]
+    },
+    {
+      "text": "Pro:",
+      "confidence": 0.59,
+      "bbox": [
+        167,
+        182,
+        184,
+        188
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.79,
+      "bbox": [
+        2,
+        202,
+        122,
+        213
+      ]
+    },
+    {
+      "text": "Pad~",
+      "confidence": 0.48,
+      "bbox": [
+        38,
+        200,
+        59,
+        216
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.89,
+      "bbox": [
+        63,
+        200,
+        66,
+        216
+      ]
+    },
+    {
+      "text": "#256",
+      "confidence": 0.73,
+      "bbox": [
+        71,
+        200,
+        89,
+        216
+      ]
+    },
+    {
+      "text": "|Green",
+      "confidence": 0.84,
+      "bbox": [
+        93,
+        200,
+        120,
+        216
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.92,
+      "bbox": [
+        124,
+        200,
+        127,
+        216
+      ]
+    },
+    {
+      "text": "$4000",
+      "confidence": 0.81,
+      "bbox": [
+        130,
+        203,
+        184,
+        214
+      ]
+    },
+    {
+      "text": "57",
+      "confidence": 0.19,
+      "bbox": [
+        156,
+        200,
+        164,
+        216
+      ]
+    },
+    {
+      "text": "Fro:",
+      "confidence": 0.61,
+      "bbox": [
+        168,
+        203,
+        184,
+        214
+      ]
+    },
+    {
+      "text": "M517",
+      "confidence": 0.31,
+      "bbox": [
+        2,
+        234,
+        20,
+        251
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.8,
+      "bbox": [
+        25,
+        236,
+        43,
+        247
+      ]
+    },
+    {
+      "text": "5G|",
+      "confidence": 0.23,
+      "bbox": [
+        52,
+        234,
+        64,
+        251
+      ]
+    },
+    {
+      "text": "12-17",
+      "confidence": 0.44,
+      "bbox": [
+        67,
+        234,
+        88,
+        251
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.58,
+      "bbox": [
+        93,
+        234,
+        97,
+        251
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.58,
+      "bbox": [
+        99,
+        238,
+        121,
+        245
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.63,
+      "bbox": [
+        124,
+        234,
+        130,
+        251
+      ]
+    },
+    {
+      "text": "***",
+      "confidence": 0.65,
+      "bbox": [
+        135,
+        238,
+        147,
+        242
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 0.03,
+      "bbox": [
+        162,
+        238,
+        167,
+        245
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.03,
+      "bbox": [
+        169,
+        238,
+        182,
+        245
+      ]
+    },
+    {
+      "text": "HST",
+      "confidence": 0.22,
+      "bbox": [
+        0,
+        246,
+        20,
+        261
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.94,
+      "bbox": [
+        24,
+        246,
+        43,
+        261
+      ]
+    },
+    {
+      "text": "5G!",
+      "confidence": 0.22,
+      "bbox": [
+        47,
+        246,
+        63,
+        261
+      ]
+    },
+    {
+      "text": "12-18",
+      "confidence": 0.2,
+      "bbox": [
+        68,
+        246,
+        89,
+        261
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.82,
+      "bbox": [
+        93,
+        246,
+        98,
+        261
+      ]
+    },
+    {
+      "text": "Gray",
+      "confidence": 0.95,
+      "bbox": [
+        101,
+        246,
+        121,
+        261
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.93,
+      "bbox": [
+        124,
+        246,
+        130,
+        261
+      ]
+    },
+    {
+      "text": "259",
+      "confidence": 0.69,
+      "bbox": [
+        134,
+        246,
+        150,
+        261
+      ]
+    },
+    {
+      "text": "iPron",
+      "confidence": 0.0,
+      "bbox": [
+        156,
+        246,
+        183,
+        261
+      ]
+    },
+    {
+      "text": "AZT",
+      "confidence": 0.21,
+      "bbox": [
+        0,
+        257,
+        19,
+        282
+      ]
+    },
+    {
+      "text": "nro",
+      "confidence": 0.34,
+      "bbox": [
+        26,
+        257,
+        43,
+        282
+      ]
+    },
+    {
+      "text": "5G",
+      "confidence": 0.52,
+      "bbox": [
+        49,
+        257,
+        60,
+        282
+      ]
+    },
+    {
+      "text": "28124",
+      "confidence": 0.0,
+      "bbox": [
+        66,
+        257,
+        95,
+        282
+      ]
+    },
+    {
+      "text": "yo7",
+      "confidence": 0.0,
+      "bbox": [
+        99,
+        257,
+        123,
+        282
+      ]
+    },
+    {
+      "text": "9238",
+      "confidence": 0.3,
+      "bbox": [
+        131,
+        257,
+        157,
+        282
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.42,
+      "bbox": [
+        166,
+        260,
+        183,
+        274
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.61,
+      "bbox": [
+        0,
+        269,
+        4,
+        284
+      ]
+    },
+    {
+      "text": "457",
+      "confidence": 0.0,
+      "bbox": [
+        11,
+        269,
+        31,
+        284
+      ]
+    },
+    {
+      "text": "SG",
+      "confidence": 0.63,
+      "bbox": [
+        35,
+        269,
+        50,
+        284
+      ]
+    },
+    {
+      "text": "[12-512",
+      "confidence": 0.57,
+      "bbox": [
+        59,
+        270,
+        116,
+        281
+      ]
+    },
+    {
+      "text": "|roratind",
+      "confidence": 0.0,
+      "bbox": [
+        123,
+        276,
+        125,
+        277
+      ]
+    },
+    {
+      "text": "199",
+      "confidence": 0.74,
+      "bbox": [
+        133,
+        272,
+        149,
+        280
+      ]
+    },
+    {
+      "text": "[7",
+      "confidence": 0.45,
+      "bbox": [
+        156,
+        269,
+        166,
+        284
+      ]
+    },
+    {
+      "text": "pene",
+      "confidence": 0.34,
+      "bbox": [
+        168,
+        273,
+        184,
+        279
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.62,
+      "bbox": [
+        0,
+        280,
+        7,
+        295
+      ]
+    },
+    {
+      "text": "45T",
+      "confidence": 0.7,
+      "bbox": [
+        12,
+        280,
+        31,
+        295
+      ]
+    },
+    {
+      "text": "5G",
+      "confidence": 0.66,
+      "bbox": [
+        36,
+        280,
+        53,
+        295
+      ]
+    },
+    {
+      "text": "[12-286",
+      "confidence": 0.0,
+      "bbox": [
+        62,
+        280,
+        91,
+        295
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.43,
+      "bbox": [
+        93,
+        280,
+        98,
+        295
+      ]
+    },
+    {
+      "text": "Gray",
+      "confidence": 0.93,
+      "bbox": [
+        101,
+        280,
+        121,
+        295
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.74,
+      "bbox": [
+        125,
+        280,
+        130,
+        295
+      ]
+    },
+    {
+      "text": "189",
+      "confidence": 0.68,
+      "bbox": [
+        133,
+        280,
+        150,
+        295
+      ]
+    },
+    {
+      "text": "f7Proe",
+      "confidence": 0.0,
+      "bbox": [
+        167,
+        284,
+        184,
+        290
+      ]
+    },
+    {
+      "text": "AST",
+      "confidence": 0.62,
+      "bbox": [
+        0,
+        287,
+        30,
+        308
+      ]
+    },
+    {
+      "text": "5G",
+      "confidence": 0.56,
+      "bbox": [
+        36,
+        287,
+        49,
+        308
+      ]
+    },
+    {
+      "text": "[12-258",
+      "confidence": 0.27,
+      "bbox": [
+        59,
+        287,
+        92,
+        308
+      ]
+    },
+    {
+      "text": "|immcond)",
+      "confidence": 0.0,
+      "bbox": [
+        95,
+        287,
+        128,
+        308
+      ]
+    },
+    {
+      "text": "189",
+      "confidence": 0.63,
+      "bbox": [
+        135,
+        287,
+        150,
+        308
+      ]
+    },
+    {
+      "text": "[7",
+      "confidence": 0.11,
+      "bbox": [
+        155,
+        287,
+        166,
+        308
+      ]
+    },
+    {
+      "text": "R101",
+      "confidence": 0.0,
+      "bbox": [
+        168,
+        296,
+        184,
+        301
+      ]
+    },
+    {
+      "text": "[Note",
+      "confidence": 0.5,
+      "bbox": [
+        0,
+        303,
+        21,
+        318
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.95,
+      "bbox": [
+        24,
+        303,
+        31,
+        318
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.44,
+      "bbox": [
+        35,
+        303,
+        48,
+        318
+      ]
+    },
+    {
+      "text": "Max|",
+      "confidence": 0.44,
+      "bbox": [
+        50,
+        303,
+        66,
+        318
+      ]
+    },
+    {
+      "text": "8-286",
+      "confidence": 0.53,
+      "bbox": [
+        69,
+        303,
+        90,
+        318
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.49,
+      "bbox": [
+        93,
+        303,
+        96,
+        318
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.49,
+      "bbox": [
+        100,
+        303,
+        122,
+        318
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.82,
+      "bbox": [
+        125,
+        303,
+        130,
+        318
+      ]
+    },
+    {
+      "text": "159",
+      "confidence": 0.73,
+      "bbox": [
+        133,
+        306,
+        149,
+        314
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 0.53,
+      "bbox": [
+        159,
+        307,
+        166,
+        314
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.82,
+      "bbox": [
+        170,
+        303,
+        183,
+        318
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.73,
+      "bbox": [
+        0,
+        325,
+        21,
+        339
+      ]
+    },
+    {
+      "text": "1%",
+      "confidence": 0.6,
+      "bbox": [
+        24,
+        325,
+        30,
+        339
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.78,
+      "bbox": [
+        35,
+        325,
+        45,
+        339
+      ]
+    },
+    {
+      "text": "plun|",
+      "confidence": 0.26,
+      "bbox": [
+        48,
+        325,
+        66,
+        339
+      ]
+    },
+    {
+      "text": "12-512",
+      "confidence": 0.26,
+      "bbox": [
+        65,
+        327,
+        94,
+        338
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.35,
+      "bbox": [
+        93,
+        325,
+        97,
+        339
+      ]
+    },
+    {
+      "text": "Blue",
+      "confidence": 0.92,
+      "bbox": [
+        101,
+        329,
+        119,
+        335
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.93,
+      "bbox": [
+        124,
+        325,
+        130,
+        339
+      ]
+    },
+    {
+      "text": "149",
+      "confidence": 0.91,
+      "bbox": [
+        132,
+        328,
+        150,
+        337
+      ]
+    },
+    {
+      "text": "|47",
+      "confidence": 0.72,
+      "bbox": [
+        154,
+        325,
+        168,
+        339
+      ]
+    },
+    {
+      "text": "Pre",
+      "confidence": 0.95,
+      "bbox": [
+        171,
+        325,
+        183,
+        339
+      ]
+    },
+    {
+      "text": "[Note",
+      "confidence": 0.76,
+      "bbox": [
+        0,
+        337,
+        20,
+        352
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.88,
+      "bbox": [
+        23,
+        337,
+        31,
+        352
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.88,
+      "bbox": [
+        35,
+        337,
+        45,
+        352
+      ]
+    },
+    {
+      "text": "plus!",
+      "confidence": 0.45,
+      "bbox": [
+        49,
+        337,
+        64,
+        352
+      ]
+    },
+    {
+      "text": "12-612",
+      "confidence": 0.67,
+      "bbox": [
+        67,
+        337,
+        91,
+        352
+      ]
+    },
+    {
+      "text": "|Brown|",
+      "confidence": 0.21,
+      "bbox": [
+        95,
+        337,
+        128,
+        352
+      ]
+    },
+    {
+      "text": "149",
+      "confidence": 0.92,
+      "bbox": [
+        132,
+        340,
+        150,
+        348
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.92,
+      "bbox": [
+        157,
+        340,
+        158,
+        347
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.87,
+      "bbox": [
+        165,
+        340,
+        184,
+        347
+      ]
+    },
+    {
+      "text": "C",
+      "confidence": 0.75,
+      "bbox": [
+        178,
+        337,
+        183,
+        352
+      ]
+    },
+    {
+      "text": "[Note",
+      "confidence": 0.61,
+      "bbox": [
+        0,
+        348,
+        21,
+        364
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.88,
+      "bbox": [
+        25,
+        348,
+        32,
+        364
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.82,
+      "bbox": [
+        36,
+        348,
+        47,
+        364
+      ]
+    },
+    {
+      "text": "se",
+      "confidence": 0.62,
+      "bbox": [
+        51,
+        348,
+        59,
+        364
+      ]
+    },
+    {
+      "text": "|12-256",
+      "confidence": 0.22,
+      "bbox": [
+        63,
+        348,
+        93,
+        364
+      ]
+    },
+    {
+      "text": "Titan",
+      "confidence": 0.9,
+      "bbox": [
+        100,
+        348,
+        122,
+        364
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.77,
+      "bbox": [
+        125,
+        348,
+        130,
+        364
+      ]
+    },
+    {
+      "text": "125",
+      "confidence": 0.77,
+      "bbox": [
+        133,
+        352,
+        149,
+        359
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.9,
+      "bbox": [
+        154,
+        348,
+        160,
+        364
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.57,
+      "bbox": [
+        165,
+        351,
+        184,
+        359
+      ]
+    },
+    {
+      "text": "125",
+      "confidence": 0.57,
+      "bbox": [
+        133,
+        363,
+        149,
+        371
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.57,
+      "bbox": [
+        157,
+        365,
+        158,
+        370
+      ]
+    },
+    {
+      "text": "17",
+      "confidence": 0.1,
+      "bbox": [
+        165,
+        363,
+        184,
+        370
+      ]
+    },
+    {
+      "text": "wets",
+      "confidence": 0.17,
+      "bbox": [
+        0,
+        371,
+        21,
+        396
+      ]
+    },
+    {
+      "text": "te",
+      "confidence": 0.22,
+      "bbox": [
+        25,
+        371,
+        32,
+        396
+      ]
+    },
+    {
+      "text": "Free",
+      "confidence": 0.0,
+      "bbox": [
+        36,
+        371,
+        59,
+        396
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 0.14,
+      "bbox": [
+        65,
+        371,
+        90,
+        396
+      ]
+    },
+    {
+      "text": "Oe",
+      "confidence": 0.16,
+      "bbox": [
+        100,
+        371,
+        117,
+        396
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.39,
+      "bbox": [
+        157,
+        374,
+        158,
+        381
+      ]
+    },
+    {
+      "text": "47",
+      "confidence": 0.11,
+      "bbox": [
+        165,
+        374,
+        184,
+        382
+      ]
+    },
+    {
+      "text": "¢",
+      "confidence": 0.11,
+      "bbox": [
+        178,
+        372,
+        183,
+        387
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.22,
+      "bbox": [
+        2,
+        384,
+        95,
+        395
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.88,
+      "bbox": [
+        29,
+        382,
+        39,
+        399
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.89,
+      "bbox": [
+        43,
+        382,
+        59,
+        399
+      ]
+    },
+    {
+      "text": "|12-812|",
+      "confidence": 0.05,
+      "bbox": [
+        63,
+        384,
+        95,
+        395
+      ]
+    },
+    {
+      "text": "Biack|",
+      "confidence": 0.62,
+      "bbox": [
+        100,
+        386,
+        122,
+        393
+      ]
+    },
+    {
+      "text": "115",
+      "confidence": 0.94,
+      "bbox": [
+        133,
+        386,
+        149,
+        394
+      ]
+    },
+    {
+      "text": "[47",
+      "confidence": 0.46,
+      "bbox": [
+        159,
+        387,
+        183,
+        397
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.36,
+      "bbox": [
+        5,
+        394,
+        23,
+        409
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.88,
+      "bbox": [
+        29,
+        394,
+        39,
+        409
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.9,
+      "bbox": [
+        45,
+        394,
+        58,
+        409
+      ]
+    },
+    {
+      "text": "|12-612|",
+      "confidence": 0.22,
+      "bbox": [
+        62,
+        396,
+        95,
+        406
+      ]
+    },
+    {
+      "text": "Blue",
+      "confidence": 0.5,
+      "bbox": [
+        101,
+        398,
+        119,
+        404
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.92,
+      "bbox": [
+        126,
+        394,
+        130,
+        409
+      ]
+    },
+    {
+      "text": "115",
+      "confidence": 0.92,
+      "bbox": [
+        127,
+        396,
+        161,
+        406
+      ]
+    },
+    {
+      "text": "[12",
+      "confidence": 0.11,
+      "bbox": [
+        174,
+        397,
+        183,
+        404
+      ]
+    },
+    {
+      "text": "[Note",
+      "confidence": 0.26,
+      "bbox": [
+        0,
+        405,
+        25,
+        421
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.94,
+      "bbox": [
+        29,
+        405,
+        39,
+        421
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.89,
+      "bbox": [
+        44,
+        405,
+        58,
+        421
+      ]
+    },
+    {
+      "text": "|12-612/",
+      "confidence": 0.11,
+      "bbox": [
+        63,
+        406,
+        120,
+        418
+      ]
+    },
+    {
+      "text": "Titan",
+      "confidence": 0.94,
+      "bbox": [
+        100,
+        405,
+        122,
+        421
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.78,
+      "bbox": [
+        125,
+        405,
+        130,
+        421
+      ]
+    },
+    {
+      "text": "117",
+      "confidence": 0.76,
+      "bbox": [
+        134,
+        405,
+        150,
+        421
+      ]
+    },
+    {
+      "text": "[47",
+      "confidence": 0.0,
+      "bbox": [
+        160,
+        407,
+        184,
+        416
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.61,
+      "bbox": [
+        0,
+        451,
+        7,
+        466
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.61,
+      "bbox": [
+        13,
+        451,
+        38,
+        466
+      ]
+    },
+    {
+      "text": "45",
+      "confidence": 0.66,
+      "bbox": [
+        42,
+        451,
+        53,
+        466
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.66,
+      "bbox": [
+        59,
+        451,
+        66,
+        466
+      ]
+    },
+    {
+      "text": "8-286",
+      "confidence": 0.3,
+      "bbox": [
+        69,
+        451,
+        89,
+        466
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.3,
+      "bbox": [
+        92,
+        451,
+        96,
+        466
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.74,
+      "bbox": [
+        100,
+        451,
+        119,
+        466
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.94,
+      "bbox": [
+        124,
+        451,
+        128,
+        466
+      ]
+    },
+    {
+      "text": "81000",
+      "confidence": 0.83,
+      "bbox": [
+        132,
+        451,
+        153,
+        466
+      ]
+    },
+    {
+      "text": "(16.",
+      "confidence": 0.51,
+      "bbox": [
+        157,
+        451,
+        174,
+        466
+      ]
+    },
+    {
+      "text": "ni",
+      "confidence": 0.03,
+      "bbox": [
+        175,
+        454,
+        184,
+        461
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.74,
+      "bbox": [
+        0,
+        474,
+        7,
+        493
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.74,
+      "bbox": [
+        11,
+        474,
+        38,
+        493
+      ]
+    },
+    {
+      "text": "15_",
+      "confidence": 0.82,
+      "bbox": [
+        42,
+        474,
+        58,
+        493
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.77,
+      "bbox": [
+        61,
+        474,
+        65,
+        493
+      ]
+    },
+    {
+      "text": "#258",
+      "confidence": 0.77,
+      "bbox": [
+        69,
+        474,
+        89,
+        493
+      ]
+    },
+    {
+      "text": "|Green",
+      "confidence": 0.87,
+      "bbox": [
+        94,
+        474,
+        122,
+        493
+      ]
+    },
+    {
+      "text": "15C",
+      "confidence": 0.47,
+      "bbox": [
+        161,
+        478,
+        184,
+        487
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.61,
+      "bbox": [
+        0,
+        488,
+        5,
+        503
+      ]
+    },
+    {
+      "text": "AAT",
+      "confidence": 0.15,
+      "bbox": [
+        13,
+        488,
+        32,
+        503
+      ]
+    },
+    {
+      "text": "SG",
+      "confidence": 0.62,
+      "bbox": [
+        36,
+        488,
+        49,
+        503
+      ]
+    },
+    {
+      "text": "[12-512",
+      "confidence": 0.06,
+      "bbox": [
+        59,
+        490,
+        126,
+        500
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.33,
+      "bbox": [
+        99,
+        488,
+        122,
+        503
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.95,
+      "bbox": [
+        125,
+        488,
+        129,
+        503
+      ]
+    },
+    {
+      "text": "182",
+      "confidence": 0.95,
+      "bbox": [
+        132,
+        491,
+        150,
+        499
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.91,
+      "bbox": [
+        157,
+        491,
+        159,
+        499
+      ]
+    },
+    {
+      "text": "Noten",
+      "confidence": 0.0,
+      "bbox": [
+        0,
+        499,
+        52,
+        524
+      ]
+    },
+    {
+      "text": "2-2",
+      "confidence": 0.52,
+      "bbox": [
+        70,
+        499,
+        91,
+        524
+      ]
+    },
+    {
+      "text": "[mh",
+      "confidence": 0.37,
+      "bbox": [
+        95,
+        499,
+        126,
+        524
+      ]
+    },
+    {
+      "text": "135",
+      "confidence": 0.77,
+      "bbox": [
+        132,
+        502,
+        150,
+        511
+      ]
+    },
+    {
+      "text": "[14",
+      "confidence": 0.57,
+      "bbox": [
+        156,
+        500,
+        171,
+        517
+      ]
+    },
+    {
+      "text": "ni",
+      "confidence": 0.4,
+      "bbox": [
+        175,
+        503,
+        184,
+        510
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.57,
+      "bbox": [
+        0,
+        511,
+        21,
+        526
+      ]
+    },
+    {
+      "text": "fru",
+      "confidence": 0.56,
+      "bbox": [
+        28,
+        511,
+        38,
+        526
+      ]
+    },
+    {
+      "text": "plus",
+      "confidence": 0.38,
+      "bbox": [
+        41,
+        511,
+        52,
+        526
+      ]
+    },
+    {
+      "text": "5G)",
+      "confidence": 0.6,
+      "bbox": [
+        56,
+        511,
+        64,
+        526
+      ]
+    },
+    {
+      "text": "12-512",
+      "confidence": 0.68,
+      "bbox": [
+        68,
+        511,
+        90,
+        526
+      ]
+    },
+    {
+      "text": "james]",
+      "confidence": 0.05,
+      "bbox": [
+        111,
+        515,
+        124,
+        521
+      ]
+    },
+    {
+      "text": "135",
+      "confidence": 0.91,
+      "bbox": [
+        132,
+        514,
+        150,
+        522
+      ]
+    },
+    {
+      "text": "(43-1",
+      "confidence": 0.5,
+      "bbox": [
+        165,
+        514,
+        184,
+        521
+      ]
+    },
+    {
+      "text": "as",
+      "confidence": 0.11,
+      "bbox": [
+        2,
+        524,
+        92,
+        534
+      ]
+    },
+    {
+      "text": "At",
+      "confidence": 0.64,
+      "bbox": [
+        171,
+        528,
+        184,
+        539
+      ]
+    },
+    {
+      "text": "Note14",
+      "confidence": 0.25,
+      "bbox": [
+        0,
+        533,
+        25,
+        550
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.78,
+      "bbox": [
+        29,
+        533,
+        37,
+        550
+      ]
+    },
+    {
+      "text": "plus",
+      "confidence": 0.69,
+      "bbox": [
+        41,
+        533,
+        52,
+        550
+      ]
+    },
+    {
+      "text": "$6)",
+      "confidence": 0.71,
+      "bbox": [
+        56,
+        533,
+        64,
+        550
+      ]
+    },
+    {
+      "text": "12-842",
+      "confidence": 0.72,
+      "bbox": [
+        68,
+        533,
+        90,
+        550
+      ]
+    },
+    {
+      "text": "urns]",
+      "confidence": 0.04,
+      "bbox": [
+        97,
+        533,
+        128,
+        550
+      ]
+    },
+    {
+      "text": "135",
+      "confidence": 0.9,
+      "bbox": [
+        133,
+        536,
+        150,
+        545
+      ]
+    },
+    {
+      "text": ",",
+      "confidence": 0.39,
+      "bbox": [
+        183,
+        538,
+        184,
+        539
+      ]
+    },
+    {
+      "text": "Hote",
+      "confidence": 0.28,
+      "bbox": [
+        0,
+        545,
+        18,
+        560
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.28,
+      "bbox": [
+        22,
+        545,
+        25,
+        560
+      ]
+    },
+    {
+      "text": "Pen",
+      "confidence": 0.66,
+      "bbox": [
+        28,
+        545,
+        38,
+        560
+      ]
+    },
+    {
+      "text": "phim",
+      "confidence": 0.0,
+      "bbox": [
+        40,
+        545,
+        52,
+        560
+      ]
+    },
+    {
+      "text": "tis)",
+      "confidence": 0.42,
+      "bbox": [
+        55,
+        545,
+        64,
+        560
+      ]
+    },
+    {
+      "text": "12-256",
+      "confidence": 0.87,
+      "bbox": [
+        69,
+        545,
+        90,
+        560
+      ]
+    },
+    {
+      "text": "|+urpimat|",
+      "confidence": 0.0,
+      "bbox": [
+        93,
+        546,
+        126,
+        557
+      ]
+    },
+    {
+      "text": "423",
+      "confidence": 0.68,
+      "bbox": [
+        132,
+        548,
+        150,
+        556
+      ]
+    },
+    {
+      "text": "antes",
+      "confidence": 0.0,
+      "bbox": [
+        157,
+        548,
+        184,
+        555
+      ]
+    },
+    {
+      "text": "m",
+      "confidence": 0.0,
+      "bbox": [
+        178,
+        545,
+        183,
+        560
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 0.47,
+      "bbox": [
+        133,
+        559,
+        184,
+        578
+      ]
+    },
+    {
+      "text": "ote",
+      "confidence": 0.48,
+      "bbox": [
+        7,
+        575,
+        9,
+        576
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.48,
+      "bbox": [
+        18,
+        569,
+        25,
+        582
+      ]
+    },
+    {
+      "text": "fu",
+      "confidence": 0.35,
+      "bbox": [
+        28,
+        572,
+        37,
+        578
+      ]
+    },
+    {
+      "text": "plus",
+      "confidence": 0.72,
+      "bbox": [
+        40,
+        569,
+        53,
+        582
+      ]
+    },
+    {
+      "text": "SC]",
+      "confidence": 0.67,
+      "bbox": [
+        56,
+        569,
+        65,
+        582
+      ]
+    },
+    {
+      "text": "16-542",
+      "confidence": 0.56,
+      "bbox": [
+        67,
+        572,
+        91,
+        579
+      ]
+    },
+    {
+      "text": "janitecu|",
+      "confidence": 0.0,
+      "bbox": [
+        96,
+        573,
+        124,
+        577
+      ]
+    },
+    {
+      "text": "114",
+      "confidence": 0.77,
+      "bbox": [
+        133,
+        571,
+        150,
+        579
+      ]
+    },
+    {
+      "text": "E",
+      "confidence": 0.13,
+      "bbox": [
+        177,
+        574,
+        184,
+        578
+      ]
+    },
+    {
+      "text": "fs",
+      "confidence": 0.37,
+      "bbox": [
+        0,
+        579,
+        18,
+        615
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 0.48,
+      "bbox": [
+        27,
+        581,
+        45,
+        591
+      ]
+    },
+    {
+      "text": "et]",
+      "confidence": 0.39,
+      "bbox": [
+        69,
+        579,
+        96,
+        615
+      ]
+    },
+    {
+      "text": "on",
+      "confidence": 0.45,
+      "bbox": [
+        101,
+        579,
+        125,
+        615
+      ]
+    },
+    {
+      "text": "~~",
+      "confidence": 0.28,
+      "bbox": [
+        136,
+        583,
+        146,
+        585
+      ]
+    },
+    {
+      "text": "_",
+      "confidence": 0.63,
+      "bbox": [
+        148,
+        580,
+        155,
+        595
+      ]
+    },
+    {
+      "text": "Ventas",
+      "confidence": 0.0,
+      "bbox": [
+        157,
+        582,
+        184,
+        589
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 0.24,
+      "bbox": [
+        178,
+        580,
+        184,
+        595
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.52,
+      "bbox": [
+        0,
+        589,
+        3,
+        604
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.52,
+      "bbox": [
+        5,
+        589,
+        21,
+        604
+      ]
+    },
+    {
+      "text": "44",
+      "confidence": 0.83,
+      "bbox": [
+        24,
+        589,
+        31,
+        604
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.87,
+      "bbox": [
+        35,
+        589,
+        46,
+        604
+      ]
+    },
+    {
+      "text": "5G",
+      "confidence": 0.64,
+      "bbox": [
+        50,
+        589,
+        58,
+        604
+      ]
+    },
+    {
+      "text": "[12-512",
+      "confidence": 0.38,
+      "bbox": [
+        63,
+        591,
+        95,
+        603
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.38,
+      "bbox": [
+        93,
+        589,
+        98,
+        604
+      ]
+    },
+    {
+      "text": "Gold",
+      "confidence": 0.9,
+      "bbox": [
+        100,
+        594,
+        120,
+        601
+      ]
+    },
+    {
+      "text": "|11000",
+      "confidence": 0.89,
+      "bbox": [
+        124,
+        589,
+        153,
+        604
+      ]
+    },
+    {
+      "text": "Waton",
+      "confidence": 0.64,
+      "bbox": [
+        157,
+        589,
+        174,
+        604
+      ]
+    },
+    {
+      "text": "s",
+      "confidence": 0.23,
+      "bbox": [
+        178,
+        597,
+        183,
+        601
+      ]
+    },
+    {
+      "text": "INote",
+      "confidence": 0.0,
+      "bbox": [
+        0,
+        602,
+        21,
+        615
+      ]
+    },
+    {
+      "text": "44",
+      "confidence": 0.83,
+      "bbox": [
+        24,
+        602,
+        32,
+        615
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.95,
+      "bbox": [
+        35,
+        602,
+        46,
+        615
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 0.38,
+      "bbox": [
+        50,
+        602,
+        56,
+        615
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.49,
+      "bbox": [
+        62,
+        602,
+        67,
+        615
+      ]
+    },
+    {
+      "text": "12-512",
+      "confidence": 0.49,
+      "bbox": [
+        67,
+        602,
+        91,
+        615
+      ]
+    },
+    {
+      "text": "|Green",
+      "confidence": 0.91,
+      "bbox": [
+        94,
+        602,
+        121,
+        615
+      ]
+    },
+    {
+      "text": "|11100",
+      "confidence": 0.48,
+      "bbox": [
+        125,
+        602,
+        152,
+        615
+      ]
+    },
+    {
+      "text": "butcr",
+      "confidence": 0.0,
+      "bbox": [
+        156,
+        602,
+        174,
+        615
+      ]
+    },
+    {
+      "text": "»",
+      "confidence": 0.0,
+      "bbox": [
+        178,
+        608,
+        184,
+        612
+      ]
+    },
+    {
+      "text": "icin",
+      "confidence": 0.41,
+      "bbox": [
+        0,
+        613,
+        25,
+        643
+      ]
+    },
+    {
+      "text": "pres",
+      "confidence": 0.37,
+      "bbox": [
+        37,
+        613,
+        62,
+        643
+      ]
+    },
+    {
+      "text": "LES",
+      "confidence": 0.21,
+      "bbox": [
+        67,
+        613,
+        87,
+        643
+      ]
+    },
+    {
+      "text": "ick",
+      "confidence": 0.49,
+      "bbox": [
+        99,
+        613,
+        119,
+        643
+      ]
+    },
+    {
+      "text": "000",
+      "confidence": 0.57,
+      "bbox": [
+        131,
+        613,
+        151,
+        643
+      ]
+    },
+    {
+      "text": "fe",
+      "confidence": 0.39,
+      "bbox": [
+        170,
+        618,
+        184,
+        624
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.96,
+      "bbox": [
+        5,
+        632,
+        24,
+        637
+      ]
+    },
+    {
+      "text": "Pro",
+      "confidence": 0.46,
+      "bbox": [
+        45,
+        631,
+        58,
+        637
+      ]
+    },
+    {
+      "text": "jc",
+      "confidence": 0.29,
+      "bbox": [
+        63,
+        624,
+        75,
+        638
+      ]
+    },
+    {
+      "text": "2n8|",
+      "confidence": 0.0,
+      "bbox": [
+        84,
+        624,
+        97,
+        638
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.96,
+      "bbox": [
+        98,
+        626,
+        121,
+        637
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.0,
+      "bbox": [
+        125,
+        624,
+        130,
+        638
+      ]
+    },
+    {
+      "text": "92000",
+      "confidence": 0.0,
+      "bbox": [
+        129,
+        628,
+        153,
+        635
+      ]
+    },
+    {
+      "text": "Wotch",
+      "confidence": 0.22,
+      "bbox": [
+        155,
+        624,
+        174,
+        638
+      ]
+    },
+    {
+      "text": "si",
+      "confidence": 0.72,
+      "bbox": [
+        177,
+        630,
+        184,
+        636
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.83,
+      "bbox": [
+        0,
+        636,
+        4,
+        651
+      ]
+    },
+    {
+      "text": "Nota",
+      "confidence": 0.68,
+      "bbox": [
+        10,
+        644,
+        30,
+        648
+      ]
+    },
+    {
+      "text": "44S",
+      "confidence": 0.5,
+      "bbox": [
+        38,
+        638,
+        54,
+        648
+      ]
+    },
+    {
+      "text": "[2-812",
+      "confidence": 0.0,
+      "bbox": [
+        61,
+        636,
+        93,
+        651
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.65,
+      "bbox": [
+        100,
+        636,
+        122,
+        651
+      ]
+    },
+    {
+      "text": "|92000",
+      "confidence": 0.9,
+      "bbox": [
+        125,
+        636,
+        152,
+        651
+      ]
+    },
+    {
+      "text": "Watch",
+      "confidence": 0.75,
+      "bbox": [
+        157,
+        636,
+        174,
+        651
+      ]
+    },
+    {
+      "text": "si",
+      "confidence": 0.41,
+      "bbox": [
+        178,
+        636,
+        183,
+        651
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.93,
+      "bbox": [
+        10,
+        667,
+        30,
+        671
+      ]
+    },
+    {
+      "text": "448",
+      "confidence": 0.28,
+      "bbox": [
+        48,
+        666,
+        52,
+        671
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.88,
+      "bbox": [
+        60,
+        659,
+        65,
+        673
+      ]
+    },
+    {
+      "text": "9-256",
+      "confidence": 0.55,
+      "bbox": [
+        65,
+        661,
+        121,
+        671
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.89,
+      "bbox": [
+        94,
+        659,
+        97,
+        673
+      ]
+    },
+    {
+      "text": "Blue",
+      "confidence": 0.92,
+      "bbox": [
+        102,
+        661,
+        120,
+        671
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.1,
+      "bbox": [
+        124,
+        659,
+        129,
+        673
+      ]
+    },
+    {
+      "text": "80000",
+      "confidence": 0.1,
+      "bbox": [
+        129,
+        662,
+        179,
+        669
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.71,
+      "bbox": [
+        155,
+        659,
+        159,
+        673
+      ]
+    },
+    {
+      "text": "Air",
+      "confidence": 0.56,
+      "bbox": [
+        160,
+        662,
+        173,
+        669
+      ]
+    },
+    {
+      "text": "p",
+      "confidence": 0.56,
+      "bbox": [
+        175,
+        659,
+        180,
+        673
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.95,
+      "bbox": [
+        13,
+        690,
+        35,
+        694
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.45,
+      "bbox": [
+        48,
+        691,
+        49,
+        692
+      ]
+    },
+    {
+      "text": "_|",
+      "confidence": 0.33,
+      "bbox": [
+        55,
+        681,
+        65,
+        697
+      ]
+    },
+    {
+      "text": "#258",
+      "confidence": 0.63,
+      "bbox": [
+        65,
+        683,
+        122,
+        694
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.96,
+      "bbox": [
+        92,
+        681,
+        96,
+        697
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.96,
+      "bbox": [
+        100,
+        683,
+        121,
+        694
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.22,
+      "bbox": [
+        125,
+        681,
+        129,
+        697
+      ]
+    },
+    {
+      "text": "77000",
+      "confidence": 0.22,
+      "bbox": [
+        129,
+        685,
+        153,
+        692
+      ]
+    },
+    {
+      "text": "[Air",
+      "confidence": 0.79,
+      "bbox": [
+        159,
+        685,
+        180,
+        692
+      ]
+    },
+    {
+      "text": "pe",
+      "confidence": 0.87,
+      "bbox": [
+        173,
+        681,
+        180,
+        697
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.96,
+      "bbox": [
+        0,
+        693,
+        23,
+        708
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.88,
+      "bbox": [
+        28,
+        693,
+        39,
+        708
+      ]
+    },
+    {
+      "text": "NFC|",
+      "confidence": 0.71,
+      "bbox": [
+        44,
+        693,
+        64,
+        708
+      ]
+    },
+    {
+      "text": "9-256]",
+      "confidence": 0.09,
+      "bbox": [
+        68,
+        693,
+        96,
+        708
+      ]
+    },
+    {
+      "text": "Green",
+      "confidence": 0.65,
+      "bbox": [
+        100,
+        693,
+        122,
+        708
+      ]
+    },
+    {
+      "text": "[77000",
+      "confidence": 0.55,
+      "bbox": [
+        125,
+        693,
+        153,
+        708
+      ]
+    },
+    {
+      "text": "|_",
+      "confidence": 0.69,
+      "bbox": [
+        156,
+        693,
+        165,
+        708
+      ]
+    },
+    {
+      "text": "Air",
+      "confidence": 0.76,
+      "bbox": [
+        167,
+        696,
+        180,
+        703
+      ]
+    },
+    {
+      "text": "No",
+      "confidence": 0.78,
+      "bbox": [
+        13,
+        724,
+        24,
+        728
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.61,
+      "bbox": [
+        63,
+        716,
+        67,
+        729
+      ]
+    },
+    {
+      "text": "8-256",
+      "confidence": 0.61,
+      "bbox": [
+        65,
+        717,
+        94,
+        728
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.94,
+      "bbox": [
+        94,
+        716,
+        97,
+        729
+      ]
+    },
+    {
+      "text": "Blue",
+      "confidence": 0.95,
+      "bbox": [
+        101,
+        719,
+        119,
+        726
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.0,
+      "bbox": [
+        124,
+        716,
+        128,
+        729
+      ]
+    },
+    {
+      "text": "77000",
+      "confidence": 0.0,
+      "bbox": [
+        130,
+        719,
+        153,
+        726
+      ]
+    },
+    {
+      "text": "Note",
+      "confidence": 0.36,
+      "bbox": [
+        0,
+        727,
+        21,
+        742
+      ]
+    },
+    {
+      "text": "14.CH",
+      "confidence": 0.56,
+      "bbox": [
+        25,
+        727,
+        46,
+        742
+      ]
+    },
+    {
+      "text": "SG",
+      "confidence": 0.11,
+      "bbox": [
+        50,
+        727,
+        60,
+        742
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.11,
+      "bbox": [
+        62,
+        727,
+        65,
+        742
+      ]
+    },
+    {
+      "text": "8-266]",
+      "confidence": 0.55,
+      "bbox": [
+        65,
+        729,
+        94,
+        739
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.63,
+      "bbox": [
+        98,
+        731,
+        124,
+        740
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.62,
+      "bbox": [
+        126,
+        727,
+        130,
+        742
+      ]
+    },
+    {
+      "text": "\"~_",
+      "confidence": 0.1,
+      "bbox": [
+        128,
+        731,
+        155,
+        740
+      ]
+    },
+    {
+      "text": "[Redmi",
+      "confidence": 0.0,
+      "bbox": [
+        2,
+        740,
+        95,
+        751
+      ]
+    },
+    {
+      "text": "15",
+      "confidence": 0.93,
+      "bbox": [
+        44,
+        738,
+        56,
+        755
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.84,
+      "bbox": [
+        60,
+        738,
+        64,
+        755
+      ]
+    },
+    {
+      "text": "8.286",
+      "confidence": 0.58,
+      "bbox": [
+        68,
+        738,
+        88,
+        755
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.93,
+      "bbox": [
+        92,
+        738,
+        95,
+        755
+      ]
+    },
+    {
+      "text": "siscx",
+      "confidence": 0.77,
+      "bbox": [
+        100,
+        742,
+        120,
+        748
+      ]
+    },
+    {
+      "text": "|67000",
+      "confidence": 0.77,
+      "bbox": [
+        129,
+        741,
+        153,
+        749
+      ]
+    },
+    {
+      "text": "bee",
+      "confidence": 0.2,
+      "bbox": [
+        1,
+        763,
+        126,
+        785
+      ]
+    },
+    {
+      "text": "aa",
+      "confidence": 0.32,
+      "bbox": [
+        129,
+        764,
+        184,
+        784
+      ]
+    },
+    {
+      "text": "ad",
+      "confidence": 0.88,
+      "bbox": [
+        13,
+        777,
+        21,
+        781
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 0.05,
+      "bbox": [
+        49,
+        774,
+        54,
+        778
+      ]
+    },
+    {
+      "text": "3-256",
+      "confidence": 0.68,
+      "bbox": [
+        68,
+        773,
+        89,
+        784
+      ]
+    },
+    {
+      "text": "“~~",
+      "confidence": 0.32,
+      "bbox": [
+        136,
+        776,
+        146,
+        778
+      ]
+    },
+    {
+      "text": "|Reanil",
+      "confidence": 0.42,
+      "bbox": [
+        0,
+        784,
+        29,
+        799
+      ]
+    },
+    {
+      "text": "1SCNFC",
+      "confidence": 0.28,
+      "bbox": [
+        32,
+        784,
+        58,
+        799
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.69,
+      "bbox": [
+        63,
+        784,
+        66,
+        799
+      ]
+    },
+    {
+      "text": "9-256",
+      "confidence": 0.48,
+      "bbox": [
+        69,
+        784,
+        90,
+        799
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.49,
+      "bbox": [
+        93,
+        784,
+        98,
+        799
+      ]
+    },
+    {
+      "text": "Biue",
+      "confidence": 0.92,
+      "bbox": [
+        101,
+        784,
+        119,
+        799
+      ]
+    },
+    {
+      "text": "|61000",
+      "confidence": 0.82,
+      "bbox": [
+        129,
+        787,
+        158,
+        795
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.93,
+      "bbox": [
+        156,
+        784,
+        160,
+        799
+      ]
+    },
+    {
+      "text": "F6",
+      "confidence": 0.83,
+      "bbox": [
+        164,
+        786,
+        184,
+        794
+      ]
+    },
+    {
+      "text": "P",
+      "confidence": 0.52,
+      "bbox": [
+        178,
+        784,
+        183,
+        799
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.88,
+      "bbox": [
+        5,
+        810,
+        36,
+        817
+      ]
+    },
+    {
+      "text": "15C",
+      "confidence": 0.42,
+      "bbox": [
+        49,
+        809,
+        54,
+        812
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.42,
+      "bbox": [
+        60,
+        807,
+        64,
+        820
+      ]
+    },
+    {
+      "text": "9-256",
+      "confidence": 0.2,
+      "bbox": [
+        65,
+        809,
+        121,
+        819
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.87,
+      "bbox": [
+        92,
+        807,
+        96,
+        820
+      ]
+    },
+    {
+      "text": "black",
+      "confidence": 0.65,
+      "bbox": [
+        99,
+        809,
+        121,
+        819
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.51,
+      "bbox": [
+        125,
+        807,
+        129,
+        820
+      ]
+    },
+    {
+      "text": "60500",
+      "confidence": 0.51,
+      "bbox": [
+        131,
+        807,
+        153,
+        820
+      ]
+    },
+    {
+      "text": "|M8",
+      "confidence": 0.26,
+      "bbox": [
+        157,
+        808,
+        173,
+        818
+      ]
+    },
+    {
+      "text": "F",
+      "confidence": 0.92,
+      "bbox": [
+        179,
+        808,
+        183,
+        817
+      ]
+    },
+    {
+      "text": "Re",
+      "confidence": 0.17,
+      "bbox": [
+        2,
+        821,
+        20,
+        827
+      ]
+    },
+    {
+      "text": "(8-266",
+      "confidence": 0.63,
+      "bbox": [
+        63,
+        818,
+        88,
+        834
+      ]
+    },
+    {
+      "text": "|Drange|",
+      "confidence": 0.18,
+      "bbox": [
+        92,
+        818,
+        127,
+        834
+      ]
+    },
+    {
+      "text": "61000",
+      "confidence": 0.94,
+      "bbox": [
+        129,
+        821,
+        158,
+        831
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.31,
+      "bbox": [
+        157,
+        818,
+        161,
+        834
+      ]
+    },
+    {
+      "text": "MS",
+      "confidence": 0.31,
+      "bbox": [
+        163,
+        820,
+        165,
+        824
+      ]
+    },
+    {
+      "text": "F",
+      "confidence": 0.91,
+      "bbox": [
+        171,
+        821,
+        183,
+        831
+      ]
+    },
+    {
+      "text": "Red",
+      "confidence": 0.96,
+      "bbox": [
+        5,
+        833,
+        21,
+        838
+      ]
+    },
+    {
+      "text": "DC",
+      "confidence": 0.44,
+      "bbox": [
+        49,
+        831,
+        54,
+        835
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.68,
+      "bbox": [
+        62,
+        830,
+        66,
+        843
+      ]
+    },
+    {
+      "text": "s-256",
+      "confidence": 0.26,
+      "bbox": [
+        65,
+        831,
+        119,
+        842
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.26,
+      "bbox": [
+        93,
+        830,
+        97,
+        843
+      ]
+    },
+    {
+      "text": "Blue",
+      "confidence": 0.6,
+      "bbox": [
+        101,
+        831,
+        119,
+        842
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.6,
+      "bbox": [
+        125,
+        830,
+        129,
+        843
+      ]
+    },
+    {
+      "text": "***",
+      "confidence": 0.6,
+      "bbox": [
+        136,
+        833,
+        145,
+        835
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.49,
+      "bbox": [
+        169,
+        830,
+        174,
+        840
+      ]
+    },
+    {
+      "text": "F",
+      "confidence": 0.49,
+      "bbox": [
+        179,
+        831,
+        184,
+        840
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.63,
+      "bbox": [
+        2,
+        842,
+        126,
+        853
+      ]
+    },
+    {
+      "text": "15C",
+      "confidence": 0.87,
+      "bbox": [
+        41,
+        841,
+        57,
+        856
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.85,
+      "bbox": [
+        62,
+        841,
+        64,
+        856
+      ]
+    },
+    {
+      "text": "4-128",
+      "confidence": 0.85,
+      "bbox": [
+        69,
+        841,
+        89,
+        856
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.85,
+      "bbox": [
+        93,
+        841,
+        98,
+        856
+      ]
+    },
+    {
+      "text": "Biack",
+      "confidence": 0.61,
+      "bbox": [
+        100,
+        841,
+        122,
+        856
+      ]
+    },
+    {
+      "text": "|51500|",
+      "confidence": 0.61,
+      "bbox": [
+        129,
+        844,
+        153,
+        851
+      ]
+    },
+    {
+      "text": "Ma",
+      "confidence": 0.08,
+      "bbox": [
+        173,
+        842,
+        182,
+        849
+      ]
+    },
+    {
+      "text": "Red",
+      "confidence": 0.96,
+      "bbox": [
+        5,
+        856,
+        21,
+        861
+      ]
+    },
+    {
+      "text": "At",
+      "confidence": 0.45,
+      "bbox": [
+        49,
+        854,
+        54,
+        860
+      ]
+    },
+    {
+      "text": "64800",
+      "confidence": 0.68,
+      "bbox": [
+        129,
+        856,
+        158,
+        863
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.83,
+      "bbox": [
+        156,
+        852,
+        160,
+        866
+      ]
+    },
+    {
+      "text": "X7",
+      "confidence": 0.83,
+      "bbox": [
+        164,
+        854,
+        166,
+        856
+      ]
+    },
+    {
+      "text": "p",
+      "confidence": 0.89,
+      "bbox": [
+        179,
+        856,
+        184,
+        865
+      ]
+    },
+    {
+      "text": "FRedmi",
+      "confidence": 0.07,
+      "bbox": [
+        0,
+        852,
+        37,
+        882
+      ]
+    },
+    {
+      "text": "146",
+      "confidence": 0.78,
+      "bbox": [
+        44,
+        852,
+        59,
+        882
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.78,
+      "bbox": [
+        62,
+        852,
+        67,
+        882
+      ]
+    },
+    {
+      "text": "ease",
+      "confidence": 0.3,
+      "bbox": [
+        72,
+        852,
+        89,
+        882
+      ]
+    },
+    {
+      "text": "Purple",
+      "confidence": 0.42,
+      "bbox": [
+        96,
+        852,
+        126,
+        882
+      ]
+    },
+    {
+      "text": "sio00|",
+      "confidence": 0.01,
+      "bbox": [
+        131,
+        852,
+        159,
+        882
+      ]
+    },
+    {
+      "text": "XT",
+      "confidence": 0.37,
+      "bbox": [
+        163,
+        852,
+        171,
+        882
+      ]
+    },
+    {
+      "text": "f",
+      "confidence": 0.33,
+      "bbox": [
+        178,
+        865,
+        183,
+        874
+      ]
+    },
+    {
+      "text": "|Redmi",
+      "confidence": 0.76,
+      "bbox": [
+        2,
+        877,
+        95,
+        887
+      ]
+    },
+    {
+      "text": "14C",
+      "confidence": 0.55,
+      "bbox": [
+        31,
+        875,
+        44,
+        891
+      ]
+    },
+    {
+      "text": "NFC|",
+      "confidence": 0.74,
+      "bbox": [
+        47,
+        875,
+        66,
+        891
+      ]
+    },
+    {
+      "text": "8-256",
+      "confidence": 0.29,
+      "bbox": [
+        69,
+        875,
+        89,
+        891
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.29,
+      "bbox": [
+        93,
+        875,
+        98,
+        891
+      ]
+    },
+    {
+      "text": "Biue",
+      "confidence": 0.84,
+      "bbox": [
+        101,
+        879,
+        119,
+        888
+      ]
+    },
+    {
+      "text": "|66000",
+      "confidence": 0.57,
+      "bbox": [
+        124,
+        875,
+        153,
+        891
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.82,
+      "bbox": [
+        157,
+        880,
+        158,
+        883
+      ]
+    },
+    {
+      "text": "X7",
+      "confidence": 0.82,
+      "bbox": [
+        164,
+        877,
+        166,
+        878
+      ]
+    },
+    {
+      "text": "p",
+      "confidence": 0.9,
+      "bbox": [
+        176,
+        879,
+        184,
+        888
+      ]
+    },
+    {
+      "text": "|Redmil",
+      "confidence": 0.08,
+      "bbox": [
+        2,
+        888,
+        94,
+        899
+      ]
+    },
+    {
+      "text": "140",
+      "confidence": 0.83,
+      "bbox": [
+        32,
+        886,
+        44,
+        903
+      ]
+    },
+    {
+      "text": "NFC|",
+      "confidence": 0.41,
+      "bbox": [
+        47,
+        886,
+        64,
+        903
+      ]
+    },
+    {
+      "text": "8-285",
+      "confidence": 0.58,
+      "bbox": [
+        68,
+        886,
+        87,
+        903
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.94,
+      "bbox": [
+        92,
+        886,
+        96,
+        903
+      ]
+    },
+    {
+      "text": "black",
+      "confidence": 0.92,
+      "bbox": [
+        99,
+        890,
+        121,
+        897
+      ]
+    },
+    {
+      "text": "|65000",
+      "confidence": 0.59,
+      "bbox": [
+        129,
+        890,
+        153,
+        897
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.76,
+      "bbox": [
+        156,
+        886,
+        160,
+        903
+      ]
+    },
+    {
+      "text": "X4",
+      "confidence": 0.76,
+      "bbox": [
+        164,
+        887,
+        172,
+        894
+      ]
+    },
+    {
+      "text": "p",
+      "confidence": 0.86,
+      "bbox": [
+        180,
+        892,
+        183,
+        895
+      ]
+    },
+    {
+      "text": "IRedmi",
+      "confidence": 0.43,
+      "bbox": [
+        2,
+        899,
+        121,
+        910
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.22,
+      "bbox": [
+        41,
+        898,
+        54,
+        913
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.84,
+      "bbox": [
+        62,
+        898,
+        64,
+        913
+      ]
+    },
+    {
+      "text": "9-256",
+      "confidence": 0.61,
+      "bbox": [
+        69,
+        898,
+        89,
+        913
+      ]
+    },
+    {
+      "text": "|creen",
+      "confidence": 0.52,
+      "bbox": [
+        93,
+        898,
+        121,
+        913
+      ]
+    },
+    {
+      "text": "|55200",
+      "confidence": 0.0,
+      "bbox": [
+        129,
+        901,
+        158,
+        909
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.0,
+      "bbox": [
+        156,
+        898,
+        163,
+        913
+      ]
+    },
+    {
+      "text": "X",
+      "confidence": 0.77,
+      "bbox": [
+        171,
+        899,
+        173,
+        901
+      ]
+    },
+    {
+      "text": "Recim",
+      "confidence": 0.37,
+      "bbox": [
+        5,
+        928,
+        31,
+        933
+      ]
+    },
+    {
+      "text": "(8-256",
+      "confidence": 0.18,
+      "bbox": [
+        65,
+        922,
+        95,
+        933
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.92,
+      "bbox": [
+        92,
+        920,
+        97,
+        937
+      ]
+    },
+    {
+      "text": "Black|65900|",
+      "confidence": 0.34,
+      "bbox": [
+        101,
+        924,
+        153,
+        931
+      ]
+    },
+    {
+      "text": "NV",
+      "confidence": 0.23,
+      "bbox": [
+        177,
+        922,
+        184,
+        931
+      ]
+    },
+    {
+      "text": "Radmi",
+      "confidence": 0.35,
+      "bbox": [
+        2,
+        933,
+        125,
+        945
+      ]
+    },
+    {
+      "text": "43x",
+      "confidence": 0.33,
+      "bbox": [
+        41,
+        932,
+        57,
+        947
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.93,
+      "bbox": [
+        62,
+        932,
+        66,
+        947
+      ]
+    },
+    {
+      "text": "8-256",
+      "confidence": 0.08,
+      "bbox": [
+        69,
+        932,
+        89,
+        947
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.48,
+      "bbox": [
+        93,
+        932,
+        96,
+        947
+      ]
+    },
+    {
+      "text": "Biue",
+      "confidence": 0.74,
+      "bbox": [
+        101,
+        932,
+        119,
+        947
+      ]
+    },
+    {
+      "text": "[66000",
+      "confidence": 0.09,
+      "bbox": [
+        129,
+        936,
+        153,
+        942
+      ]
+    },
+    {
+      "text": "V",
+      "confidence": 0.51,
+      "bbox": [
+        180,
+        934,
+        183,
+        938
+      ]
+    },
+    {
+      "text": "Recmi",
+      "confidence": 0.55,
+      "bbox": [
+        0,
+        940,
+        37,
+        960
+      ]
+    },
+    {
+      "text": "43x",
+      "confidence": 0.69,
+      "bbox": [
+        42,
+        940,
+        57,
+        960
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.92,
+      "bbox": [
+        62,
+        940,
+        67,
+        960
+      ]
+    },
+    {
+      "text": "®28",
+      "confidence": 0.4,
+      "bbox": [
+        70,
+        940,
+        87,
+        960
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.93,
+      "bbox": [
+        94,
+        940,
+        97,
+        960
+      ]
+    },
+    {
+      "text": "Gold",
+      "confidence": 0.7,
+      "bbox": [
+        102,
+        940,
+        120,
+        960
+      ]
+    },
+    {
+      "text": "|6e000",
+      "confidence": 0.0,
+      "bbox": [
+        125,
+        940,
+        154,
+        960
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.46,
+      "bbox": [
+        157,
+        940,
+        160,
+        960
+      ]
+    },
+    {
+      "text": "C8!",
+      "confidence": 0.78,
+      "bbox": [
+        176,
+        947,
+        184,
+        954
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.38,
+      "bbox": [
+        0,
+        955,
+        6,
+        970
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 0.01,
+      "bbox": [
+        17,
+        962,
+        17,
+        965
+      ]
+    },
+    {
+      "text": "mre",
+      "confidence": 0.56,
+      "bbox": [
+        31,
+        955,
+        48,
+        970
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.0,
+      "bbox": [
+        58,
+        955,
+        67,
+        970
+      ]
+    },
+    {
+      "text": "4-128",
+      "confidence": 0.0,
+      "bbox": [
+        68,
+        955,
+        89,
+        970
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.8,
+      "bbox": [
+        92,
+        955,
+        96,
+        970
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.94,
+      "bbox": [
+        98,
+        958,
+        121,
+        965
+      ]
+    },
+    {
+      "text": "x",
+      "confidence": 0.58,
+      "bbox": [
+        176,
+        958,
+        184,
+        965
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.76,
+      "bbox": [
+        0,
+        978,
+        7,
+        993
+      ]
+    },
+    {
+      "text": "AZ",
+      "confidence": 0.43,
+      "bbox": [
+        15,
+        978,
+        25,
+        993
+      ]
+    },
+    {
+      "text": "nro",
+      "confidence": 0.61,
+      "bbox": [
+        30,
+        978,
+        47,
+        993
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.72,
+      "bbox": [
+        58,
+        978,
+        66,
+        993
+      ]
+    },
+    {
+      "text": "4-64",
+      "confidence": 0.66,
+      "bbox": [
+        71,
+        978,
+        87,
+        993
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.66,
+      "bbox": [
+        92,
+        978,
+        96,
+        993
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.95,
+      "bbox": [
+        99,
+        981,
+        121,
+        987
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.36,
+      "bbox": [
+        124,
+        978,
+        128,
+        993
+      ]
+    },
+    {
+      "text": "40900",
+      "confidence": 0.36,
+      "bbox": [
+        129,
+        981,
+        153,
+        988
+      ]
+    },
+    {
+      "text": "Secdmi",
+      "confidence": 0.32,
+      "bbox": [
+        8,
+        1019,
+        35,
+        1024
+      ]
+    },
+    {
+      "text": "£",
+      "confidence": 0.8,
+      "bbox": [
+        46,
+        1019,
+        48,
+        1021
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.63,
+      "bbox": [
+        63,
+        1012,
+        67,
+        1026
+      ]
+    },
+    {
+      "text": "4-128",
+      "confidence": 0.34,
+      "bbox": [
+        69,
+        1012,
+        87,
+        1026
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.34,
+      "bbox": [
+        91,
+        1012,
+        96,
+        1026
+      ]
+    },
+    {
+      "text": "Biue",
+      "confidence": 0.84,
+      "bbox": [
+        101,
+        1015,
+        119,
+        1022
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.42,
+      "bbox": [
+        124,
+        1013,
+        129,
+        1026
+      ]
+    },
+    {
+      "text": "45000",
+      "confidence": 0.42,
+      "bbox": [
+        129,
+        1015,
+        153,
+        1022
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.82,
+      "bbox": [
+        0,
+        1034,
+        5,
+        1050
+      ]
+    },
+    {
+      "text": "Redmi",
+      "confidence": 0.79,
+      "bbox": [
+        2,
+        1036,
+        94,
+        1047
+      ]
+    },
+    {
+      "text": "AS",
+      "confidence": 0.75,
+      "bbox": [
+        45,
+        1034,
+        55,
+        1050
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.7,
+      "bbox": [
+        60,
+        1034,
+        66,
+        1050
+      ]
+    },
+    {
+      "text": "3-64",
+      "confidence": 0.7,
+      "bbox": [
+        70,
+        1034,
+        86,
+        1050
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.41,
+      "bbox": [
+        90,
+        1034,
+        96,
+        1050
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.92,
+      "bbox": [
+        99,
+        1038,
+        121,
+        1045
+      ]
+    },
+    {
+      "text": "|39000",
+      "confidence": 0.9,
+      "bbox": [
+        129,
+        1038,
+        153,
+        1045
+      ]
+    },
+    {
+      "text": "esi",
+      "confidence": 0.22,
+      "bbox": [
+        0,
+        1057,
+        35,
+        1087
+      ]
+    },
+    {
+      "text": "star",
+      "confidence": 0.23,
+      "bbox": [
+        47,
+        1059,
+        153,
+        1081
+      ]
+    },
+    {
+      "text": "won",
+      "confidence": 0.42,
+      "bbox": [
+        104,
+        1057,
+        122,
+        1087
+      ]
+    },
+    {
+      "text": "(20000",
+      "confidence": 0.48,
+      "bbox": [
+        126,
+        1057,
+        154,
+        1087
+      ]
+    },
+    {
+      "text": "Som",
+      "confidence": 0.42,
+      "bbox": [
+        159,
+        1059,
+        176,
+        1067
+      ]
+    },
+    {
+      "text": "Redint",
+      "confidence": 0.78,
+      "bbox": [
+        2,
+        1068,
+        25,
+        1082
+      ]
+    },
+    {
+      "text": "AS",
+      "confidence": 0.65,
+      "bbox": [
+        29,
+        1068,
+        35,
+        1082
+      ]
+    },
+    {
+      "text": "3384",
+      "confidence": 0.16,
+      "bbox": [
+        41,
+        1068,
+        60,
+        1082
+      ]
+    },
+    {
+      "text": "Green",
+      "confidence": 0.92,
+      "bbox": [
+        100,
+        1073,
+        122,
+        1078
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.78,
+      "bbox": [
+        124,
+        1068,
+        128,
+        1082
+      ]
+    },
+    {
+      "text": "40000",
+      "confidence": 0.78,
+      "bbox": [
+        131,
+        1068,
+        152,
+        1082
+      ]
+    },
+    {
+      "text": "|Spari",
+      "confidence": 0.29,
+      "bbox": [
+        157,
+        1068,
+        179,
+        1082
+      ]
+    },
+    {
+      "text": "sarin’",
+      "confidence": 0.22,
+      "bbox": [
+        0,
+        1080,
+        25,
+        1095
+      ]
+    },
+    {
+      "text": "AS",
+      "confidence": 0.88,
+      "bbox": [
+        28,
+        1080,
+        38,
+        1095
+      ]
+    },
+    {
+      "text": "Du",
+      "confidence": 0.24,
+      "bbox": [
+        42,
+        1080,
+        58,
+        1095
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.5,
+      "bbox": [
+        63,
+        1080,
+        66,
+        1095
+      ]
+    },
+    {
+      "text": "4-128",
+      "confidence": 0.5,
+      "bbox": [
+        69,
+        1080,
+        89,
+        1095
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.9,
+      "bbox": [
+        92,
+        1080,
+        96,
+        1095
+      ]
+    },
+    {
+      "text": "Black",
+      "confidence": 0.91,
+      "bbox": [
+        101,
+        1080,
+        122,
+        1095
+      ]
+    },
+    {
+      "text": "|40000",
+      "confidence": 0.89,
+      "bbox": [
+        129,
+        1082,
+        181,
+        1090
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.95,
+      "bbox": [
+        156,
+        1080,
+        161,
+        1095
+      ]
+    },
+    {
+      "text": "TCL",
+      "confidence": 0.96,
+      "bbox": [
+        165,
+        1082,
+        181,
+        1090
+      ]
+    },
+    {
+      "text": "teres",
+      "confidence": 0.34,
+      "bbox": [
+        4,
+        1094,
+        60,
+        1100
+      ]
+    },
+    {
+      "text": "BS",
+      "confidence": 0.62,
+      "bbox": [
+        28,
+        1093,
+        37,
+        1101
+      ]
+    },
+    {
+      "text": "te",
+      "confidence": 0.39,
+      "bbox": [
+        43,
+        1093,
+        56,
+        1101
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.7,
+      "bbox": [
+        64,
+        1093,
+        66,
+        1101
+      ]
+    },
+    {
+      "text": "4-198",
+      "confidence": 0.46,
+      "bbox": [
+        68,
+        1095,
+        89,
+        1101
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.88,
+      "bbox": [
+        93,
+        1093,
+        97,
+        1101
+      ]
+    },
+    {
+      "text": "Rivne",
+      "confidence": 0.74,
+      "bbox": [
+        101,
+        1095,
+        119,
+        1101
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 0.83,
+      "bbox": [
+        124,
+        1093,
+        128,
+        1101
+      ]
+    },
+    {
+      "text": "40000",
+      "confidence": 0.83,
+      "bbox": [
+        130,
+        1093,
+        153,
+        1101
+      ]
+    },
+    {
+      "text": "Vocal",
+      "confidence": 0.73,
+      "bbox": [
+        159,
+        1093,
+        182,
+        1101
+      ]
+    }
+  ]
+}

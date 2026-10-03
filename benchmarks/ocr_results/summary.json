@@ -1,0 +1,58 @@
+[
+  {
+    "image_id": "1000015278.jpg",
+    "supplier_id": "fardadhamrah",
+    "region": "xiaomi",
+    "bbox": [
+      150,
+      180,
+      390,
+      980
+    ],
+    "engine": "tesseract",
+    "token_count": 559,
+    "mean_confidence": 0.615
+  },
+  {
+    "image_id": "1000015271.jpg",
+    "supplier_id": "ani_mob",
+    "region": "xiaomi",
+    "bbox": [
+      0,
+      153,
+      234,
+      1049
+    ],
+    "engine": "tesseract",
+    "token_count": 157,
+    "mean_confidence": 0.4035
+  },
+  {
+    "image_id": "1000015279.jpg",
+    "supplier_id": "alerasolshop",
+    "region": "xiaomi",
+    "bbox": [
+      0,
+      77,
+      184,
+      1101
+    ],
+    "engine": "tesseract",
+    "token_count": 540,
+    "mean_confidence": 0.6191
+  },
+  {
+    "image_id": "1000015276.jpg",
+    "supplier_id": "mobile_hitech",
+    "region": "xiaomi",
+    "bbox": [
+      0,
+      134,
+      336,
+      1024
+    ],
+    "engine": "tesseract",
+    "token_count": 189,
+    "mean_confidence": 0.4651
+  }
+]
