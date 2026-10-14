@@ -17,7 +17,7 @@ OUT = ROOT / "benchmarks" / "segmentation"
 def to_bbox(image_path: Path, values: list[float]) -> BBox:
     image = cv2.imread(str(image_path))
     h, w = image.shape[:2]
-    return BBox(int(values[0] * w), int(values[1] * h), int(values[2] * w), int(values[3] * h))
+    return BBox(int(round(values[0] * w)), int(round(values[1] * h)), int(round(values[2] * w)), int(round(values[3] * h)))
 
 
 def main() -> None:
@@ -28,10 +28,14 @@ def main() -> None:
     summary = []
     for filename, profile in profiles.items():
         image_path = FIXTURES / filename
+        schemas = profile.get("schemas", {})
         for region_name, normalized in profile["regions"].items():
+            schema = schemas.get(region_name, {})
             raw_region = to_bbox(image_path, normalized)
-            region = refine_region_to_grid(image_path, raw_region)
-            seg = segment_table(image_path, region=region)
+            snap = schema.get("snap_to_grid", True)
+            region = refine_region_to_grid(image_path, raw_region) if snap else raw_region
+            splits = tuple(schema.get("column_splits", ())) or None
+            seg = segment_table(image_path, region=region, column_splits=splits)
             payload = {
                 "image_id": filename,
                 "supplier_id": profile["supplier_id"],

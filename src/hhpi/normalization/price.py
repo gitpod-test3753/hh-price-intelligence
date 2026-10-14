@@ -14,16 +14,16 @@ _MARKERS = {
     "***": Availability.UNPRICED,
     "****": Availability.UNPRICED,
     "-": Availability.UNPRICED,
+    "--": Availability.UNPRICED,
+    "---": Availability.UNPRICED,
+    "----": Availability.UNPRICED,
+    "بدون کد": Availability.UNPRICED,
+    "شرکتی": Availability.UNPRICED,
 }
 
 
 def _expand_market_range(left: int, right: int) -> tuple[int, int]:
-    """Expand supplier shorthand like `149000-150` to `149000-150000`.
-
-    Iranian wholesale lists often omit trailing zeros from the second endpoint when both values are
-    expressed in thousands of toman. This function is deliberately conservative: expansion is only
-    applied when the left endpoint is >= 10,000 and the right endpoint is < 1,000.
-    """
+    """Expand supplier shorthand like `149000-150` to `149000-150000`."""
     if left >= 10_000 and 0 < right < 1_000:
         right *= 1_000
     return left, right
@@ -37,10 +37,11 @@ def parse_price(
     expand_market_shorthand: bool = True,
 ) -> PriceValue:
     text = normalize_text(raw).strip().lower()
-    if text in _MARKERS:
+    if text in _MARKERS or re.fullmatch(r"[\*\-\.]{2,}", text):
+        marker = _MARKERS.get(text, Availability.UNPRICED)
         return PriceValue(
             raw=raw,
-            availability=_MARKERS[text],
+            availability=marker,
             basis=basis or PriceBasis.UNKNOWN,
         )
 

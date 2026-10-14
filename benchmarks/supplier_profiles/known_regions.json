@@ -2,25 +2,61 @@
   "1000015278.jpg": {
     "supplier_id": "fardadhamrah",
     "regions": {
-      "xiaomi": [0.2646, 0.1406, 0.6878, 0.7656]
+      "xiaomi": [0.3351, 0.2172, 0.6243, 0.7555]
+    },
+    "schemas": {
+      "xiaomi": {
+        "roles": ["model", "price", "color"],
+        "column_splits": [0.4756, 0.8415],
+        "scale_toman": 1000,
+        "price_basis": "range",
+        "snap_to_grid": true
+      }
     }
   },
   "1000015271.jpg": {
     "supplier_id": "ani_mob",
     "regions": {
-      "xiaomi": [0.0000, 0.1200, 0.2700, 0.8200]
+      "xiaomi": [0.0173, 0.1220, 0.2771, 0.9601]
+    },
+    "schemas": {
+      "xiaomi": {
+        "roles": ["model", "memory", "price", "color"],
+        "column_splits": [],
+        "scale_toman": 1000,
+        "price_basis": "single",
+        "snap_to_grid": true
+      }
     }
   },
   "1000015279.jpg": {
     "supplier_id": "alerasolshop",
     "regions": {
-      "xiaomi": [0.0000, 0.0600, 0.2850, 0.8600]
+      "xiaomi": [0.0031, 0.0594, 0.2453, 0.8594]
+    },
+    "schemas": {
+      "xiaomi": {
+        "roles": ["model", "memory", "color", "price"],
+        "column_splits": [],
+        "scale_toman": 1000,
+        "price_basis": "single",
+        "snap_to_grid": false
+      }
     }
   },
   "1000015276.jpg": {
     "supplier_id": "mobile_hitech",
     "regions": {
       "xiaomi": [0.0000, 0.1050, 0.3350, 0.8000]
+    },
+    "schemas": {
+      "xiaomi": {
+        "roles": ["model", "color", "cash", "credit"],
+        "column_splits": [],
+        "scale_toman": 1000,
+        "price_basis": "cash",
+        "snap_to_grid": true
+      }
     }
   }
 }

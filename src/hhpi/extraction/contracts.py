@@ -22,6 +22,12 @@ class OCRPage:
     raw_text: str | None = None
     metadata: dict = field(default_factory=dict)
 
+    @property
+    def mean_confidence(self) -> float:
+        if not self.tokens:
+            return 0.0
+        return round(sum(t.confidence for t in self.tokens) / len(self.tokens), 4)
+
 
 class OCREngine(Protocol):
     name: str

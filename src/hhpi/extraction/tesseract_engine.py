@@ -1,7 +1,9 @@
 from __future__ import annotations
 
-import shutil
+from functools import lru_cache
+import os
 from pathlib import Path
+import shutil
 
 import pytesseract
 from pytesseract import Output
@@ -10,13 +12,28 @@ from hhpi.layout.models import BBox
 from .contracts import OCRPage, OCRToken
 from .preprocess import PreprocessOptions, preprocess_for_ocr
 
+# Prevent OpenMP thread spinning inside Tesseract 5 on small cell crops (4x-8x faster per call).
+os.environ.setdefault("OMP_THREAD_LIMIT", "1")
+
+
+@lru_cache(maxsize=1)
+def _cached_installed_languages() -> tuple[str, ...]:
+    try:
+        return tuple(sorted(str(x) for x in pytesseract.get_languages(config="")))
+    except Exception:
+        return ()
+
+
+@lru_cache(maxsize=1)
+def _cached_tesseract_version() -> str:
+    try:
+        return str(pytesseract.get_tesseract_version())
+    except Exception:
+        return "unknown"
+
 
 class TesseractEngine:
-    """Local Apache-2.0 OCR baseline/fallback for Persian + English.
-
-    Dense competitor sheets are deliberately cropped/upscaled before recognition. Full-page Tesseract
-    on multi-column price lists is materially worse than supplier/brand-region OCR.
-    """
+    """Local Apache-2.0 OCR baseline/fallback for Persian + English."""
 
     name = "tesseract"
 
@@ -40,15 +57,13 @@ class TesseractEngine:
         return shutil.which("tesseract") is not None
 
     def installed_languages(self) -> tuple[str, ...]:
-        try:
-            return tuple(sorted(str(x) for x in pytesseract.get_languages(config="")))
-        except Exception:
-            return ()
+        return _cached_installed_languages()
 
     def extract(self, image_path: str | Path, *, region: BBox | None = None) -> OCRPage:
         if not self.is_available():
             raise RuntimeError("Tesseract binary is not installed")
-        missing = [lang for lang in self.languages.split("+") if lang not in self.installed_languages()]
+        installed = self.installed_languages()
+        missing = [lang for lang in self.languages.split("+") if lang not in installed]
         if missing:
             raise RuntimeError(f"Missing Tesseract language data: {', '.join(missing)}")
 
@@ -64,6 +79,8 @@ class TesseractEngine:
 
         tokens: list[OCRToken] = []
         raw_parts: list[str] = []
+        pad_offset = float(self.preprocess.pad_px) if self.preprocess.pad_px > 0 else 0.0
+        pad_offset_x = float(self.preprocess.pad_px + 4) if self.preprocess.pad_px > 0 else 0.0
         for i, text in enumerate(data.get("text", [])):
             text = (text or "").strip()
             if not text:
@@ -73,8 +90,8 @@ class TesseractEngine:
             except (TypeError, ValueError, KeyError):
                 conf_raw = -1.0
             confidence = max(0.0, min(1.0, conf_raw / 100.0))
-            left = float(data["left"][i]) / scale + ox
-            top = float(data["top"][i]) / scale + oy
+            left = max(0.0, float(data["left"][i]) - pad_offset_x) / scale + ox
+            top = max(0.0, float(data["top"][i]) - pad_offset) / scale + oy
             width = float(data["width"][i]) / scale
             height = float(data["height"][i]) / scale
             tokens.append(
@@ -96,7 +113,7 @@ class TesseractEngine:
                 "psm": self.psm,
                 "oem": self.oem,
                 "preprocess": self.preprocess.__dict__,
-                "tesseract_version": str(pytesseract.get_tesseract_version()),
+                "tesseract_version": _cached_tesseract_version(),
                 "region": region.as_tuple() if region else None,
                 "extra_config": self.extra_config,
             },

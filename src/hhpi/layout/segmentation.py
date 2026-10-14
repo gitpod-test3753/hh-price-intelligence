@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from dataclasses import asdict, dataclass
+from dataclasses import dataclass
 from pathlib import Path
 
 import cv2
@@ -20,6 +20,7 @@ class SegmentConfig:
     edge_snap_px: int = 4
     row_padding_px: int = 1
     cell_padding_px: int = 1
+    split_tall_rows: bool = True
 
 
 @dataclass(frozen=True)
@@ -89,7 +90,6 @@ def _clip_region(image: np.ndarray, region: BBox | None) -> tuple[np.ndarray, BB
 
 def _binary(crop: np.ndarray) -> np.ndarray:
     gray = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)
-    # Adaptive threshold copes better with colored supplier sheets than a fixed threshold.
     return cv2.adaptiveThreshold(
         gray,
         255,
@@ -130,7 +130,6 @@ def _snap_edges(coords: tuple[int, ...], extent: int, snap_px: int) -> tuple[int
         vals.append(extent)
     elif extent - vals[-1] <= snap_px:
         vals[-1] = extent
-    # Keep only monotonic unique coordinates.
     out: list[int] = []
     for v in vals:
         v = max(0, min(extent, int(v)))
@@ -139,17 +138,71 @@ def _snap_edges(coords: tuple[int, ...], extent: int, snap_px: int) -> tuple[int
     return tuple(out)
 
 
+def _estimate_unit_row_height(ys: tuple[int, ...], min_row_px: int) -> float | None:
+    spans = sorted(b - a for a, b in zip(ys, ys[1:]) if min_row_px <= (b - a) <= 32)
+    if len(spans) < 5:
+        return None
+    # Use the 30th percentile of row spans to capture the true single-row pitch even when some blocks
+    # contain 2-4 unseparated rows.
+    idx = max(0, min(len(spans) - 1, int(len(spans) * 0.30)))
+    unit = float(spans[idx])
+    if unit < 8.0 or unit > 28.0:
+        return None
+    # Refining with the mean of spans within 25% of `unit` gives sub-pixel pitch accuracy.
+    near = [s for s in spans if 0.78 * unit <= s <= 1.22 * unit]
+    return sum(near) / len(near) if near else unit
+
+
+def _subdivide_tall_rows(
+    crop: np.ndarray,
+    ys: tuple[int, ...],
+    *,
+    source_y1: int,
+    min_row_px: int,
+) -> tuple[int, ...]:
+    """Subdivide multi-row blocks where horizontal borders were omitted or faint.
+
+    Suppliers like fardadhamrah and alerasolshop sometimes group same-model variants inside a single
+    bordered box without internal horizontal rules. When a block is an integer multiple (>=2x) of the
+    table's single-row height, we split at local ink valleys near the expected row pitch.
+    """
+    local_ys = tuple(y - source_y1 for y in ys)
+    unit = _estimate_unit_row_height(local_ys, min_row_px)
+    if unit is None:
+        return ys
+
+    gray = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY) if crop.ndim == 3 else crop
+    _, bw = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
+    row_ink = (bw > 0).sum(axis=1)
+    h = gray.shape[0]
+
+    refined: list[int] = [local_ys[0]]
+    for a, b in zip(local_ys, local_ys[1:]):
+        span = b - a
+        n_rows = int(round(span / unit))
+        if n_rows >= 2 and abs(span - n_rows * unit) <= max(4.0, 0.22 * n_rows * unit):
+            for k in range(1, n_rows):
+                expected = int(round(a + span * k / n_rows))
+                lo = max(a + min_row_px, expected - 2)
+                hi = min(b - min_row_px, expected + 2)
+                if lo <= hi and hi < h:
+                    best = min(range(lo, hi + 1), key=lambda y: int(row_ink[y]))
+                else:
+                    best = expected
+                if best > refined[-1] + min_row_px - 1 and b - best >= min_row_px - 1:
+                    refined.append(best)
+        refined.append(b)
+
+    return tuple(source_y1 + y for y in refined)
+
+
 def detect_grid_separators(
     image_path: str | Path,
     *,
     region: BBox | None = None,
     config: SegmentConfig | None = None,
 ) -> tuple[tuple[int, ...], tuple[int, ...], BBox]:
-    """Return source-space horizontal and vertical separator coordinates.
-
-    The detector intentionally looks only for long rules. Short text strokes should not become row
-    boundaries. Coordinates are always mapped back to the original image so OCR evidence remains auditable.
-    """
+    """Return source-space horizontal and vertical separator coordinates."""
     config = config or SegmentConfig()
     image = _read(image_path)
     crop, source = _clip_region(image, region)
@@ -170,11 +223,12 @@ def detect_grid_separators(
     ys = _snap_edges(ys, h, config.edge_snap_px)
     xs = _snap_edges(xs, w, config.edge_snap_px)
 
-    return (
-        tuple(source.y1 + y for y in ys),
-        tuple(source.x1 + x for x in xs),
-        source,
-    )
+    abs_ys = tuple(source.y1 + y for y in ys)
+    abs_xs = tuple(source.x1 + x for x in xs)
+    if config.split_tall_rows and len(abs_ys) >= 6:
+        abs_ys = _subdivide_tall_rows(crop, abs_ys, source_y1=source.y1, min_row_px=config.min_row_px)
+
+    return abs_ys, abs_xs, source
 
 
 def _intervals(coords: tuple[int, ...], minimum: int) -> tuple[tuple[int, int], ...]:
@@ -190,20 +244,30 @@ def segment_table(
     *,
     region: BBox | None = None,
     config: SegmentConfig | None = None,
+    column_splits: tuple[float, ...] | None = None,
 ) -> TableSegmentation:
     config = config or SegmentConfig()
     ys, xs, source = detect_grid_separators(image_path, region=region, config=config)
+
+    if column_splits and len(xs) <= 2:
+        internal = [
+            source.x1 + int(round(r * source.width))
+            for r in column_splits
+            if 0.02 < r < 0.98
+        ]
+        xs = tuple(sorted({source.x1, *internal, source.x2}))
 
     row_intervals = _intervals(ys, config.min_row_px)
     col_intervals = _intervals(xs, config.min_col_px)
 
     rows: list[TableRow] = []
     for row_index, (y1, y2) in enumerate(row_intervals):
+        pad_bottom = config.row_padding_px if (y2 - y1) >= 16 else 0
         row_box = BBox(
             source.x1,
             min(y2 - 1, y1 + config.row_padding_px),
             source.x2,
-            max(y1 + 1, y2 - config.row_padding_px),
+            max(y1 + 1, y2 - pad_bottom),
         )
         cells: list[TableCell] = []
         for col_index, (x1, x2) in enumerate(col_intervals):
@@ -271,14 +335,9 @@ def refine_region_to_grid(
     image_path: str | Path,
     region: BBox,
     *,
-    max_snap_ratio: float = 0.28,
+    max_snap_ratio: float = 0.20,
 ) -> BBox:
-    """Snap approximate supplier-template x boundaries to strong full-page table rules.
-
-    Supplier profiles can be intentionally loose. Snapping only the left/right edges to nearby strong
-    vertical rules avoids bleeding neighboring brands into OCR while keeping the profile robust to small
-    template shifts. Y is deliberately preserved because section headers may not have full-width rules.
-    """
+    """Snap approximate supplier-template x boundaries to strong full-page table rules."""
     from .grid import profile_image
 
     profile = profile_image(image_path)
@@ -288,11 +347,14 @@ def refine_region_to_grid(
 
     max_dist = max(8, int(region.width * max_snap_ratio))
 
-    def snap(value: int) -> int:
+    def snap(value: int, *, is_left: bool) -> int:
+        # If the region already starts at the left/right border of the sheet, only allow tiny outer-border
+        # adjustments (<= 16px) so we never snap to an internal column divider and cut off the first column.
+        limit = 16 if (is_left and value <= 6) or (not is_left and value >= profile.width - 6) else max_dist
         nearest = min(candidates, key=lambda x: abs(x - value))
-        return int(nearest) if abs(nearest - value) <= max_dist else value
+        return int(nearest) if abs(nearest - value) <= limit else value
 
-    x1, x2 = snap(region.x1), snap(region.x2)
-    if x2 <= x1:
+    x1, x2 = snap(region.x1, is_left=True), snap(region.x2, is_left=False)
+    if x2 <= x1 or (x2 - x1) < int(region.width * 0.65):
         return region
     return BBox(x1, region.y1, x2, region.y2)

@@ -40,3 +40,19 @@ class StructuralProfile:
 
     def to_dict(self) -> dict:
         return asdict(self)
+
+
+@dataclass(frozen=True)
+class SupplierTemplateSchema:
+    supplier_id: str
+    region_name: str
+    bbox_norm: tuple[float, float, float, float]
+    roles: tuple[str, ...]
+    column_splits: tuple[float, ...] = ()
+    scale_toman: int = 1000
+    snap_to_grid: bool = True
+
+    def to_bbox(self, width: int, height: int) -> BBox:
+        x1, y1, x2, y2 = self.bbox_norm
+        return BBox(int(round(x1 * width)), int(round(y1 * height)), int(round(x2 * width)), int(round(y2 * height)))
+

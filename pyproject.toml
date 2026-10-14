@@ -27,6 +27,9 @@ ocr-easyocr = ["easyocr>=1.7.2"]
 ocr-rapidocr = ["rapidocr", "onnxruntime"]
 ocr-paddle = ["paddleocr>=3.0"]
 
+[tool.hatch.build.targets.wheel]
+packages = ["src/hhpi"]
+
 [tool.pytest.ini_options]
 pythonpath = ["src"]
 testpaths = ["tests"]
